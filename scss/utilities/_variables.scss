@@ -1,0 +1,71 @@
+// TIPOGRAFIA A UTILIZAR
+$font-tittle: 'Goodtimes', sans-serif;
+$font-main: 'Century', arial;
+$font-p:'Fontello', sans-serif;
+
+// TAMAÑO DE FUENTE
+// Desktop
+$font-size-h1-lg: 40px;
+$font-size-h2-lg: 30px;
+$font-size-p-lg:  18px;
+// Tablet (768 or Less)
+$font-size-h1-md: 30px;
+$font-size-h2-md: 25px;
+$font-size-p-md:  17px;
+// Mobile (576 or Less)
+$font-size-h1-sm: 25px;
+$font-size-h2-sm: 20px;
+$font-size-p-sm:  15px;
+$font-size-footer:13px;
+
+// VARIABLES LIGHT/DARK MODE
+:root{
+    //Light Mode Colors
+    --colors-li-nav:  rgb(9, 9, 119);
+    --colors-li-p:black;
+    --colors-li-titles: black;
+    --colors-li-brand: rgb(9, 9, 119);
+    --colors-li-active: #64ffda;
+    --colors-li-a: white;
+    --colors-li-header:rgb(230, 230, 230);
+    --colors-li-header-text: #5e5e5e;
+    --colors-li-section-odd: rgb(247, 247, 247);
+    --colors-li-section-even:rgb(230, 230, 230);
+
+    //Dark Mode Colors
+    --colors-drk-nav: #171717;
+    --colors-drk-p: #ccc;
+    --colors-drk-titles: #64ffda;
+    --colors-drk-brand: #171717;
+    --colors-drk-a: #999;
+    --colors-drk-header:#252525;
+    --colors-drk-header-text: white;
+    --colors-drk-section-odd: #373737;
+    --colors-drk-section-even:#444;
+
+    // Default Colors (Light Mode)
+    --colors-nav:  var(-colors-li-nav);
+    --colors-p: var(--colors-li-p);
+    --colors-titles: var(--colors-li-titles);
+    --colors-brand: var(--colors-li-brand);
+    --colors-active: var(--colors-li-active);
+    --colors-a: var(--colors-li-a);
+    --colors-header: var(--colors-li-header);
+    --colors-header-text: var(--colors-li-header-text);
+    --colors-section-odd: var(--colors-li-section-odd);
+    --colors-section-even: var(--colors-li-section-even);
+}
+
+//COLORES
+$colors:(
+    "p":var(--colors-p),
+    "titles": var(--colors-titles),
+    "nav": var(--colors-nav),
+    "brand": var(--colors-brand),
+    "active": var(--colors-active),
+    "a": var(--colors-a),
+    "header":var(--colors-header),
+    "header-text": var(--colors-header-text),
+    "section-odd":var(--colors-section-odd),
+    "section-even":var(--colors-section-even),
+);

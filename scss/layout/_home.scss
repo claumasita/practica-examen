@@ -1,0 +1,76 @@
+// Colors
+$color-primary-white: rgb(240, 240, 240);
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    // align-items: center;
+    padding: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card {
+    width: 350px;
+    // min-height: 25rem;
+    border-radius: 5px;
+    // overflow: hidden;
+    // cursor: pointer;
+    // position: relative;
+    // color: $color-primary-white;
+    color: black;
+    box-shadow: 0 10px 30px 5px rgba(0, 0, 0, 0.2);
+    // background-color: rgb(43, 43, 43);
+    background-color: white;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+    h2 {
+        // position: absolute;
+        // inset: auto auto 10px 10px;
+        margin: 0;
+        transition: inset .3s .3s ease-out;
+        font-family: 'Roboto Condensed', sans-serif;
+        font-weight: normal;
+        font-size: 15px;
+        text-transform: uppercase;
+
+        margin: 10px;
+    }
+
+    //Agregado por CM
+    p{
+        margin: 10px;
+        font-family: monospace;
+        font-size: 17px;
+    }
+
+    // p,
+    // a {
+    //     position: absolute;
+    //     opacity: 0;
+    //     max-width: 80%;
+    //     transition: opacity .3s ease-out;
+    // }
+
+    // p {
+    //     inset: auto auto 80px 30px;
+    // }
+
+    // &:hover h2 {
+    //     inset: auto auto 220px 30px;
+    //     transition: inset .3s ease-out;
+    // }
+
+    // &:hover p,
+    // &:hover a {
+    //     opacity: 1;
+    //     transition: opacity .5s .1s ease-in;
+    // }
+
+}
+
+// .material-symbols-outlined {
+//     vertical-align: middle;
+// }
