@@ -1,518 +1,278 @@
 [
  {
-  "pregunta": "¿Cómo están compuestas las actividades dentro del plan de métricas? Seleccioná dos opciones correctas.",
-  "respuesta": "Entregables. - Reuniones."
+  "pregunta": "“boolean miBooleano = true II___; Selecciona las opciones que hace que “miBooleano” tenga valor TRUE”",
+  "respuesta": "3>0  “5>4”  Boolean.FALSE   “string”   “test”.size() ==8"
  },
  {
-  "pregunta": "¿Cómo recuperar las propiedades CSS de un elemento?",
-  "respuesta": "driver.findElement (By.id ( \"id \")). GetCssValue ( \"name of css attribute\" ); driver.findElement (By.id ( \"id \")). getCssValue ( \"font-size\" );"
+  "pregunta": "“int miPrimerVariable = 2; Seleccione las opciones que describen correctamente el efecto de la línea de código anterior- ",
+  "respuesta": "SE ASIGNA EL VALOR 2 A UNA VARIABLE DE TIPO ENTERO-SE CREA UNA VARIABLE DE TIPO ENTERO"
  },
  {
-  "pregunta": "¿Cómo se comunican las redes de monitoreo dentro de los sistemas distribuidos masivos?",
-  "respuesta": "A través de nodos inalámbricos y alimentados por baterías."
+  "pregunta": "<….>código CSS<\/…> Es posible utilizar una etiqueta para embeber código CSS dentro de un archivo HTML. Elige la etiqueta a utilizar para poder realizar esta acción     ",
+  "respuesta": "style"
  },
  {
-  "pregunta": "¿Cómo se denomina a la prueba utilizada para encontrar el número de usuarios, peticiones o tiempos que la aplicación puede soportar?",
-  "respuesta": "Estrés."
+  "pregunta": "<……> Cuerpo de un archivo HTML <\/…….> Completa con la etiqueta usada para crear el cuerpo de un archivo HTML",
+  "respuesta": "BODY"
  },
  {
-  "pregunta": "¿Cómo se denomina el grupo que autoriza cambios que deben ser instalados más rápidamente que en un proceso normal?",
-  "respuesta": "Consejo consultor\/Comité para Cambios de Emergencias (ECAB)."
+  "pregunta": "…..<p>Soy un texto<a>super<\/a><\/p>…… Para el fragmento de código HTML anterior, indique cuales de las siguientes opciones son correctas     ",
+  "respuesta": "SE INDICA UN LINK-SE INDICA UN PARRAFO"
  },
  {
-  "pregunta": "¿Con que mides la usabilidad?",
-  "respuesta": "Medidas de rendimiento y subjetivas"
+  "pregunta": "A quien se le denomina servidor en la arquitectura cliente-servidor?",
+  "respuesta": "A QUIEN RESPONDE LAS SOLICITUDES DEL CLIENTE"
  },
  {
-  "pregunta": "¿Cuál de las siguientes actividades forma parte de un proceso de gestión de configuración dentro del ciclo de vida de un proyecto ágil?",
-  "respuesta": "Identificar los ítems de configuración."
- },
- {
-  "pregunta": "¿Cuál de las siguientes categorías es una herramienta de comparación de pruebas por lo general asociadas?",
-  "respuesta": "Herramienta de apoyo para la ejecución y el seguimiento."
- },
- {
-  "pregunta": "¿Cuál de las siguientes opciones corresponde a un tipo de escalabilidad?",
-  "respuesta": "Horizontal."
- },
- {
-  "pregunta": "¿Cuál de las siguientes opciones refiere a las pruebas unitarias?",
-  "respuesta": "Las pruebas unitarias consisten en aislar una parte del código y comprobar que funciona a la perfección."
- },
- {
-  "pregunta": "¿Cuál es el objetivo de la auditoría física?",
-  "respuesta": "Verificar la adecuación, completitud y presición de la documentación que constituye las líneas de base de diseño y de producto."
- },
- {
-  "pregunta": "¿Cuál es el objetivo de la auditoría funcional?",
-  "respuesta": "Comprobar que se han completado todos los test necesarios para el elemento de configuración auditado."
- },
- {
-  "pregunta": "¿Cuál es la mejor definición o enunciado que indique prueba completa?",
-  "respuesta": "Ha completado todas las pruebas en el plan de pruebas."
- },
- {
-  "pregunta": "¿Cuál es uno de los beneficios de las pruebas de automatización?",
-  "respuesta": "Sacar al mercado productos o mejoras de sus productos de forma rápida"
- },
- {
-  "pregunta": "¿Cuál es uno de los objetivos de la gestión de configuración y control de cambio?",
-  "respuesta": "Que se establezca un método progresivo para identificar y solicitar cambios a las líneas base del proyecto."
- },
- {
-  "pregunta": "¿Cuáles son las normas relacionadas con la gesón de la calidad en software?",
-  "respuesta": "ISO 9000; Tick IT (Inglaterra); CMMI (Estados Unidos); Bootstrap (Europa)M ISO\/SPICE (Australia)"
- },
- {
-  "pregunta": "¿Cuáles son los atributos que pertenecen a la calidad ISO?",
-  "respuesta": "Funcionalidad, confiabilidad, eficiencia, portabilidad"
- },
- {
-  "pregunta": "¿Cuáles son los tipos de sistemas distribuidos?",
-  "respuesta": "Sistemas distribuidos de computo, información y masivos."
- },
- {
-  "pregunta": "¿En qué condiciones sirven los \"casos de uso\" y se pueden utilizar para la prueba?",
-  "respuesta": "En las pruebas unitarias."
- },
- {
-  "pregunta": "¿Qué actividades incluye el despliegue de software en el entorno de producción?",
-  "respuesta": "Instalación, activación, desactivación."
- },
- {
-  "pregunta": "¿Qué afirmación es falsa respecto a subversión?",
-  "respuesta": "Usado para el desarrollo del kernel de Linux."
- },
- {
-  "pregunta": "¿Qué afirmaciones son correctas respecto a Git?",
-  "respuesta": "Cada operación se realiza en el repositorio local. - Desarrollado por Linus Torvalds en el año 2005. - Es multiplataforma."
- },
- {
-  "pregunta": "¿Qué comando se usa para tomar una versión del repositorio de versiones?",
-  "respuesta": "pull"
- },
- {
-  "pregunta": "¿Qué es el control de cambios?",
-  "respuesta": "Es una metodología que se utiliza para gestionar cualquier solicitud de cambio que afecte la línea base de su proyecto."
- },
- {
-  "pregunta": "¿Qué es Junit?",
-  "respuesta": "Junit es un marco de pruebas unitarias introducido por Apache, basado en Java."
- },
- {
-  "pregunta": "¿Qué es lo que debe evaluar en el esquema de Branch?",
-  "respuesta": "Es el directorio del repositorio con una derivación de la versión principal"
- },
- {
-  "pregunta": "¿Qué es un elemento?",
-  "respuesta": "Es la parte del producto final y que se selecciona para mantener bajo control toda su configuración."
- },
- {
-  "pregunta": "¿Qué es un framework?",
-  "respuesta": "Es la combinación constructiva de varias directrices, jerarquías de proyectos procesos estándares"
- },
- {
-  "pregunta": "¿Qué es un ítem de configuración?",
-  "respuesta": "Es todo o parte de un producto de trabajo (por ejemplo, un documento, todos los casos de prueba o un componente de programa nominado."
- },
- {
-  "pregunta": "¿Qué es un release?",
-  "respuesta": "Un release es una versión que se distribuye a los clientes."
- },
- {
-  "pregunta": "¿Qué es un sistema distribuido?",
-  "respuesta": "Aquel en el cual varios procesadores autónomos y repositorio de datos que soportan procesos y\/o base de datos, interactúan con el fin de cooperar para lograr un objetivo global."
- },
- {
-  "pregunta": "¿Qué función cumplen las revisiones de cambio?",
-  "respuesta": "Comprobar que los cambios aprobados sobre una línea base se han realizado correctamente."
- },
- {
-  "pregunta": "¿Qué herramienta nos permite escribir pruebas sobre un bloque de código, ejecutándose bajo un entorno de javascript sin necesidad de interferir en el IDE ni en la propia aplicación?",
-  "respuesta": "Framework de pruebas unitarias."
- },
- {
-  "pregunta": "¿Qué implica el control de gestión?",
-  "respuesta": "Implica un procedimiento de revisión y aprobación para cada cambio propuesto en la configuración."
- },
- {
-  "pregunta": "¿Qué objevo ene el modelo GILB?",
-  "respuesta": "Mejorar las práccas de implementación de redes de telecomunicación y desarrollo del soware."
- },
- {
-  "pregunta": "¿Qué permiten las métricas de calidad de software?",
-  "respuesta": "Monitorizar un producto para determinar su nivel de calidad."
- },
- {
-  "pregunta": "¿Qué práctica actualiza la información relacionada con los síntomas y el impacto comercial?",
-  "respuesta": "Gestión de incidente"
- },
- {
-  "pregunta": "¿Qué significan las siglas SGC?",
-  "respuesta": "Manual del sistema de gestion de la calidad"
- },
- {
-  "pregunta": "¿Qué sistema proporciona un enfoque gobernante para el soware de automazación de pruebas que habilita la ejecución del sistema necesario respecto a los aspectos claves?",
-  "respuesta": "Arquitectura de pruebas automazadas."
- },
- {
-  "pregunta": "¿Quiénes o qué marcan la calidad en la usabilidad de un software?",
-  "respuesta": "Usuarios."
- },
- {
-  "pregunta": "A la Empresa Y SA. llega el control de auditoría de las Normas IRAM y pregunta: \"El control de cambios es un mecanismo para la evaluación y aprobación de los cambios hechos a elementos de la configuración software durante el ciclo de vida. ¿Quién se encarga de aprobarlos?\"",
-  "respuesta": "El comité de control de cambios creando la orden de cambio."
- },
- {
-  "pregunta": "API interfaz de programación de aplicaciones, conocida también por la sigla API, en inglés, applicaon programming interface, es un método para distribuir aplicaciones a los clientes con frecuencia mediante el uso de la automazación en las etapas del desarrollo de aplicaciones.",
-  "respuesta": "Falso, ya que API es un conjunto de subrunas, funciones y procedimientos que ofrece cierta biblioteca para ser ulizado por otro soware como una capa de abstracción."
- },
- {
-  "pregunta": "Completá el enunciado. Adaptabilidad, exactitud y seguridad son características:",
-  "respuesta": "De funcionalidad."
- },
- {
-  "pregunta": "Completá el enunciado. Cada proceso tiene_____ que son utilizadas en el proceso y salidas o resultados de trabajo.",
-  "respuesta": "Entradas, herramientas y técnicas."
- },
- {
-  "pregunta": "Completá el enunciado. El armado de buenas pruebas del sistema debe investigar",
-  "respuesta": "Requisitos no funcionales y requisitos funcionales."
- },
- {
-  "pregunta": "Completá el enunciado. El comando ___ muestra cómo se encuentran los archivos de nuestro proyecto en relación al repositorio del servidor.",
-  "respuesta": "git status"
- },
- {
-  "pregunta": "Crearemos una carpeta llamada MiApp que contendrá el proyecto que tiene la siguiente estructura. En la carpeta src colocaremos todo el código de la aplicación y en la carpeta test el código de pruebas unitarias. Es correcta esta estructura MiApppp ├───src │ └───MiApp └───testing └───MiAppTest",
+  "pregunta": "boolean miPrimerBoolean = “false”; Indique si la asignación anterior es correcta   ",
   "respuesta": false
  },
  {
-  "pregunta": "Cuales son las medidas de la técnica de revision formal en la validación y verificación del software? Selecciona cuatro opciones correctas",
-  "respuesta": "Enuncie areas de problemas, pero no intente resolver cada uno; Establezca una agenda y sigala; Limite el debate y las contestaciones; Tome notas por escrito"
+  "pregunta": "Completa para crear el paquete “ar.teclab.ejemplo”: ___ar.teclab.ejemplo:  ",
+  "respuesta": "PACKAGE"
  },
  {
-  "pregunta": "Cuando dos o más tareas están sucediendo al mismo tiempo, en contexto con SCM significa que el mismo archivo está siendo editado por varias personas al mismo tiempo, ¿Cómo se llama a esto?",
-  "respuesta": "Gestión de concurrencia."
+  "pregunta": "Completar para que el método retorne “vacío”: public____metodoNuevo(); ",
+  "respuesta": "VOID"
  },
  {
-  "pregunta": "Cuando hablamos de un sistema distribuido, estamos haciendo referencia a que el mismo cuenta con las siguientes caracteristicas",
-  "respuesta": "Conjunto de procesadores conectados a una red; Están compuestos por diferentes nodos; Vista de sistema unico"
+  "pregunta": "Cuales de las siguientes estructuras permiten repetir la ejecución de un bloque de código?",
+  "respuesta": "FOR-WHILE"
  },
  {
-  "pregunta": "Cuando realizás una práctica de un respaldo, una retroalimentación, las quejas o felicitaciones, el responsable de auditoría interna te pide que muestres un formulario. ¿Cómo se identifica ese formulario?",
-  "respuesta": "Gestión de solicitudes de servicio."
+  "pregunta": "Dado el siguiente arreglo: int [ ] arr = new int[3]; ¿Cuál es el máximo índice al que podremos acceder?    ",
+  "respuesta": 2
  },
  {
-  "pregunta": "Cuando un usuario compra un producto en un sio web, se muestran los productos disponibles, etc., la aplicación responderá de una forma u otra según la hayamos programado, pero el código de las disntas lógicas de negocio (inventario, pagos, envíos) aunque puede estar separado en disntos módulos del código, finalmente se empaqueta en un único archivo ejecutable. ¿Cómo definirías esta aplicación?",
-  "respuesta": "Aplicación bajo una arquitectura monolíca"
- },
- {
-  "pregunta": "Dados las siguientes opciones, identifica una función dentro de la etapa de revisión de la auditoría",
-  "respuesta": "Validación de la configuración del software"
- },
- {
-  "pregunta": "Debemos capacitar a una empresa que está omplementando su sistema distribuido y dar una explicación puntual de lo que es el Middleware ya que hay muchas dudas entre los empleados. ¿Qué respuesta podrías dar para que todos puedan comprender sobre el tema?",
-  "respuesta": "Es un software que ofrece funcionalidades para que las aplicaciones se comuniquen entre sí."
- },
- {
-  "pregunta": "Dentro de las pruebas funcionales tenemos:",
-  "respuesta": "Pruebas unitarias, pruebas de aceptación, pruebas de integración, pruebas de regresión, pruebas de humo, pruebas de cordura, pruebas de componentes."
- },
- {
-  "pregunta": "Durante el registro de productos, se les asigna:",
-  "respuesta": "Nombre, versión, estado y localización."
- },
- {
-  "pregunta": "El manifiesto de las metodologías ágiles señala lo siguiente. Principios: 1, la prioridad principal es satisfacer al cliente mediante tempranas y continuas entregas del software que le reporten un valor; 2, dar la bienvenida a los cambios. Los Ams capturan los cambios para que los clientes tengan una ventaja competitiva. 3:entregar frecuentemente software que funcione, desde un par de semanas a un par de meses, con el menor intervalo de tiempo posible entre una entrega y la siguiente.",
-  "respuesta": true
- },
- {
-  "pregunta": "El modelo vista controlador es uno de los más conocidos e implementados en la actualidad y por esto ofrece la mejor estrategia para dotar de las funcionalidades requeridas a una aplicación corporava, y esta es una de las principales razones por las cuales se manene como una de las más populares.",
-  "respuesta": "Falso, ya que la arquitectura de microservicios está reemplazando a la del modelo-vistacontrolador (MVC)."
- },
- {
-  "pregunta": "El siguiente código pertenece a: [TestMethod()] public void LinkInfoConstructorTest() { string expectedText = \"\"a deshoras\"\"; string expectedTitle = \"\"ir a deshoras (https:\/\/adeshoras.wordpress.com\/)\"\"; string expectedHRef = \"\"https:\/\/adeshoras.wordpress.com\/\"\"; LinkInfo actualLinkInfo = new LinkInfo(expectedText, expectedTitle, expectedHRef); Assert.IsTrue(!string.IsNullOrEmpty(actualLinkInfo.Text)); Assert.IsTrue(!string.IsNullOrEmpty(actualLinkInfo.Title)); Assert.IsTrue(!string.IsNullOrEmpty(actualLinkInfo.HRef)); Assert.AreEqual(expectedText, actualLinkInfo.Text); Assert.AreEqual(expectedTitle, actualLinkInfo.Title); Assert.AreEqual(expectedHRef, actualLinkInfo.HRef); } Y ahora vamos a implementar nuestra entidad. Vamos a n import { sumar, restar, multiplicar, dividir } from '..\/index.js'; describe('Operaciones matemáticas', () => { test('Realizamos la suma', () => { expect(sumar(1,1)).toBe(2); }); test('Realizamos la resta', () => { expect(restar(1,1)).toBe(0); });",
-  "respuesta": "JEST."
- },
- {
-  "pregunta": "eMule, Soulseek o BitTorrent son ejemplos actuales de tecnología….",
-  "respuesta": "P2P (Peer to Peer)."
- },
- {
-  "pregunta": "En diseño estructurado o en diseño funcional una función o un procedimiento, en diseño orientado a objetos una clase. Esto sirve para asegurar que cada unidad funcione correctamente y eficientemente por separado.",
-  "respuesta": "Unit tesng"
- },
- {
-  "pregunta": "En el sio web de la empresa hay varios módulos que consumen API’s de geolocalización a nivel externo y las propias del servicio que se prestan según el modelo del negocio como padrón de clientes, facturación, ventas, entre otras. ¿Bajo qué modelo consideras que opera este consumo de API, sabiendo que hace solicitudes y recibe una respuesta a esta solicitud?",
-  "respuesta": "Modelo cliente servidor."
- },
- {
-  "pregunta": "En el sitio web de la empresa, se cuentan con varios módulos que consumen las API de geolocalización a nivel externo y las propias del servicio que se prestan según el modelo del negocio como padrón de clientes, facturación, ventas, entre otras. ¿Bajo qué modelo operan este consumo de API, sabiendo que hace solicitudes y recibe una respuesta a esta solicitud?",
-  "respuesta": "Modelo cliente servidor."
- },
- {
-  "pregunta": "En la certificación, la auditoría solicita una muestra de entornos. ¿Qué entomos pueden existir?",
-  "respuesta": "Desarrollo, integración preproducción producción"
- },
- {
-  "pregunta": "En la empresa XX, implementaron teóricamente un modelo híbrido donde se dice que aplicaron el modelo de microservicios. En ella agregaron una SPA única donde funciona el modelo de negocio, cuenta con bases de datos MySQL para la mayoría de sus transacciones, enen varias aplicaciones que funcionan como interfaz entre la base de datos principal y las bases de datos de sus proveedores de servicios como: pago electrónico, logísca de entrega, movimientos de stock y la administración contable del negocio. Se dice que la empresa a pesar de haber mejorado su estructura, ene problemas como: con la interfaz del usuario en equipos móviles, no cuenta con un servicio eficiente de soporte, las quejas por ineficiencia en el sio y problemas con las operaciones en la página, adolece de información precisa para sus proveedores, entre otros. ¿Qué ocurriría en este caso?",
-  "respuesta": "Posiblemente ene fallas en la concepción del modelo en cuanto a la necesidad de diversificar los servicios que se ofrecen en el modelo de microservicios."
- },
- {
-  "pregunta": "En la oficina donde trabajas, todos pueden comparr diferentes pos de información que van desde programas varios, pasando por imágenes, archivos de texto, hojas de cálculo, bases de datos y otro po de archivos. Te piden que clasifiques qué po de sistema distribuido enen las redes de nuestra organización. ¿Cuál de las siguientes elegirías?",
-  "respuesta": "Servidor de archivos de red (FileServer)."
- },
- {
-  "pregunta": "En todo desarrollo de software que se encuentra dentro de una gestión de configuración, existe un elemento de dicha configuración que guarda la contabilidad actual de una configuración y proporciona la trazabilidad de la misma. ¿Cuál de los siguientes elementos es mecionado?",
-  "respuesta": "Estado de cuenta."
- },
- {
-  "pregunta": "En todo proyecto, es una poderosa estrategia para bajar los costos y opmizar los empos. Existen algunas razones para esto, las principales son:",
-  "respuesta": "Rapidez, versalidad, simplificación, aservidad, flexibilidad, análisis, capacidad de ejecución de pruebas, integración connua con devops y pruebas repebles."
- },
- {
-  "pregunta": "En un desarrollo contamos con los siguientes inconvenientes: retraso en las entregas, fallos durante los servicios, facturas incorrectas, cancelación de contratos de ventas. ¿A qué se deben?",
-  "respuesta": "Falta de un buen proceso de calidad en los testeos de las soluciones."
- },
- {
-  "pregunta": "En un desarrollo solo trabajan un programador y un analista funcional. Desarrollarán un conjunto de aplicaciones de test automátizadas para comprobar que según pasa el tiempo, lo que estaba funcionando, sigue funcionando, además de comprobar que lo que acaba de hacerse también funciona. ¿Es una buena alternativa?",
-  "respuesta": "No, las pruebas automatizadas por regla general, se realizan en programas grandes donde intervienen varios desarrolladores trabajando simultaneamente en varias partes de él."
- },
- {
-  "pregunta": "En un modelo cliente servidor…",
-  "respuesta": "Los clientes solicitan servicios a los servidores."
- },
- {
-  "pregunta": "En un proyecto de desarrollo, cuando estamos realizando pruebas unitarias sobre nuestro código, muchas veces es complicado realizar pruebas de métodos que interactúan con componentes de terceros o que requieren de la existencia de cierta información que no se dispone en la prueba, ¿qué podríamos hacer?",
-  "respuesta": "Se resuelve con herramientas que permiten simular una funcionalidad o sobrescribir un comportamiento existente, un framework de pruebas unitarias."
- },
- {
-  "pregunta": "En un sitio web, cuando un usuario compre un producto vía web, mostremos los productos disponibles, etc., la aplicación responderá de una forma u otra, según la hayamos programado, pero el código de las distintas lógicas de negocio (inventario, pagos, envíos), aunque puede estar separado en distintos módulos del código, finalmente se empaqueta en un único archivo ejecutable. ¿Cómo definirías esta aplicación?",
-  "respuesta": "Aplicación bajo una arquitectura monolítica."
- },
- {
-  "pregunta": "En una aplicación tenés que verificar que la aplicación de cálculo de porcentaje simple para el AFIP funcione sin que genere errores. Por ello, construirás una prueba para verificar que el resultado del porcentaje está correcta. ¿Cuál de las siguientes construirás?",
-  "respuesta": "function porciento(valor, porcentaje) { let total = (valor * porcentaje) \/ 100 return total }; console.log('devuelve: ' + porciento(1202, 12.5)); Se obtiene:150,25"
- },
- {
-  "pregunta": "En una empresa implementaron teóricamente un modelo híbrido de microservicios. En ella agregaron una SPA única donde funciona el modelo de negocio, cuenta con bases de datos MySQL para la mayoría de sus transacciones, tiene varias aplicaciones que funcionan como interfaz entre la base de datos principal y las de los proveedores de servicios como: pago electrónico, logística de entrega, movimientos de stock y la administración contable. La empresa, a pesar de haber mejorado su estructura, tiene problemas con la interfaz del usuario en equipos móviles, no cuenta con un servicio eficiente de soporte, el sitio es ineficiente, presenta problemas con las operaciones en la página y adolece de información precisa para sus proveedores. ¿Cuál puede ser el inconveniente o falla?",
-  "respuesta": "Tiene fallas en la concepción del modelo, en cuanto a la necesidad de diversificar los servicios que se ofrecen en el modelo de microservicios."
- },
- {
-  "pregunta": "En una red de empresa, para trabajar la escalabilidad de sus redes y servicios se recurre a las siguientes estrategias: uso de cachés, eliminación de la consistencia eventual, reducción de la replicación, se evita el balanceo de carga, se maximiza el uso de software eficiente en tiempo y espacio.",
+  "pregunta": "El cuerpo de un archivo HTML se indica con las etiquetas <p> <\/p>     ",
   "respuesta": false
  },
  {
-  "pregunta": "Es una expectava de los estándares: mejora de procesos de soware acorde a los objevos estratégicos.",
+  "pregunta": "El protocolo HTTP define métodos, también llamados verbos, que indican al servidor la acción deseada para un determinado recurso. Si quisiéramos eliminar un recurso. ¿Qué método podríamos utilizar?     ",
+  "respuesta": "DELETE"
+ },
+ {
+  "pregunta": "El protocolo HTTP establece un conjunto de reglas que definen como debe realizarse una comunicación. Indica cual de las siguientes opciones puede formar parte de una comunicación HTTP     ",
+  "respuesta": "CLIENTE-SERVIDOR"
+ },
+ {
+  "pregunta": "Elige la palabra correcta para completar la frase: Un Arquetipo define un patrón o modelo que podemos utilizar para crear aplicaciones con estructura similar. Uno de los patrones mas conocidos es el de Modelo-Vista-…..     ",
+  "respuesta": "CONTROLADOR"
+ },
+ {
+  "pregunta": "Estas construyendo una aplicación y necesitas almacenar información en memoria. ¿Como podrías lograr esto?     ",
+  "respuesta": "CON VARIABLES"
+ },
+ {
+  "pregunta": "Existen programas que facilitan el desarrollo de proyectos de software. ¿Como se llaman estos programas?     ",
+  "respuesta": "ENTORNO DE DESARROLLO INTEGRADO"
+ },
+ {
+  "pregunta": "h1 {color:green;} Indica cuál de las siguientes opciones son correctas en relación al código CSS anterior     ",
+  "respuesta": "SE ESTABLECE EL COLOR VERDE A LOS TITULOS"
+ },
+ {
+  "pregunta": "HTTP establece códigos de estado que nos permiten conocer si el estado es Exitoso, es un Error del Cliente o un Error del Servidor. ¿Cuál de los siguientes códigos podrían informar Error en el Cliente?     ",
+  "respuesta": "404 – 405"
+ },
+ {
+  "pregunta": "HTTPS encripta la información enviada     ",
   "respuesta": true
  },
  {
-  "pregunta": "Estamos trabajando en el área de sistemas de la empresa TEXCH S.A. y nos piden que realicemos el relevamiento de los equipos de computos, porque necesitan que estos se comuniquen entre sí para compartir la información de la compañía. Una vez finalizada la tarea de relevamiento solicitan que dejemos la documentación en la carpeta que hace referencia a la red que comparte datos y servicios. ¿Cuál es ese nombre?",
-  "respuesta": "Sistema distribuido."
+  "pregunta": "Luego de enviar una solicitud al servidor, este responde con un código de estado 404. ¿Como se interpreta ese código?     ",
+  "respuesta": "SIGNIFICA QUE EL SERVIDOR NO ENCUENTRA EL RECURSO"
  },
  {
-  "pregunta": "Estás realizando un relevamiento para el empresa Texch S.A. Te piden que dentro del mismo, indiques que tipo de arquitectura sería conveniente implementar…VoIP y videoconferencias",
-  "respuesta": "Peer to Peer"
+  "pregunta": "Luego de enviar una solicitud al servidor, este responde con un código de estado 503. ¿Como se interpreta ese código?     ",
+  "respuesta": "SIGNIFICA QUE EL SERVIDOR NO ESTA DISPONIBLE"
  },
  {
-  "pregunta": "Examinan el paquete a nivel del protocolo HTTP para garantizar el mantenimiento de la sesión de usuario, Distintas peticiones del mismo usuario son servidas por el mismo clon del servidor. Normalmente son soluciones baratas, entre otros. ¿A qué tipo de balance de carga se refiere?",
-  "respuesta": "Balance de carga de software."
+  "pregunta": "Mientras que con HTML damos estructura a los datos, con CSS podemos dar (…….) al contenido HTML. Elige la opción correcta para completar la oración     ",
+  "respuesta": "FORMATO"
  },
  {
-  "pregunta": "Fragmento de código, su grafo de flujo asociado y V(G) son parte de la salida de los casos de prueba.",
-  "respuesta": false
+  "pregunta": "Para poder empezar con la codificación de un nuevo sistema, tienes que primero crear una tabla dentro de una base de dato MySQL. ¿Qué sentencia podrías utilizar?     ",
+  "respuesta": "CREATE"
  },
  {
-  "pregunta": "Identifica de que se encarga el control de cambios",
-  "respuesta": "Audita los cambios de los elementos; Define y gestiona la configuración de los elementos; Identifica los elementos del proyecto que se encuentran bajo configuración."
+  "pregunta": "Que definen los métodos? ",
+  "respuesta": "OPERACIONES O ACCIONES QUE OBJETOS DE UNA CLASE PUEDEN REALIZAR"
  },
  {
-  "pregunta": "Imaginá que tenés una empresa de ventas al detalle que mensualmente presenta como problema la incapacidad de manejar 6 millones de páginas vistas por minuto y la imposibilidad del mantenimiento de cualquier tipo de experiencia positiva para el usuario. ¿Qué harías para mejorar la experiencia del usuario?",
-  "respuesta": "Crearía una arquitectura de microservicios con la intención de lograr cerca del 100 % de disponibilidad con costes razonables."
+  "pregunta": "Que establece HTTP?   ",
+  "respuesta": "REGLAS PARA LA COMUNICACIÓN ENTRE CLIENTES Y SERVIDORES"
  },
  {
-  "pregunta": "La auditora te solicita que le muestres los dos documentos principales que definen la gestión de la calidad de una organización. ¿Qué documentos son?",
-  "respuesta": "Manual de calidad y manual de procedimientos."
+  "pregunta": "Que navegadores Web podemos encontrar hoy en sistemas Windows, Linux o Mac?",
+  "respuesta": "FIREFOX-MICROSOFT EDGE-SAFARI"
  },
  {
-  "pregunta": "La auditoría en gestión te consulta sobre una parte del proceso. ¿Cuál es la importancia de manejar lineas base?",
-  "respuesta": "Ayuda a controlar los cambios sin impedir seriamente los cambios justificados"
+  "pregunta": "Que rol cumplen los navegadores web y browsers?   ",
+  "respuesta": "NOS PERMITEN ACCEDER A PAGINAS WEB"
  },
  {
-  "pregunta": "La auditoría pregunta qué repositorio utilizamos. Respondemos que estamos gestionado por la herramienta Git. ¿Qué nombre tiene el fichero en el que se indican aquellos ficheros que no deben ser tenidos en cuenta por el control de versiones?",
-  "respuesta": ".gitignore"
+  "pregunta": "Se te solicita que implementes una interfaz en una clase. ¿Qué palabra clave se utiliza para esto?",
+  "respuesta": "IMPLEMENTS"
  },
  {
-  "pregunta": "La auditoría solicita que practiques un fallo en la implementación. Es necesario volver al punto previo. ¿Qué se necesita?",
-  "respuesta": "Utilizar la DML"
+  "pregunta": "Selecciona la opción correcta para que MiLista herede el contrato de Lista {….} Public interface MiLista {….}     ",
+  "respuesta": "EXTENDS"
  },
  {
-  "pregunta": "La auditoría solicita realizar el proceso para actualizar el código de su entorno local al sistema de control de versiones. ¿Qué debes hacer?",
-  "respuesta": "Check-in, descargar elemento, actualizar y check-out."
+  "pregunta": "Seleccione las palabras reservadas a usar para que “miVariable” sea un atributo privado de tipo decimal pero con poca precisión en la clase Estudiante. Tene en cuenta que el orden es importante. Public class Estudiante { ___ ___ miVariable = 5; } ",
+  "respuesta": "PRIVATE FLOAT"
  },
  {
-  "pregunta": "La dirección de sistemas te pide que identifiques y documentes en la aplicación del Git tres estados principales en los que se pueden encontrar tus archivos. ¿Cuáles son estos estados?",
-  "respuesta": "Confirmado (committed), modificado (modified), y preparado (staged)."
+  "pregunta": "Te han solicitado diseñar la estructura de una aplicación web. ¿Qué arquetipo podrías utilizar?",
+  "respuesta": "MODELO-VISTA-CONTROLADOR"
  },
  {
-  "pregunta": "La empresa \"Sistemas y Software Consultores\" implementó un nivel de principio de calidad con el fin de mejorar y optimizar las actividades de desarrollo en procesos piloto de la empresa. Esta organización es prestadora de servicios de programación a los proyectos de software e inicialmente realizó una medición del estado actual de la empresa con respecto a la evaluación que realiza la empresa certificadora. Con base en esta medición se identificaron varias áreas críticas en el proceso y se implementaron dos de los niveles de CMMI (niveles 2 y 3). ¿Cuáles fueron las tareas realizadas?",
-  "respuesta": "Gestión de requerimientos, desarrollo de requerimientos, verificación y validación."
+  "pregunta": "Te solicitan que cambies el titulo de una pagina HTML. ¿En qué tag deberías cambiar el contenido?     ",
+  "respuesta": "<title><\/title>"
  },
  {
-  "pregunta": "La empresa Catering S.A. contrata a la empresa AUD S.R.L. para que realice la auditoría de su producto. Para que pueden comenzar a trabajar, los auditores explican los distintos pasos que debe realizar. ¿Cuál de las siguientes actividades componen la auditoría de la configuración?",
-  "respuesta": "Auditoría; Revisión de cambio; Revisión de fase."
+  "pregunta": "Tienes que almacenar datos en forma de tabla en tu aplicación web. ¿Que estructura de datos puedes utilizar? ",
+  "respuesta": "MATRIZ"
  },
  {
-  "pregunta": "La empresa Royal Internacional implementó un departamento de desarrollo de aplicaciones con la intención de automatizar gran parte de sus controles a procesos operativos. Dentro de esta unidad decidieron implementar procedimiento de verificación sistemática como estrategia para asegurarse de que las políticas han sido implementadas y evitar errores e ineficiencias en dicho departamento. Para esto establecieron un modelo de verificación de software. ¿Cuál de las siguientes opciones se acopla más al modelo antes mencionado?",
-  "respuesta": "Se implementó la inspección a través de verificaciones y pruebas de código, la inspección de la integración del código, se generaron las pruebas de integridad de unidad, pruebas orient, fallos, generación de bancos de pruebas, todo ellos bajo un esquema de políticas de documentación técnica y funcional."
+  "pregunta": "Tienes que cambiar el color de fondo de un elemento HTML. ¿Que puedes utilizar?    ",
+  "respuesta": "CSS"
  },
  {
-  "pregunta": "La empresa Sistemas y software consultores implementó un nivel de principio de calidad con el fin de mejorar y opmizar las acvidades de desarrollo en procesos piloto de la empresa. Esta organización es prestadora de servicios de programación a los proyectos de soware, inicialmente se realizó una medición del estado actual de la empresa con respecto a la evaluación que realiza la empresa cerficadora. Con base en esta medición se idenficaron cuatro áreas crícas en el proceso: gesón de requerimientos, desarrollo de requerimientos, verificación y validación. ¿Qué nivel se implantó en esta empresa?",
-  "respuesta": "CMMI (niveles 2 y 3)"
+  "pregunta": "Tienes que crear una pagina web. ¿Qué lenguaje estándar podrías utilizar?     ",
+  "respuesta": "HTML"
  },
  {
-  "pregunta": "La empresa Texch S.A. realizó un relevamiento de equipos y te envía a comprar equipamiento porque consideran que su red es escalable y, que más computadoras y servidores. En tu rol de técnico, le explicas que la escalabilidad no depende sólo de la cantidad de máquinas de una red, sino que va a depender de la habilidad que tenga la red de adaptarse sin perder calidad. ¿Estamos diciendo lo correcto?",
+  "pregunta": "Tienes que obtener filas de una tabla particular para un nuevo proyecto que se conecta con una base de datos MySQL. ¿Qué sentencia puedes utilizar?     ",
+  "respuesta": "SELECT"
+ },
+ {
+  "pregunta": "Una de las convenciones de código proponen un tamaño máximo de archivo en cantidad de líneas de código. ¿Cuáles de las siguientes cantidades de líneas de un archivo cumplen con el estándar?     ",
+  "respuesta": "1500-1999-50"
+ },
+ {
+  "pregunta": "Las tablas son estructuras muy frecuentes y que cumplen varias funcionalidades en las páginas web, como contenedor de datos, de maqueta, de estructuras. Selecciona las etiquetas que lo conforman",
+  "respuesta": "THEAD: encabezado de la tabla. TR filas de una tabla."
+ },
+ {
+  "pregunta": "Una página HTML se caracteriza por poseer etiquetas (tags) que conforman el documento. Selecciona las etiquetas pertenecientes al encabezado del documento.",
+  "respuesta": "Title define el título de la página, meta define información adicional como el autor, palabras claves, descripción."
+ },
+ {
+  "pregunta": "Los navegadores web poseen una herramienta que nos permite, entre otras cosas, inspeccionar elementos de la página. ¿Cuál es esta herramienta?",
+  "respuesta": "Consola"
+ },
+ {
+  "pregunta": "El protocolo HTTP define diferentes métodos para el intercambio de información con el servidor. ¿Qué métodos encuentras en la lista?",
+  "respuesta": "GET PUT POST"
+ },
+ {
+  "pregunta": "El protocolo HTTP define Estados sobre las peticiones al servidor. ¿Cuál es el estado referente a fallas del lado del servidor?",
+  "respuesta": "5.x.x"
+ },
+ {
+  "pregunta": "Una página HTML se caracteriza por poseer etiquetas (tags) que conforman el documento. Selecciona las etiquetas pertenecientes al cuerpo del documento.",
+  "respuesta": "H1 Img Table"
+ },
+ {
+  "pregunta": "El protocolo HTTP define Estados sobre las peticiones al servidor. ¿Cuál es el estado referente a comunicación exitosa?",
+  "respuesta": "2.x.x"
+ },
+ {
+  "pregunta": "Las aplicaciones web pueden denominarse también como aplicaciones cliente - servidor. ¿Cuántos clientes pueden existir en este tipo de sistemas?",
+  "respuesta": "Múltiples"
+ },
+ {
+  "pregunta": "De igual forma que con las hojas de estilo de cascada, JavaScript permite tener separado nuestro código en un archivo diferente. ¿Cuál referenciamos a la carga de dicho archivo?",
+  "respuesta": "<script src=\"main.js\" type=\"text\/javascript\"><\/script>"
+ },
+ {
+  "pregunta": "JavaScript es un lenguaje orientado a objetos.",
   "respuesta": true
  },
  {
-  "pregunta": "La escalabilidad vercal consiste en potenciar el rendimiento del sistema desde un aspecto de mejora global, a diferencia de aumentar la potencia de una única parte del mismo",
-  "respuesta": "Falso, ya que el concepto pertenece a la escalabilidad horizontal"
+  "pregunta": "En cuanto al tipado del lenguaje, ¿en qué categoría se encuentra JavaScript?",
+  "respuesta": "Débilmente tipado."
  },
  {
-  "pregunta": "La gestión de configuración permite que las actividades técnicas y de gestión sean más efectivas.",
-  "respuesta": true
+  "pregunta": "JavaScript es un lenguaje utilizado, entre otras funcionalidades, para captar eventos del usuario sobre nuestras páginas. ¿Qué tipo de lenguaje es?",
+  "respuesta": "JavaScript es un lenguaje interpretado (no necesita compilarse para su ejecución)."
  },
  {
-  "pregunta": "La prueba unitaria del constructor tiene que probar que ninguno de los miembros queda con un valor nulo y que los valores pasados al mismo se asignan correctamente",
-  "respuesta": true
+  "pregunta": "De igual forma que con las hojas de estilo de cascada, JavaScript permite tener separado nuestro código en un archivo diferente. ¿Cuál debe ser la extensión de dicho archivo?",
+  "respuesta": ".js"
  },
  {
-  "pregunta": "La relación entre un producto disponible y la necesidad para la que ha sido creado es un indicador de:",
-  "respuesta": "Eficiencia."
+  "pregunta": "¿Con qué función nativa del lenguaje JavaScript concatenamos los elementos de un array?",
+  "respuesta": "join()"
  },
  {
-  "pregunta": "La respuesta correcta es \"Gestión de requerimientos, desarrollo de requerimientos, verificación y validación\". Dentro de la metodología y los procesos de certificación ITL, los descritos son procesos o procedimientos que componen el CMM.",
-  "respuesta": "Establecer lo siguiente: requerimientos del cliente escritos en un backlog más sus estimaciones, actividades y tareas que se están desarrollando, incluyendo los logs y las deudas técnicas que se pudieran presentar y las tareas del backlog ya terminadas con su respectiva estadística de efectividad y comentarios."
+  "pregunta": "¿Con qué operador o función nativa podemos concatenar dos variables de cadena de caracteres en JavaScript?",
+  "respuesta": "Para la concatenación utilizamos el símbolo de suma (+)"
  },
  {
-  "pregunta": "Las caracteríscas que necesitamos en el departamento de sistemas para lograr la calidad del entregable deseado son:",
-  "respuesta": "Automazables, completas, repebles o reulizables, independientes, profesionales."
+  "pregunta": "Cuando estamos cargando una página en el navegador, existe un momento en que la misma se encuentra disponible para que los usuarios puedan comenzar a interactuar. ¿Cuál es el evento que lo detecta?",
+  "respuesta": "Al cargar una página en nuestro navegador tenemos dos situaciones claves, recordando que el proceso de una carga en el navegador comienza con una petición del mismo al servidor, el cual responde enviando el código HTML correspondiente. Primeramente, tenemos el evento ready (la página está lista para ser utilizada por el usuario)"
  },
  {
-  "pregunta": "Las quejas o felicitaciones, el responsable de auditoría interna te pide que muestres un formulario. ¿Cómo se identifica ese formulario?",
-  "respuesta": "Gestión de solicitudes de servicio"
+  "pregunta": "Teniendo una clase llamada Alumnos que debe heredar de una clase más global llamada Personas, ¿cuál sería el código de definición correcto?",
+  "respuesta": "class Alumnos implements Personas, donde implements hace referencia a la interfaz."
  },
  {
-  "pregunta": "Los nodos que mantienen un índice o actúan agente se conocen, por lo general, como:",
-  "respuesta": "Súper punto."
+  "pregunta": "Las clases y los métodos de las mismas tienen una visibilidad respecto a otras clases u objetos de otras clases. ¿Cuáles son las mismas?",
+  "respuesta": "Protected Private Public"
  },
  {
-  "pregunta": "Los sistemas computacionales distribuidos pueden ser clasificados en dos grupos ¿A qué tipos de sistema corresponde esta definición? Selecciona dos opciones correctas",
-  "respuesta": "Sistema de computo cluster; Sistema de computo grid"
+  "pregunta": "Dentro de la programación orientada a objetos encontramos el término Clases ¿Cuál es su definición correcta?",
+  "respuesta": "Son la abstracción de los objetos con los que las personas interactúan en la vida real."
  },
  {
-  "pregunta": "Los sistemas distribuidos basados en cómputo grid o malla tienen un alto grado de heterogeneidad (no se establecen características específicas de hardware ni de sistemas operativos).",
-  "respuesta": true
+  "pregunta": "Dentro de las clases definimos variables, las mismas pueden ser variables miembros o variables finales. ¿Cuáles son sus diferencias?",
+  "respuesta": "Las primeras varían durante el ciclo de vida del objeto, las segundas siempre permanecen constantes."
  },
  {
-  "pregunta": "Los test automácos son programas que se encargan de desarrollar y monitorear nuestro programa. Estos programas de pruebas deberían tener la parcularidad de ser fácil de lanzar, debería prescindir de la intervención del desarrollador, debería darnos resultados que no requieran de análisis posterior",
-  "respuesta": false
+  "pregunta": "¿Cómo se definen los métodos finales dentro de una clase?",
+  "respuesta": "final function metodo()"
  },
  {
-  "pregunta": "Nos encontramos en la empresa Catering S.A. y nos solicitan realizar el mantenimiento de su software para asegurarse la calidad del mismo. ¿Qué se debe crear para poder mantener la configuración del software?",
-  "respuesta": "Bibliotecas y Liberías"
+  "pregunta": "Las clases pueden contener métodos, ¿cómo los definirías?",
+  "respuesta": "Son funciones o procedimientos."
  },
  {
-  "pregunta": "Nos encontramos trabajando en la consultora PFIC S.A. para asistir a los auditores en sus proyectos y nos indican que organicemos la documentación según los tipos de auditorías a realizar. Identifica que tipos de auditorías hay de acuerdo a los documentos dados:",
-  "respuesta": "Auditoría física; Auditoría funcional."
+  "pregunta": "Las clases y los métodos de las mismas tienen una visibilidad respecto a otras clases u objetos de otras clases. ¿Cuál es la visibilidad por defecto, si no la especificamos?",
+  "respuesta": "PUBLIC"
  },
  {
-  "pregunta": "Nos encontramos trabajando en la consultora RPG y nos solicitan que dentro de la documentación dada identifiquemos cual es el elemento que indica: \"Revisión 4 al plan. Puesta bajo control de cambios en enero de 1994\".",
-  "respuesta": "SPC-001-P-4-1\/94"
+  "pregunta": "¿Qué tipo de variable es $_POST?",
+  "respuesta": "Array asociativo superglobal."
  },
  {
-  "pregunta": "Para el aseguramiento de la calidad del producto necesitamos:",
-  "respuesta": "Aprender de los demás."
+  "pregunta": "PHP y el lenguaje HTML nos permiten realizar formularios web. ¿Cuáles son las variables utilizadas por PHP para acceder a los valores enviados desde un formulario?",
+  "respuesta": "$_POST, $_GET y $_REQUEST"
  },
  {
-  "pregunta": "Para mantener réplicas consistentes necesitamos propagar las actualizaciones de tal manera que las inconsistencias temporales se perciban",
-  "respuesta": false
+  "pregunta": "PHP incluye una variable para almacenar los datos de una sesión de usuario. ¿Cuál es esta variable?",
+  "respuesta": "$_SESSION"
  },
  {
-  "pregunta": "Permite la configuración y aprovisionamiento de una gran y compleja infraestructura TI reduciendo los tiempos y riesgos que se tienen al realizar estas tareas de forma manual aplicándose a cada servidor o software a la vez. Este concepte pertenece a:",
-  "respuesta": "La automatización controlada en tiempos de configuración y aprovisionamiento."
+  "pregunta": "PHP cuenta con una función nativa muy utilizada para la validación de datos, en especial los del formulario. ¿Cuál es dicha función?",
+  "respuesta": "filter_var"
  },
  {
-  "pregunta": "Puppet, ¿Cuáles son las funcionalidades que nos ofrece?",
-  "respuesta": "Administración de codigo; Administración de nodos; Control de acceso basado en roles"
+  "pregunta": "Cuando trabajamos con formularios, siempre debemos verificar que los datos cargados por el usuario sean correctos a los solicitados. ¿Dónde realizamos la validación de los mismos?",
+  "respuesta": "Servidor y Cliente"
  },
  {
-  "pregunta": "Seleccioná, entre las siguientes opciones aquella que refiera correctamente a uno de los beneficios de las pruebas de automatización.",
-  "respuesta": "Ayudan a comprobar una matriz grande de prueba, permiten el ahorro de tiempo y dinero, activan la ejecución paralela."
+  "pregunta": "En un formulario Web disponemos de una propiedad de los elementos (por ejemplo, input o textarea) que almacenará el valor cargado por el usuario en dicho componente. ¿Cuál es esta propiedad?",
+  "respuesta": "Name"
  },
  {
-  "pregunta": "Si estamos probando la candad de usuarios y de uso de una aplicación web en modo test, ¿qué po de prueba es?",
-  "respuesta": "Prueba de carga."
+  "pregunta": "PHP nos permite graficar código HTML mediante estructuras de repetición. ¿Cuáles serían?",
+  "respuesta": "For, while, foreach son estructuras de repetición, por lo cual, pueden tener muchas aplicaciones, entre ellas, graficar código HTML mediante sus estructuras."
  },
  {
-  "pregunta": "Son impactos positivos en el uso de métricas de calidad de software la disminución de ingresos y aumento del gasto, el incremento en el riesgo y la reducción de la confianza, tanto dentro como fuera de la organización.",
-  "respuesta": false
- },
- {
-  "pregunta": "Sos tester y estas realizando pruebas manuales al sistema que está por salir a producción. Luego de realizarlas, el desarrollador te solicita que firmemos su aprobación para luego pasar el producto a producción ya que es urgente implementarlo. ¿Qué debes hacer con esa documentación de las pruebas?",
-  "respuesta": "Debe ser evaluada por un comité"
- },
- {
-  "pregunta": "Tenés un emprendimiento de instalación de redes y un cliente te solicita un presupuesto en el que 17 escribe: Solicitamos nos indiquen los costos de realizar una escalabilidad de crecimiento vertical en nuestra red que actualmente cuenta de 10 maquina y un servidor Que tipo de presupuesto estarian solicitando?",
-  "respuesta": "Un presupuesto a nivel hardware"
- },
- {
-  "pregunta": "Tengo un proyecto de urgencia, por solicitud de la directiva de la empresa, es un trabajo de desarrollo en el equipo que ha comenzado a trabajar y que ya no está en el backlog. ¿Cuál sería las metodologías de WIP que hay que hacer en el contexto de ingeniería de software?",
-  "respuesta": "Establecer lo siguiente: requerimientos del cliente escritos en un backlog más sus estimaciones, actividades y tareas que se están desarrollando, incluyendo los logs y las deudas técnicas que se pudieran presentar y las tareas del backlog ya terminadas co"
- },
- {
-  "pregunta": "Tu objevo principal en tu trabajo es desarrollar una App, para ello estás evaluando de forma cualitava las respuestas emocionales o corporales de los usuarios que la usarían. ¿Qué po de métrica ulizaste?",
-  "respuesta": "Métricas de UX."
- },
- {
-  "pregunta": "Un ítem de configuración es:",
-  "respuesta": "Es todo o parte de un producto de trabajo (por ejemplo, un documento, todos los casos de prueba o un componente de programa nominado."
- },
- {
-  "pregunta": "Un objetivo importante de un sistema distribuido es ocultar el efecto de que sus procesos recursos están básicamente distribuidos a través de múltiples computadoras. ¿A qué concepto refiere esta definición?",
-  "respuesta": "Transparencia."
- },
- {
-  "pregunta": "Un sistema distribuido es transparente si es capaz de presentarse ante los usuarios y a las aplicaciones como si se tratara de una sola computadora.",
-  "respuesta": true
- },
- {
-  "pregunta": "Una de las características del GCS es:",
-  "respuesta": "Permitir la gestión eficiente de cambios."
- },
- {
-  "pregunta": "Una de las partes que componen el sistema de gesón es:",
-  "respuesta": "Los procesos de la organización. (Estructura organizava: departamento de calidad o responsable de la dirección de la empresa; Cómo se planifica la calidad; Los procesos de la organización; Recursos que la organización aplica a la calidad; Documentación que se uliza)"
- },
- {
-  "pregunta": "Una empresa de software requiere tener que desarrollar y conocer el esquema del \"branch\". ¿Qué es lo que debe evaluar?",
-  "respuesta": "Es el directorio del repositorio con una derivación de la versión principal."
- },
- {
-  "pregunta": "Una prueba de métodos get\/set con la técnica de caja negra: public void testGetSetPerson() { String name = “Julieta\"\"; String lastName1 = “Alcántara”; String lastName2 = “Gutiérrez”; \/\/Se invoca al método constructor para crear una instancia Person instance = new Person (\"\"Gertrudis\"\", \"\"López\"\", \"\"López\"\"); \/\/Se modifican los valores de los atributos del objeto \/\/usando los métodos set correspondientes instance = instance.setName(name); instance = instance.setLastName1(lastName1); instance = instance.setLasName2(lastName2); \/\/Se verifica que los atributos tienen los valores esperados \/\/ usando los métodos get.",
-  "respuesta": "Incorrecto"
- },
- {
-  "pregunta": "Una vez que se realiza la puesta en producción finaliza el proceso de gestión de configuración.",
-  "respuesta": false
- },
- {
-  "pregunta": "Uno de los objetivos de las auditorías es generar un informe que sirva como plan de mejora.",
-  "respuesta": true
- },
- {
-  "pregunta": "World Wide Web: es un servicio popular que funciona en Internet. Permite que los documentos de una computadora se refieran a información textual o no textual almacenada en otras. Esas referencias aparecen en el monitor del usuario, y cuando el usuario selecciona las que desea, el sistema obene el arculo de un servidor remoto ulizando los protocolos adecuados y presenta la información en la máquina cliente. Esta red es:",
-  "respuesta": "Sistema distribuido."
+  "pregunta": "Al crear un formulario HTML que debe enviarnos una imagen a nuestro servidor, ¿cuál es la mejor forma de definirlo?",
+  "respuesta": "<form method=\"POST\" enctype=\"multipart\/form-data\">"
  }
 ]
