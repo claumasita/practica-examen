@@ -50,20 +50,29 @@ const guardarPreguntasStorage=(enJson)=>{
 //******************************************************************//
 // Genera las Cards para las preguntas y respuestas
 //******************************************************************//
-const mostrarPreguntas = (preguntas) =>{
+const mostrarPreguntas = () =>{
 
+    const busqueda = document.querySelector("#palabra").value.toUpperCase();
     const main = document.querySelector("#main");
-    preguntas.forEach(pregunta => {
-        const card = document.createElement("div");
-        card.className = "card";
-        card.innerHTML = 
-        `
-        <div class="card-content">
-            <h2>${pregunta.pregunta}</h2>
-            <p>${pregunta.respuesta}</p>
-        </div>
-        `
-        main.append(card);
+    main.innerHTML = "";
+
+    const arrayPreguntas = getSessionStorageToArray("preguntas");
+    arrayPreguntas.forEach(pregunta => {
+
+        const enunciado = pregunta.pregunta.toUpperCase();
+        const existe = enunciado.indexOf(busqueda);
+        if (existe !== -1 || busqueda == ""){
+            const card = document.createElement("div");
+            card.className = "card";
+            card.innerHTML = 
+            `
+            <div class="card-content">
+                <h2>${pregunta.pregunta}</h2>
+                <p>${pregunta.respuesta}</p>
+            </div>
+            `
+            main.append(card);
+        }
     });
 
 }
@@ -79,10 +88,20 @@ const cargarPreguntas = async () =>{
         const resp = await fetch(rutaJson);
         preguntas  = await resp.json();
         guardarPreguntasStorage(JSON.stringify(preguntas));
-        mostrarPreguntas(preguntas);
+        mostrarPreguntas();
     } catch (error) {
         console.log(error);
     }
+}
+
+//******************************************************************//
+// Evento Input (Busqueda)
+//******************************************************************//
+const crearEventoInput = () =>{
+    document.querySelector("#palabra").addEventListener("input", (e)=>{
+            e.preventDefault();
+            mostrarPreguntas();
+        });
 }
 
 //******************************************************************//
@@ -91,6 +110,7 @@ const cargarPreguntas = async () =>{
 const inicio = async () =>{
     // Carga de Preguntas
     await cargarPreguntas();
+    crearEventoInput();
     //mostrarImagenes();
 }
 
