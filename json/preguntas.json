@@ -1,278 +1,426 @@
 [
  {
-  "pregunta": "“boolean miBooleano = true II___; Selecciona las opciones que hace que “miBooleano” tenga valor TRUE”",
-  "respuesta": "3>0  “5>4”  Boolean.FALSE   “string”   “test”.size() ==8"
+  "pregunta": "¿A qué denominamos hábito en la gestión de personas? ",
+  "respuesta": "Conducta que se repite"
  },
  {
-  "pregunta": "“int miPrimerVariable = 2; Seleccione las opciones que describen correctamente el efecto de la línea de código anterior- ",
-  "respuesta": "SE ASIGNA EL VALOR 2 A UNA VARIABLE DE TIPO ENTERO-SE CREA UNA VARIABLE DE TIPO ENTERO"
+  "pregunta": "¿Cuál considera que es la base del paradigma ganar\/ganar la cual se relaciona con los hábitos para la efectividad personal?",
+  "respuesta": "Carácter"
  },
  {
-  "pregunta": "<….>código CSS<\/…> Es posible utilizar una etiqueta para embeber código CSS dentro de un archivo HTML. Elige la etiqueta a utilizar para poder realizar esta acción     ",
-  "respuesta": "style"
+  "pregunta": "¿Cuál de las siguientes opciones es uno de las desventajas directas del trabajo en equipo  para las organizaciones? ",
+  "respuesta": "Ausencia de Responsabilidad "
  },
  {
-  "pregunta": "<……> Cuerpo de un archivo HTML <\/…….> Completa con la etiqueta usada para crear el cuerpo de un archivo HTML",
-  "respuesta": "BODY"
+  "pregunta": "¿Cuál de las siguientes opciones es uno de los beneficios directos del trabajo en equipo para los individuos?",
+  "respuesta": "Facilita la integración"
  },
  {
-  "pregunta": "…..<p>Soy un texto<a>super<\/a><\/p>…… Para el fragmento de código HTML anterior, indique cuales de las siguientes opciones son correctas     ",
-  "respuesta": "SE INDICA UN LINK-SE INDICA UN PARRAFO"
+  "pregunta": "¿Cuál de las siguientes opciones es uno de los beneficios directos del trabajo en equipo  para las organizaciones? ",
+  "respuesta": "Aumento de Conocimiento "
  },
  {
-  "pregunta": "A quien se le denomina servidor en la arquitectura cliente-servidor?",
-  "respuesta": "A QUIEN RESPONDE LAS SOLICITUDES DEL CLIENTE"
+  "pregunta": "¿Cuál puede considerarse una ventaja competitiva organizacional que contribuya a  fomentar la creatividad, innovación y desarrollo del talento? ",
+  "respuesta": "Diversidad"
  },
  {
-  "pregunta": "boolean miPrimerBoolean = “false”; Indique si la asignación anterior es correcta   ",
-  "respuesta": false
+  "pregunta": "¿Cuáles son las tres variables consideradas como la principal causal de la incapacidad de coordinar acciones dentro de una organización? Seleccione las 3 respuestas correctas",
+  "respuesta": "La falta de apoyo mutuo entre personas; La falta de confianza; La falta de respeto"
  },
  {
-  "pregunta": "Completa para crear el paquete “ar.teclab.ejemplo”: ___ar.teclab.ejemplo:  ",
-  "respuesta": "PACKAGE"
+  "pregunta": "¿De qué naturaleza son los hábitos?",
+  "respuesta": "Adquiridos"
  },
  {
-  "pregunta": "Completar para que el método retorne “vacío”: public____metodoNuevo(); ",
-  "respuesta": "VOID"
+  "pregunta": "¿En qué aspecto actualmente muy valorado debe hacer foco una empresa que quiere captar y atraer talento?",
+  "respuesta": "Cultura organizacional"
  },
  {
-  "pregunta": "Cuales de las siguientes estructuras permiten repetir la ejecución de un bloque de código?",
-  "respuesta": "FOR-WHILE"
+  "pregunta": "¿En qué debería trabajar el responsable de RRHH de una empresa que muestra en su  última encuesta de clima laboral un bajo índice de satisfacción del personal generando baja  productividad y en consecuencia poniendo en peligro los objetivos organizacionales? ",
+  "respuesta": "Gestionar la inteligencia emocional"
  },
  {
-  "pregunta": "Dado el siguiente arreglo: int [ ] arr = new int[3]; ¿Cuál es el máximo índice al que podremos acceder?    ",
-  "respuesta": 2
+  "pregunta": "¿En qué fase del proceso de formación y desarrollo nos encontramos si por ejemplo, el responsable de RRHH de una fábrica de helados, analiza junto a los responsables de los sectores de administración, ventas, entre otros, las necesidades de capacitación?",
+  "respuesta": "Fase de análisis"
  },
  {
-  "pregunta": "El cuerpo de un archivo HTML se indica con las etiquetas <p> <\/p>     ",
-  "respuesta": false
+  "pregunta": "¿Qué tipo de comunicación es la qiue genera una nueva realidad que a su vez lleva a una nueva acción?",
+  "respuesta": "Declaración"
  },
  {
-  "pregunta": "El protocolo HTTP define métodos, también llamados verbos, que indican al servidor la acción deseada para un determinado recurso. Si quisiéramos eliminar un recurso. ¿Qué método podríamos utilizar?     ",
-  "respuesta": "DELETE"
+  "pregunta": "Además de la cultura, ¿qué otros dos elementos definen el comportamiento de los  individuos en una organización? Seleccione las 2 (dos) respuestas correctas. ",
+  "respuesta": "La estrategia organizacional - La estructura organizacional"
  },
  {
-  "pregunta": "El protocolo HTTP establece un conjunto de reglas que definen como debe realizarse una comunicación. Indica cual de las siguientes opciones puede formar parte de una comunicación HTTP     ",
-  "respuesta": "CLIENTE-SERVIDOR"
+  "pregunta": "Además de las tareas operativas a realizar dentro de una organización, qué otra tarea típica resulta fundamental para el cumplimiento de los resultados organizacionales?",
+  "respuesta": "De coordinación"
  },
  {
-  "pregunta": "Elige la palabra correcta para completar la frase: Un Arquetipo define un patrón o modelo que podemos utilizar para crear aplicaciones con estructura similar. Uno de los patrones mas conocidos es el de Modelo-Vista-…..     ",
-  "respuesta": "CONTROLADOR"
+  "pregunta": "Además de nuestros prejuicios y paradigmas, ¿qué otro factor puede determinar nuestra  percepción? ",
+  "respuesta": "Estereotipos "
  },
  {
-  "pregunta": "Estas construyendo una aplicación y necesitas almacenar información en memoria. ¿Como podrías lograr esto?     ",
-  "respuesta": "CON VARIABLES"
+  "pregunta": "Algunos factores que determinan las diferencias individuales son: Seleccione las 4 (cuatro) respuestas correctas.",
+  "respuesta": "De actitud - De capacidades y habilidades - De percepción - De personalidad"
  },
  {
-  "pregunta": "Existen programas que facilitan el desarrollo de proyectos de software. ¿Como se llaman estos programas?     ",
-  "respuesta": "ENTORNO DE DESARROLLO INTEGRADO"
+  "pregunta": "Como integrante del equipo de relaciones laborales realizas la contratación de una profesional externa para el reclutamiento de perfiles del área contable. Presentada la terna y seleccionado un postulante, no quedan conformes con los perfiles, y le proponen abonar el 50 % de lo establecido a la consultora, con lo cual la profesional no está de acuerdo porque realizó su trabajo. Como integrante del área, usted ¿podría describir que pasó?",
+  "respuesta": "Detalle insuficiente de condiciones de contratación; Petición no clara; No se respetó el contrato."
  },
  {
-  "pregunta": "h1 {color:green;} Indica cuál de las siguientes opciones son correctas en relación al código CSS anterior     ",
-  "respuesta": "SE ESTABLECE EL COLOR VERDE A LOS TITULOS"
+  "pregunta": "Como parte del área de RRLL debes colaborar en el armado de un equipo comercial para la organización LIMONES SA. ¿Qué actitudes privilegia en las personas?",
+  "respuesta": "Iniciativa; Orientación en resultados; Compromiso"
  },
  {
-  "pregunta": "HTTP establece códigos de estado que nos permiten conocer si el estado es Exitoso, es un Error del Cliente o un Error del Servidor. ¿Cuál de los siguientes códigos podrían informar Error en el Cliente?     ",
-  "respuesta": "404 – 405"
+  "pregunta": "Cuando un empleado espera determinados programas de beneficios, capacitación y políticas justas dentro de su empresa, ¿en qué relación clave se fundamenta su expectativa?",
+  "respuesta": "Relación individuo - organización"
  },
  {
-  "pregunta": "HTTPS encripta la información enviada     ",
+  "pregunta": "Dentro de las ventajas del trabajo en equipo para los individuos de una organización  podemos mencionar: Seleccione las 4 (cuatro) respuestas correctas ",
+  "respuesta": "Aumenta la satisfacción por el logro compartido - Promueve  el respeto - Promueve la toma de decisiones por consenso - Promueve una  mayor integración entre las personas "
+ },
+ {
+  "pregunta": "Desde el área de relaciones laborales, se seleccionó a un postulante para ingresar al área de mantenimiento y deben realizar la oferta laboral para el ingreso. Como profesional del área, ¿qué requisitos debe cumplir esta oferta?",
+  "respuesta": "Detalle y Claridad en cuestiones administración; Explicación de cuestiones de formación e inducción a la organización."
+ },
+ {
+  "pregunta": "El área de RRHH, observó que todos los integrantes del sector de mantenimiento de  maquinarias de una empresa agropecuaria obtuvo las calificaciones más bajas en su  evaluación de desempeño, dato que alertó y puso de manifiesto la necesidad de revertir dicha situación. Al analizar más en profundidad, se dieron cuenta que los empleados no  tenían bien clarificadas sus responsabilidades, ni delimitadas sus tareas. ¿Sobre qué aspecto  fundamental deberá trabajar el responsable de RRHH para revertir la situación?",
+  "respuesta": "Corregir los errores del diseño de puesto"
+ },
+ {
+  "pregunta": "El directorio de una empresa agroquímica, le comunica al todo el personal la compra de un nuevo edificio al cual deberán mudarse en los próximos 6 meses. ¿Qué tipo de comunicación se produjo en este caso?",
+  "respuesta": "Comunicación descendente"
+ },
+ {
+  "pregunta": "El equipo comercial y de administración suelen tener múltiples conflictos operativos por la falta de comunicación entre los equipos. Se solicita intervención a relaciones laborales para solucionar tal situación. ¿En qué aspectos recomiendas trabajar?",
+  "respuesta": "Foco en la relaciones a largo plazo; Convergencia de intereses; Conocer la intención de la negociación."
+ },
+ {
+  "pregunta": "El equipo de Federico debe abrir nuevas oficinas virtuales en distintas partes del país. ¿Qué ventaja le dirías que obtiene de ello?",
+  "respuesta": "Optimización del tiempo; Optimización del costo; Recursos especializados."
+ },
+ {
+  "pregunta": "El equipo de María no está conforme con la forma de trabajo y los resultados que obtienen. Hay temas pilares en los cuales trabajar. ¿Qué recomiendas hacer?",
+  "respuesta": "Poner en evidencia los conflictos; Actividades de trabajo en equipo; Conocer a las personas del equipo."
+ },
+ {
+  "pregunta": "El equipo de marketing te solicita un curso de formación en redes sociales porque hay dificultades para vender y promocionar productos en el canal digital. ¿Qué acto utilizó el jefe de marketing para tal conversación?",
+  "respuesta": "Declaración"
+ },
+ {
+  "pregunta": "El equipo de relaciones laborales quiere dictar el bimestre próximo un curso de formación de conversaciones efectivas. ¿Qué temas propones para incluir en el temario del curso?",
+  "respuesta": "Promesa; Petición; Negociación"
+ },
+ {
+  "pregunta": "El gerente de RRHH de una empresa automotriz, ha observado que se está incrementando  el índice de bajas de personal con mayor talento por renuncia. Al analizar las entrevistas de  salida, la información recabada indica que el motivo de las bajas es por la falta de  programas de beneficio. ¿Qué tipo de relación clave entre los individuos debe mejorar para  retener y captar nuevos talentos? ",
+  "respuesta": "Relación individuo-organización "
+ },
+ {
+  "pregunta": "El jefe de una base antártica impartió directivas a sus colaboradores para realizar un traslado aéreo de carga y correspondencia a otra base. No especificó claramente el horario de despegue. Hasta último momento no se supo quiénes eran los integrantes de la tripulación de vuelo. Dejó de impartir directivas claras para la carga de combustible del avión y conocer el último parte meteorológico del aeródromo de destino. El resultado final fue que la operación aérea prevista no se pudo llevar a cabo. De acuerdo a lo expresado, ¿cuál considera Ud. que fue la falla que cometió el jefe de base?",
+  "respuesta": "Incapacidad de coordinar acciones"
+ },
+ {
+  "pregunta": "El lenguaje es la principal característica para la descripción de la realidad.",
   "respuesta": true
  },
  {
-  "pregunta": "Luego de enviar una solicitud al servidor, este responde con un código de estado 404. ¿Como se interpreta ese código?     ",
-  "respuesta": "SIGNIFICA QUE EL SERVIDOR NO ENCUENTRA EL RECURSO"
+  "pregunta": "El proceso de observar y entender la realidad según la experiencia y aprendizaje refiere a:",
+  "respuesta": "Percepción"
  },
  {
-  "pregunta": "Luego de enviar una solicitud al servidor, este responde con un código de estado 503. ¿Como se interpreta ese código?     ",
-  "respuesta": "SIGNIFICA QUE EL SERVIDOR NO ESTA DISPONIBLE"
+  "pregunta": "El propósito de una recompensa intrínseca permite ",
+  "respuesta": "Reconocer un esfuerzo y mejorar el crecimiento personal."
  },
  {
-  "pregunta": "Mientras que con HTML damos estructura a los datos, con CSS podemos dar (…….) al contenido HTML. Elige la opción correcta para completar la oración     ",
-  "respuesta": "FORMATO"
+  "pregunta": "El responsable de RRHH, de una empresa desarrolladora de software, ordenó unificar en el comedor las mesas para que los directivos puedan interactuar con los empleados y viceversa. ¿Qué objetivo persigue la empresa?",
+  "respuesta": "Disminuir los elementos de status"
  },
  {
-  "pregunta": "Para poder empezar con la codificación de un nuevo sistema, tienes que primero crear una tabla dentro de una base de dato MySQL. ¿Qué sentencia podrías utilizar?     ",
-  "respuesta": "CREATE"
+  "pregunta": "El responsable del área de control de Gestión de una empresa de seguros de vida, alertó al gerente comercial, que las productividades individuales del equipo de venta zona norte seguían sin repuntar. Cuando esta autoridad indagó sobre las posibles causas del problema planteado, varios integrantes del referido equipo de ventas le manifestaron que el motivo de la baja productividad era que el jefe del equipo no había cumplido una serie de promesas efectuadas a sus colaboradores lo que generó entre ellos una notable merma en la credibilidad de los valores asumidos como persona y sobre la capacidad de gestión de su jefe. Según los hechos relatados , ¿cuál fue el clima que generó la actitud del jefe de ventas del equipo de zona norte entre sus colaboradores?",
+  "respuesta": "Clima de desconfianza"
  },
  {
-  "pregunta": "Que definen los métodos? ",
-  "respuesta": "OPERACIONES O ACCIONES QUE OBJETOS DE UNA CLASE PUEDEN REALIZAR"
+  "pregunta": "El resultado obtenido en un puesto de trabajo depende exclusivamente de la capacidad y competencias de una persona.",
+  "respuesta": false
  },
  {
-  "pregunta": "Que establece HTTP?   ",
-  "respuesta": "REGLAS PARA LA COMUNICACIÓN ENTRE CLIENTES Y SERVIDORES"
+  "pregunta": "En el proceso de selección de un analista junior de RRHH se presentaron 3 candidatos. Vos, como responsable de la búsqueda, ¿qué postulante tendrías en cuenta en primera instancia?",
+  "respuesta": "Potencial"
  },
  {
-  "pregunta": "Que navegadores Web podemos encontrar hoy en sistemas Windows, Linux o Mac?",
-  "respuesta": "FIREFOX-MICROSOFT EDGE-SAFARI"
+  "pregunta": "En la devolución de desempeño de María le relatan que posee un manejo deficiente en sistemas operativos. ¿Qué acción aconsejan desde el área de RRHH?",
+  "respuesta": "Tutoría con experto; Formación"
  },
  {
-  "pregunta": "Que rol cumplen los navegadores web y browsers?   ",
-  "respuesta": "NOS PERMITEN ACCEDER A PAGINAS WEB"
+  "pregunta": "En la organización Limones SA se presentaron diversos conflictos de equipo en el semestre pasado. Como parte del equipo de RRLL, hay que solucionar estos conflictos. ¿Cuáles son los objetivos que debe definir la gerencia de RRLL?",
+  "respuesta": "Objetivos vinculados a gestión de personas."
  },
  {
-  "pregunta": "Se te solicita que implementes una interfaz en una clase. ¿Qué palabra clave se utiliza para esto?",
-  "respuesta": "IMPLEMENTS"
+  "pregunta": "En últimas investigaciones publicadas se plantea que el mercado laboral de la Argentina es un desafío para los próximos años y esto requiere focalizarse en ciertas áreas, ¿cuáles?",
+  "respuesta": "Foco en las nuevas habilidades de gestión y tecnológicas."
  },
  {
-  "pregunta": "Selecciona la opción correcta para que MiLista herede el contrato de Lista {….} Public interface MiLista {….}     ",
-  "respuesta": "EXTENDS"
+  "pregunta": "En un curso de autoconocimiento Martina diseñó su ikigai, y con ello pudo conocer acerca de ciertos aspectos pocos claros hasta ahora. ¿Cuáles?",
+  "respuesta": "Pasión; Misión; Vocación."
  },
  {
-  "pregunta": "Seleccione las palabras reservadas a usar para que “miVariable” sea un atributo privado de tipo decimal pero con poca precisión en la clase Estudiante. Tene en cuenta que el orden es importante. Public class Estudiante { ___ ___ miVariable = 5; } ",
-  "respuesta": "PRIVATE FLOAT"
+  "pregunta": "En una empresa automotriz, el ingeniero industrial a cargo de la planta de armado de  motores, obtuvo una excelente calificación en la última evaluación de desempeño. La  empresa lo considerará para posiciones jerárquicas superiores. Según la matriz  desempeño\/potencial, ¿qué debe hacer la compañía para retener al ingeniero? ",
+  "respuesta": "Invertir seriamente, ofreciéndole oportunidades de carrera "
  },
  {
-  "pregunta": "Te han solicitado diseñar la estructura de una aplicación web. ¿Qué arquetipo podrías utilizar?",
-  "respuesta": "MODELO-VISTA-CONTROLADOR"
+  "pregunta": "En una empresa prepaga de salud se llevan a cabo programas de formación a los  vendedores, y se ha observado que no resultan efectivos los métodos de aprendizaje que se  decidieron utilizar porque no se logró cumplir uno los objetivos propuestos, puntualmente  el que establecía dar a conocer con claridad el servicio de salud que la compañía brinda.  ¿Qué fase del proceso de formación deberán mejorar ? ",
+  "respuesta": "Fase de implementación "
  },
  {
-  "pregunta": "Te solicitan que cambies el titulo de una pagina HTML. ¿En qué tag deberías cambiar el contenido?     ",
-  "respuesta": "<title><\/title>"
+  "pregunta": "En una empresa proveedora de electricidad, los indicadores de desempeño laboral en muchos casos no se vieron mejorados a pesar que la gerencia de RRHH implementó una política de remuneración más equitativa, que no produjo reclamos del personal. Este dato que preocupó a las autoridades las motivó a desarrollar una recompensa intrínseca. De las opciones planteadas seleccione la correcta.",
+  "respuesta": "Recomendar a los jefes de área, que motiven a sus colaboradores mediante felicitaciones o frases alentadoras"
  },
  {
-  "pregunta": "Tienes que almacenar datos en forma de tabla en tu aplicación web. ¿Que estructura de datos puedes utilizar? ",
-  "respuesta": "MATRIZ"
+  "pregunta": "En una fábrica de calzados, la última encuesta de clima laboral dentro del área productiva  resultó desfavorable, detectándose diferentes conflictos interpersonales entre los  empleados. Ante ello el jefe de RRHH decide organizar torneos de fútbol y jornadas out  door incluyendo no solo a los afectados sino a todos los integrantes de la planta. ¿Qué  objetivo persigue la decisión tomada? ",
+  "respuesta": "Mejorar la relación individuo-compañeros "
  },
  {
-  "pregunta": "Tienes que cambiar el color de fondo de un elemento HTML. ¿Que puedes utilizar?    ",
-  "respuesta": "CSS"
+  "pregunta": "En una reunión de Directorio, el generente general de una empresa de servicios logísticos expresó ante la falta de resultados esperados para el trimestre: \"Resulta fundamental elaborar una estrategia que esté acorde con el negocio de la compañía y además con su estructura\"...",
+  "respuesta": "Cultura organizacional"
  },
  {
-  "pregunta": "Tienes que crear una pagina web. ¿Qué lenguaje estándar podrías utilizar?     ",
-  "respuesta": "HTML"
+  "pregunta": "En una reunión de equipo del Área Comercial, Pedro y María eligieron el silencio ante las propuestas que realizaban sus pares, ya que en la reunión última fueron cuestionados por no estar de acuerdo con sus compañeros. ¿En qué factores trabajarías para evitar esto?",
+  "respuesta": "Generar confianza."
  },
  {
-  "pregunta": "Tienes que obtener filas de una tabla particular para un nuevo proyecto que se conecta con una base de datos MySQL. ¿Qué sentencia puedes utilizar?     ",
-  "respuesta": "SELECT"
+  "pregunta": "En una reunión entre las áreas de campo, comercial y marketing surgió un proyecto de trabajo conjunto. Mientas lo ejecutan, surgen distintos inconvenientes y se solicita una reunión para conversar sobre tal situación. Participa de la misma y colaboras con las siguientes preguntas en la reunión: ¿Saben cómo hacer lo que se proponen? Se modificó el contexto inicial, ahora ¿cómo se avanzará? ¿Requieren colaboración para cumplir? ¿A qué fase de coordinación se refieren las preguntas?",
+  "respuesta": "Ejecución"
  },
  {
-  "pregunta": "Una de las convenciones de código proponen un tamaño máximo de archivo en cantidad de líneas de código. ¿Cuáles de las siguientes cantidades de líneas de un archivo cumplen con el estándar?     ",
-  "respuesta": "1500-1999-50"
+  "pregunta": "Entre Juan y María, ambos líderes de equipo, no pueden ponerse de acuerdo en tareas operativas y en cada reunión la situación empeora. ¿Qué aconsejas trabajar en ambos líderes?",
+  "respuesta": "Consirerar los sentimientos que aparecen; Apertura interpretativa; Que el mensaje sea más claro."
  },
  {
-  "pregunta": "Las tablas son estructuras muy frecuentes y que cumplen varias funcionalidades en las páginas web, como contenedor de datos, de maqueta, de estructuras. Selecciona las etiquetas que lo conforman",
-  "respuesta": "THEAD: encabezado de la tabla. TR filas de una tabla."
+  "pregunta": "Entre las desventajas de trabajar en equipo, podemos mencionar: Seleccione las 3 (tres)  respuestas correctas ",
+  "respuesta": "El consenso visto como pérdida de tiempo - Que el poder  resida en unas pocas personas - Que nadie tome la responsabilidad de los temas"
  },
  {
-  "pregunta": "Una página HTML se caracteriza por poseer etiquetas (tags) que conforman el documento. Selecciona las etiquetas pertenecientes al encabezado del documento.",
-  "respuesta": "Title define el título de la página, meta define información adicional como el autor, palabras claves, descripción."
+  "pregunta": "Entre los atributos del liderazgo afectivo podemos mencionar (cuatro):",
+  "respuesta": "Brindar esperanza a las personas que dirigen a través de reconocimiento; Fomentan la acción y la aceptación de riesgos; Generan confianza a los miembros del equipo que dirigen; Proveen dirección y significado a la gente que dirigen."
  },
  {
-  "pregunta": "Los navegadores web poseen una herramienta que nos permite, entre otras cosas, inspeccionar elementos de la página. ¿Cuál es esta herramienta?",
-  "respuesta": "Consola"
+  "pregunta": "Federico prometió en una reunión a su equipo que realizaría el feedback de las evaluaciones de desempeño el próximo viernes y esto aún no sucedió. Como profesional de recursos humanos, ¿qué factores pone en juego Federico con esta conducta?",
+  "respuesta": "Confianza de su equipo; Poder realizar nuevas promesas; Credibilidad"
  },
  {
-  "pregunta": "El protocolo HTTP define diferentes métodos para el intercambio de información con el servidor. ¿Qué métodos encuentras en la lista?",
-  "respuesta": "GET PUT POST"
+  "pregunta": "Federico tiene que armar un equipo eficaz con miembros que tengan confianza entre ellos. ¿Qué aspectos debe tener en cuenta?",
+  "respuesta": "Coordinación; Comunicación; Compromiso."
  },
  {
-  "pregunta": "El protocolo HTTP define Estados sobre las peticiones al servidor. ¿Cuál es el estado referente a fallas del lado del servidor?",
-  "respuesta": "5.x.x"
+  "pregunta": "Finalizada la reunión entre los equipos comercial y logística, los miembros de ambos equipos se expresan encontrándose satisfechos. ¿Qué estrategia debieron utilizar para manifestar tal actitud?",
+  "respuesta": "Ganar - Ganar"
  },
  {
-  "pregunta": "Una página HTML se caracteriza por poseer etiquetas (tags) que conforman el documento. Selecciona las etiquetas pertenecientes al cuerpo del documento.",
-  "respuesta": "H1 Img Table"
+  "pregunta": "Gervasio al hacerse cargo como director ejecutivo de una empresa de servicios de limpieza, estableció tres criterios básicos para tener en cuenta en la relación de los jefes de área con sus colaboradores: 1. Atender las motivaciones personales, 2- Interiorizarse de sus problemas familiares. 3- Analizar las secuelas ocasionadas en aquellos que sufrieron enfermedades laborales en la empresa. Al finalizar Gervasio expresó que lo exigido responde a la necesidad de entender que los empleados son seres humanos cuya dignidad trasciende el tiempo y que considera que es una obligación conocer dicha problemática para mejorar el resultado del desempeño laboral. Los parámetros establecidos por Gervasio estaban orientados a:",
+  "respuesta": "Mejorar la calidad de vida de los empleados en el trabajo"
  },
  {
-  "pregunta": "El protocolo HTTP define Estados sobre las peticiones al servidor. ¿Cuál es el estado referente a comunicación exitosa?",
-  "respuesta": "2.x.x"
+  "pregunta": "Hacer sinergia significa",
+  "respuesta": "Que el todo es más que la suma de las partes"
  },
  {
-  "pregunta": "Las aplicaciones web pueden denominarse también como aplicaciones cliente - servidor. ¿Cuántos clientes pueden existir en este tipo de sistemas?",
-  "respuesta": "Múltiples"
+  "pregunta": "Ignacio habla con su supervisor porque quiere crecer en la organización donde está y no sabe cómo hacerlo. ¿Qué recomiendas a su supervisor realizar para acompañar a Ignacio en este proceso?",
+  "respuesta": "Clarificar expectativas; Definición de oportunidades de moejora; Definir plan de carrera"
  },
  {
-  "pregunta": "De igual forma que con las hojas de estilo de cascada, JavaScript permite tener separado nuestro código en un archivo diferente. ¿Cuál referenciamos a la carga de dicho archivo?",
-  "respuesta": "<script src=\"main.js\" type=\"text\/javascript\"><\/script>"
+  "pregunta": "Javier es parte de un equipo de trabajo y entiende que uno de los hábitos positivos de un equipo de trabajo efectivo es que cada uno de los integrantes se haga responsable por una porción del desafío conjunto. ¿De cuál de los elementos del modelo de las 5C es consciente Javier?",
+  "respuesta": "Complementariedad"
  },
  {
-  "pregunta": "JavaScript es un lenguaje orientado a objetos.",
+  "pregunta": "Jorge es parte de un equipo de trabajo y entiende que uno de los hábitos positivos de un  equipo de trabajo efectivo es que el accionar de cada uno de los integrantes se articule con  las acciones y responsabilidades de sus compañeros. ¿De cuál de los elementos del modelo  de las 5C es consciente Jorge? ",
+  "respuesta": "Coordinación"
+ },
+ {
+  "pregunta": "Jorge lidera los proyectos de una empresa de la industria alimenticia. Él permanentemente se encuentra proponiendo nuevas maneras de proceder y se caracteriza por siempre estar un paso delante de la necesidad. ¿Qué hábito positivo tiene desarrollado Jorge?",
+  "respuesta": "Proactividad"
+ },
+ {
+  "pregunta": "Jorge lidera los proyectos de una empresa de la industria alimenticia. Él permanentemente  se encuentra proponiendo nuevas maneras de proceder y se caracteriza por siempre estar un  paso delante de la necesidad. ¿Qué hábito positivo tiene desarrollado Jorge?",
+  "respuesta": "Proactividad"
+ },
+ {
+  "pregunta": "José debe llevar a cabo una negociación de desvinculación de un miembro de su equipo. Para esta negociación solo basta con la información fácilmente disponible.",
+  "respuesta": false
+ },
+ {
+  "pregunta": "José es jefe de selección de una empresa y tiene el objetivo de atraer colaboradores  talentosos a la organización. Es adecuado que él trabaje con el responsable de clima  organizacional para lograr su cometido.",
   "respuesta": true
  },
  {
-  "pregunta": "En cuanto al tipado del lenguaje, ¿en qué categoría se encuentra JavaScript?",
-  "respuesta": "Débilmente tipado."
+  "pregunta": "José ingresó en la empresa Limones SA luego de una ardua selección. Pasado los 6 meses le aumentan el sueldo, pero su desmotivación aumenta cuando ingresa un ingeniero con mayor sueldo y sin experiencia. ¿Qué teoría explica esto?",
+  "respuesta": "Teoría de Adams"
  },
  {
-  "pregunta": "JavaScript es un lenguaje utilizado, entre otras funcionalidades, para captar eventos del usuario sobre nuestras páginas. ¿Qué tipo de lenguaje es?",
-  "respuesta": "JavaScript es un lenguaje interpretado (no necesita compilarse para su ejecución)."
+  "pregunta": "José y su equipo se destacan en la organización por su forma de trabajar y en especial por la comunicación intragrupal. ¿Cuáles son los indicadores que podés tener en cuenta para replicar en otros equipos en formación?",
+  "respuesta": "Manejo de la información; Motivación de los miembros; Control de normas."
  },
  {
-  "pregunta": "De igual forma que con las hojas de estilo de cascada, JavaScript permite tener separado nuestro código en un archivo diferente. ¿Cuál debe ser la extensión de dicho archivo?",
-  "respuesta": ".js"
+  "pregunta": "Josefina se encuentra al mando de un importante proyecto que le requerirá una  impecable comunicación con su equipo de trabajo ¿Cuáles 4 de las siguientes opciones son  los tipos de comunicaciones que deberá utilizar asertivamente? ",
+  "respuesta": "Afirmación - Declaración - Juicio - Promesa "
  },
  {
-  "pregunta": "¿Con qué función nativa del lenguaje JavaScript concatenamos los elementos de un array?",
-  "respuesta": "join()"
+  "pregunta": "Josefina trabaja en una empresa de prestación de servicios como responsable de atención al cliente y desea mejorar su relación con sus compañeros de trabajo. Por lo cual, comprende que debe fortalecer su autoconocimiento personal y emocional. ¿Cuál es el hábito que debe mejorar para ello?",
+  "respuesta": "Proactividad"
  },
  {
-  "pregunta": "¿Con qué operador o función nativa podemos concatenar dos variables de cadena de caracteres en JavaScript?",
-  "respuesta": "Para la concatenación utilizamos el símbolo de suma (+)"
+  "pregunta": "Josefina trabaja en una empresa de prestación de servicios coo responsable de atención al  cliente y desea mejorar su relación con sus compañeros de trabajo. Por ello, desea mejorar  su autoconocimiento personal y emocional. ¿Cuál de los siguientes 2 hábitos debe mejorar  para ello?",
+  "respuesta": "Clarificación de Objetivos - Proactividad "
  },
  {
-  "pregunta": "Cuando estamos cargando una página en el navegador, existe un momento en que la misma se encuentra disponible para que los usuarios puedan comenzar a interactuar. ¿Cuál es el evento que lo detecta?",
-  "respuesta": "Al cargar una página en nuestro navegador tenemos dos situaciones claves, recordando que el proceso de una carga en el navegador comienza con una petición del mismo al servidor, el cual responde enviando el código HTML correspondiente. Primeramente, tenemos el evento ready (la página está lista para ser utilizada por el usuario)"
+  "pregunta": "Juan es colaborador de un área administrativa y desea mejorar su efectividad personal en el trabajo para poder ascender a coordinador de área. Según Covey ¿Con qué otro elemento debe combinar sus capacidades para poder aumentar su efectividad personal?",
+  "respuesta": "Resultados Esperados"
  },
  {
-  "pregunta": "Teniendo una clase llamada Alumnos que debe heredar de una clase más global llamada Personas, ¿cuál sería el código de definición correcto?",
-  "respuesta": "class Alumnos implements Personas, donde implements hace referencia a la interfaz."
+  "pregunta": "Juan es gerente de operaciones de una empresa de servicios logísticos por lo que debe gestionar eficientemente su plantel de colaboradores. Él quiere mejorar el manejo de situaciones con ellos, dejando de lado sus emociones, por lo que debe trabajar internamente su inteligencia emocional.",
+  "respuesta": true
  },
  {
-  "pregunta": "Las clases y los métodos de las mismas tienen una visibilidad respecto a otras clases u objetos de otras clases. ¿Cuáles son las mismas?",
-  "respuesta": "Protected Private Public"
+  "pregunta": "Juan es jefe de administración y le advierte al departamento de compras que un insumo  que necesitan para un servicio cotizado que ya está en ejecución incrementó  considerablemente. Es correcto afirmar que, el departamento de compras, tiene la opción de  revocar la promesa. ",
+  "respuesta": true
  },
  {
-  "pregunta": "Dentro de la programación orientada a objetos encontramos el término Clases ¿Cuál es su definición correcta?",
-  "respuesta": "Son la abstracción de los objetos con los que las personas interactúan en la vida real."
+  "pregunta": "Juan es jefe de una sucursal de venta de electrodomésticos y debe tener una conversación  difícil con uno de sus colaboradores. Él decide tomar la iniciativa e invitarlo un café para  dialogar por lo que manifiesta el siguiente hábito positivo:",
+  "respuesta": "Proactividad "
  },
  {
-  "pregunta": "Dentro de las clases definimos variables, las mismas pueden ser variables miembros o variables finales. ¿Cuáles son sus diferencias?",
-  "respuesta": "Las primeras varían durante el ciclo de vida del objeto, las segundas siempre permanecen constantes."
+  "pregunta": "Juan quiere conservar la relación con sus compañeros de trabajo por lo que no le conviene llevar a cabo acuerdos ganar-ganar",
+  "respuesta": false
  },
  {
-  "pregunta": "¿Cómo se definen los métodos finales dentro de una clase?",
-  "respuesta": "final function metodo()"
+  "pregunta": "Juan se destacó en el último semestre por su desempeño exitoso. ¿Qué pueden haber observado los jefes para destacarlo como exitoso?",
+  "respuesta": "Conductas; Resultados"
  },
  {
-  "pregunta": "Las clases pueden contener métodos, ¿cómo los definirías?",
-  "respuesta": "Son funciones o procedimientos."
+  "pregunta": "Juan, líder de un equipo comercial, desea que Luisa modifique algunas conductas del trimestre pasado. Como profesional de RRLL, ¿qué acción le recomiendas implementar?",
+  "respuesta": "Realizar un feedback de conductas"
  },
  {
-  "pregunta": "Las clases y los métodos de las mismas tienen una visibilidad respecto a otras clases u objetos de otras clases. ¿Cuál es la visibilidad por defecto, si no la especificamos?",
-  "respuesta": "PUBLIC"
+  "pregunta": "Juana y Federico en su reunión de equipo se enfocan en soluciones creativas y beneficiosas para las partes. ¿Qué hábito ponen en función?",
+  "respuesta": "Pensar ganar – ganar."
  },
  {
-  "pregunta": "¿Qué tipo de variable es $_POST?",
-  "respuesta": "Array asociativo superglobal."
+  "pregunta": "La confianza reporta diversos beneficios a la organización.Entre los más significativos podemos mencionar: Seleccione las 4 (cuatro) respuestas correctas.",
+  "respuesta": "Bajan los índices de ausentismo y rotación - Mejoran los índices de productividad y rentabilidad - Reciben más y mejor cantidad de postulaciones de empleo - Se genera más innovación y creatividad"
  },
  {
-  "pregunta": "PHP y el lenguaje HTML nos permiten realizar formularios web. ¿Cuáles son las variables utilizadas por PHP para acceder a los valores enviados desde un formulario?",
-  "respuesta": "$_POST, $_GET y $_REQUEST"
+  "pregunta": "La eficaz coordinación de acción permite el aprendizaje y la mejora continua en los equipos de trabajo.",
+  "respuesta": true
  },
  {
-  "pregunta": "PHP incluye una variable para almacenar los datos de una sesión de usuario. ¿Cuál es esta variable?",
-  "respuesta": "$_SESSION"
+  "pregunta": "La evaluación de desempeño de Luis, contador de una fábrica de pastas, dio por segundo  año consecutivo un resultado por debajo de los valores medios esperados, pese a que se le  había brindado capacitación y aumento salarial. Luis además incumple con su horario de  trabajo, no presenta los informes necesarios a tiempo y en el último mes se le aplicó una  sanción disciplinaria por no presentar a tiempo una planilla de pago impuestos. En este  caso, la evaluación de desempeño realizada a Luis puede servir para: ",
+  "respuesta": "Tomar una decisión sobre su ubicación en la empresa"
  },
  {
-  "pregunta": "PHP cuenta con una función nativa muy utilizada para la validación de datos, en especial los del formulario. ¿Cuál es dicha función?",
-  "respuesta": "filter_var"
+  "pregunta": "La evaluación de desempeño es el medio por el cual se puede conocer y relevar información sobre las personas de los equipos.",
+  "respuesta": true
  },
  {
-  "pregunta": "Cuando trabajamos con formularios, siempre debemos verificar que los datos cargados por el usuario sean correctos a los solicitados. ¿Dónde realizamos la validación de los mismos?",
-  "respuesta": "Servidor y Cliente"
+  "pregunta": "La gerencia general de una empresa, le solicita al área de RRHH, que presente un informe de los trabajadores actuales para conocer distintos aspectos como sexo, edad, país de origen, antigüedad en la empresa, años de experiencia laboral, tipo de contrato, tipo de jornada, nivel de estudios, cursos realizados y personas con discapacidad. Con el conocimiento de esos datos, ¿qué aspecto de la empresa se está diagnosticando?",
+  "respuesta": "La diversidad de su planta laboral"
  },
  {
-  "pregunta": "En un formulario Web disponemos de una propiedad de los elementos (por ejemplo, input o textarea) que almacenará el valor cargado por el usuario en dicho componente. ¿Cuál es esta propiedad?",
-  "respuesta": "Name"
+  "pregunta": "La organización es más eficiente cuando posee y conoce diversidad en los miembros de los equipos.",
+  "respuesta": true
  },
  {
-  "pregunta": "PHP nos permite graficar código HTML mediante estructuras de repetición. ¿Cuáles serían?",
-  "respuesta": "For, while, foreach son estructuras de repetición, por lo cual, pueden tener muchas aplicaciones, entre ellas, graficar código HTML mediante sus estructuras."
+  "pregunta": "La organización es más eficiente si realiza evaluaciones de desempeño a los miembros de los distintos equipos.",
+  "respuesta": true
  },
  {
-  "pregunta": "Al crear un formulario HTML que debe enviarnos una imagen a nuestro servidor, ¿cuál es la mejor forma de definirlo?",
-  "respuesta": "<form method=\"POST\" enctype=\"multipart\/form-data\">"
+  "pregunta": "La organización Limones SA quiere implementar una nueva cultura de hacer. Como profesional, ¿en qué áreas recomiendas trabajar?",
+  "respuesta": "Gestión del conflicto en base a la confianza; Definición y comunicación clara de objetivos; Coherencia entre lo que se dice, siente y hace."
+ },
+ {
+  "pregunta": "La personalidad de un individuo está motivada por los siguientes factores: Seleccione las 4 (cuatro) respuestas correctas.",
+  "respuesta": "Clase social - Entorno cultural - Herencia - Relaciones familiares"
+ },
+ {
+  "pregunta": "Las relaciones de confianza de un equipo u otra organización se dan entre: colaboradores y sus jefes, entre colaboradores entre sí, y entre cual otra?",
+  "respuesta": "Entre colaboradores y organización"
+ },
+ {
+  "pregunta": "Lograr un cambio de actitud depende de los siguientes tres factores:",
+  "respuesta": "El comunicador; El mensaje; La situación"
+ },
+ {
+  "pregunta": "Los objetivos semestrales del área comercial deben ser comunicados próximamente. Piden nuestra colaboración en el armado de estos objetivos, ¿qué aspectos le recomiendas tener en cuenta?",
+  "respuesta": "Objetivos alcanzables; objetivos específicos; objetivos medibles."
+ },
+ {
+  "pregunta": "Luego de realizar una evaluación de desempeño al área administrativa de una empresa textil se detectó que el personal no tenía conocimientos del marco legal, ni de los sistemas de información, motivo por el cual se generaban cruzamientos de datos y la información necesaria para la toma de decisiones resultaba inexacta e inoportuna. Dada la situación, ¿sobre qué aspecto principal debe trabajar el área de RRHH?",
+  "respuesta": "Capacitación al personal"
+ },
+ {
+  "pregunta": "Marcelo , gerente comercial de una fábrica de galletitas, se reúne con Gastón, jefe de  ventas, para conversar algunos aspectos de su desempeño laboral dado que observa que los  números de ventas no están siendo los esperados según el objetivo mensual fijado. En la  conversación, Gastón manifiesta que no tiene el personal a cargo necesario para el logro de  los objetivos dado que la gerencia de ventas, decidió desvincular por motivos económicos a  dos de sus 5 vendedores, aunque manteniendo el mismo objetivo comercial. Teniendo en  cuenta esta situación, ¿En qué se basa Gastón para justificar que su desempeño no es el  esperado? ",
+  "respuesta": "Siente que no cuenta con recursos y herramientas necesarios  para hacer su trabajo."
+ },
+ {
+  "pregunta": "María no está obteniendo los resultados solicitados por su supervisor en el área de ventas. ¿En qué requiere trabajar para modificar estos resultados deficientes?",
+  "respuesta": "Motivación; Actitud"
+ },
+ {
+  "pregunta": "María, al recibir su devolución de desempeño del semestre, se pone triste y se angustia y se dirige al área de RRHH. La recibes y conversan sobre lo sucedido, ¿dónde debe estar el foco de la charla?",
+  "respuesta": "Oportunidades de mejora; Fortalezas; Emociones"
+ },
+ {
+  "pregunta": "Marianela, se desempeña como especialista en seguridad e higiene para una compañía proveedora de gas natural. En su última evaluación de desempeño, su calificación resultó sobresaliente. Sus colegas y jefe respetan profundamente su labor. En diferentes oportunidades se le otorgaron responsabilidades más complejas de las que su puesto de trabajo exige, observándose que por temor, no logró satisfacer el nivel esperado. Según la matriz desempeño\/potencial, ¿a qué grupo pertenece Marianela?",
+  "respuesta": "Desempeño alto-potencial bajo"
+ },
+ {
+  "pregunta": "Paulina es Jefa del área de Clima Organizacional de una reconocida empresa nacional.  Ella tiene el pedido por parte de la dirección de mejorar el clima de la organización ¿En  cuáles 4 de los siguientes aspectos deberá hacer foco para lograrlo? ",
+  "respuesta": "Entorno de trabajo - Persona - Puesto de trabajo - Situaciones extra laborales "
+ },
+ {
+  "pregunta": "Paulina es parte de un equipo de trabajo y entiende que uno de los hábitos positivos de  un equipo de trabajo efectivo es que cada uno de los integrantes haga un aporte genuino por  cumplir con sus responsabilidades. ¿De cuál de los elementos del modelo de las 5C es  consciente Paulina?",
+  "respuesta": "Compromiso"
+ },
+ {
+  "pregunta": "Pedro se encuentra al mando de un importante proyecto que le requerirá una impecable  coordinación de acciones con su equipo de trabajo ¿Cuáles 4 de las siguientes opciones son  las etapas del ciclo de coordinación de acciones que deberá tener en cuenta?",
+  "respuesta": "Aseguramiento - Ejecución - Negociación - Preparación"
+ },
+ {
+  "pregunta": "Ramiro se destaca como líder en los equipos por su capacidad de escucha. ¿Qué rasgos se destacan en una escucha efectiva?",
+  "respuesta": "Desapego de la mirada propia; Entender lo que se dice; Preguntar dudas."
+ },
+ {
+  "pregunta": "Según el modelo de las \"5 C\" , ¿A cuál de las 5C se hace referencia al afirmar que cada integrante del equipo se hace responsable de cada una de las partes y que cada una de las partes es fundamental para el logro del objetivo principal?",
+  "respuesta": "Complementariedad"
+ },
+ {
+  "pregunta": "Seleccione 4 limitantes para el desempeño laboral ",
+  "respuesta": "Conflictos personales con sus compañeros - Desmotivación - Insatisfacción con el sueldo - Problemas personales"
+ },
+ {
+  "pregunta": "Sofía es Gerenta de Ventas y llama por teléfono al Gerente de Administración porque tiene algunas dudas de interpretación en los indicadores de un informe mensual. ¿Qué tipo de comunicación se produjo en este caso?",
+  "respuesta": "Comunicación horizontal"
+ },
+ {
+  "pregunta": "Sos parte del equipo de capital humano, y debes seleccionar postulantes cuyas competencias destacables son participación y escucha. Estos son los perfiles adecuados para tener en cuenta en un equipo.",
+  "respuesta": true
+ },
+ {
+  "pregunta": "Te invitan a formar parte del equipo de capital humano y el desafío es transformar la empresa en el mejor lugar para trabajar. ¿Por dónde debes iniciar?",
+  "respuesta": "Formación del capital humano en habilidades y actitudes."
+ },
+ {
+  "pregunta": "Tener habilidades de autoconocimiento y autocontrol, supone tener:",
+  "respuesta": "Inteligencia emocional"
+ },
+ {
+  "pregunta": "Un empleado de una empresa agrícola se ofrece para ayudar a un equipo de trabajo en un proyecto nuevo en donde supone que puede hacer un aporte significativo a la causa. En este caso, ¿Qué actitud está adoptando?",
+  "respuesta": "Toma la iniciativa"
+ },
+ {
+  "pregunta": "Una de las ventajas de la evaluación de desempeño es la:",
+  "respuesta": "Revisión de políticas de compensación salarial"
+ },
+ {
+  "pregunta": "Una estrategia de resolución de conflictos de evitación se relaciona con modo de relación: vos estas bien, yo estoy mal.",
+  "respuesta": false
  }
 ]
