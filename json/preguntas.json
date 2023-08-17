@@ -1,454 +1,338 @@
 [
  {
-  "pregunta": "¿A qué denominamos hábito en la gestión de personas? ",
-  "respuesta": "Conducta que se repite"
+  "pregunta": "¿Cómo se define el servicio de AWS Direct Connected?",
+  "respuesta": "Es un servicio de AWS que establece una conexión de red privada dedicada desde un centro de datos, oficina o entorno de coubicación, a AWS"
  },
  {
-  "pregunta": "¿Cuál considera que es la base del paradigma ganar\/ganar la cual se relaciona con los hábitos para la efectividad personal?",
-  "respuesta": "Carácter"
+  "pregunta": "¿Cómo se denominan los servicios esenciales de AWS?",
+  "respuesta": "Son parte de la infraestructura básica de la nube de Amazon."
  },
  {
-  "pregunta": "¿Cuál de las siguientes opciones es uno de las desventajas directas del trabajo en equipo  para las organizaciones? ",
-  "respuesta": "Ausencia de Responsabilidad "
+  "pregunta": "¿Cuál de las siguientes instancias permite un contrato entre uno a 3 años con Amazon?",
+  "respuesta": "Instancias Reservadas."
  },
  {
-  "pregunta": "¿Cuál de las siguientes opciones es uno de los beneficios directos del trabajo en equipo para los individuos?",
-  "respuesta": "Facilita la integración"
+  "pregunta": "¿Cuál de las siguientes instancias puede ser terminada automáticamente, si no estamos atentos a la variación de su precio en tiempo real?",
+  "respuesta": "Instancias spot"
  },
  {
-  "pregunta": "¿Cuál de las siguientes opciones es uno de los beneficios directos del trabajo en equipo  para las organizaciones? ",
-  "respuesta": "Aumento de Conocimiento "
+  "pregunta": "¿Cuál es la definición de una arquitectura de nube en Amazon Web Services?",
+  "respuesta": "Constituye la forma de organizar e integrar las tecnologías que conforman la nube de Amazon."
  },
  {
-  "pregunta": "¿Cuál puede considerarse una ventaja competitiva organizacional que contribuya a  fomentar la creatividad, innovación y desarrollo del talento? ",
-  "respuesta": "Diversidad"
+  "pregunta": "¿Cuáles de estos enunciados coinciden con la definición correcta de OpenStack?",
+  "respuesta": "Es un proyecto de nube open source; Es un proyecto que proporciona infraestructura como servicio (IaaS)"
  },
  {
-  "pregunta": "¿Cuáles son las tres variables consideradas como la principal causal de la incapacidad de coordinar acciones dentro de una organización? Seleccione las 3 respuestas correctas",
-  "respuesta": "La falta de apoyo mutuo entre personas; La falta de confianza; La falta de respeto"
+  "pregunta": "¿Cuáles de estos enunciados coinciden con la definición correcta de OpenStack? Seleccione las 2 (dos) respuestas correctas.",
+  "respuesta": "Es un proyecto que proporciona infraestructura como servicio (IaaS); Es un proyecto de nube open source."
  },
  {
-  "pregunta": "¿De qué naturaleza son los hábitos?",
-  "respuesta": "Adquiridos"
+  "pregunta": "¿Cuándo es conveniente utilizar una nube pública?",
+  "respuesta": "Cuando deseamos escalar horizontalmente; Cuando se desea una estructura escalable sin adquirirlos componentes de hardware y software"
  },
  {
-  "pregunta": "¿En qué aspecto actualmente muy valorado debe hacer foco una empresa que quiere captar y atraer talento?",
-  "respuesta": "Cultura organizacional"
+  "pregunta": "¿Cuándo es conveniente utilizar una nube pública? Seleccione las 2 (dos) respuestas correctas.",
+  "respuesta": "Cuando deseamos escalar horizontalmente; Cuando se desea una infraestructura escalable sin adquirir los componentes de hardware y software."
  },
  {
-  "pregunta": "¿En qué debería trabajar el responsable de RRHH de una empresa que muestra en su  última encuesta de clima laboral un bajo índice de satisfacción del personal generando baja  productividad y en consecuencia poniendo en peligro los objetivos organizacionales? ",
-  "respuesta": "Gestionar la inteligencia emocional"
+  "pregunta": "¿Cuándo es necesario utilizar Security Group?",
+  "respuesta": "Cuando se desea tener control sobre los puertos y protocolos; Siempre, es por defecto"
  },
  {
-  "pregunta": "¿En qué fase del proceso de formación y desarrollo nos encontramos si por ejemplo, el responsable de RRHH de una fábrica de helados, analiza junto a los responsables de los sectores de administración, ventas, entre otros, las necesidades de capacitación?",
-  "respuesta": "Fase de análisis"
+  "pregunta": "¿El servicio Amazon Virtual Private Cloud permite que nos conectemos a servidores desplegados dentro de una VPC, mediante el protocolo Virtual Private Network (VPN)?",
+  "respuesta": "Si, se permite"
  },
  {
-  "pregunta": "¿Qué tipo de comunicación es la qiue genera una nueva realidad que a su vez lleva a una nueva acción?",
-  "respuesta": "Declaración"
+  "pregunta": "¿Qué es una nube híbrida?",
+  "respuesta": "Es una solución que combina una nube privada con uno o más servicios de nube pública con software exclusivo que permite la comunicación entre cada servicio distinto; Servicios potentes que proporcionan a las empresas un mayor control de sus datos privados"
  },
  {
-  "pregunta": "Además de la cultura, ¿qué otros dos elementos definen el comportamiento de los  individuos en una organización? Seleccione las 2 (dos) respuestas correctas. ",
-  "respuesta": "La estrategia organizacional - La estructura organizacional"
+  "pregunta": "¿Qué es una nube híbrida?",
+  "respuesta": "Una solución que combina una nube privada con uno o más servicios de nube pública con software exclusivo, que permite la comunicación entre cada servicio distintivo."
  },
  {
-  "pregunta": "Además de las tareas operativas a realizar dentro de una organización, qué otra tarea típica resulta fundamental para el cumplimiento de los resultados organizacionales?",
-  "respuesta": "De coordinación"
+  "pregunta": "¿Qué es una nube privada?",
+  "respuesta": "Las nubes privadas son entornos de nube diseñados solo para el usuario final, generalmente dentro del firewall"
  },
  {
-  "pregunta": "Además de nuestros prejuicios y paradigmas, ¿qué otro factor puede determinar nuestra  percepción? ",
-  "respuesta": "Estereotipos "
+  "pregunta": "¿Qué son las instancias de EC2?",
+  "respuesta": "Entornos informáticos virtuales \/ Instancias de Amazon"
  },
  {
-  "pregunta": "Algunos factores que determinan las diferencias individuales son: Seleccione las 4 (cuatro) respuestas correctas.",
-  "respuesta": "De actitud - De capacidades y habilidades - De percepción - De personalidad"
+  "pregunta": "¿Qué son los servicios Core?",
+  "respuesta": "Son parte de la Infraestructura Básica de la Nube de Amazon"
  },
  {
-  "pregunta": "Como integrante del equipo de relaciones laborales realizas la contratación de una profesional externa para el reclutamiento de perfiles del área contable. Presentada la terna y seleccionado un postulante, no quedan conformes con los perfiles, y le proponen abonar el 50 % de lo establecido a la consultora, con lo cual la profesional no está de acuerdo porque realizó su trabajo. Como integrante del área, usted ¿podría describir que pasó?",
-  "respuesta": "Detalle insuficiente de condiciones de contratación; Petición no clara; No se respetó el contrato."
+  "pregunta": "¿Qué sucede cuando se selecciona el estado “stop” en una instancia EC2?. Selecciona las 2 opciones correctas",
+  "respuesta": "Esta se cierra de forma normal. El volumen de dispositivo raíz se elimina de forma predeterminada, pero cualquier volumen de Amazon EBS asociado, se conserva de forma predeterminada; Se lleva a cabo un cierre normal y después de una transición a un estado stopped. Todos los volúmenes de Amazon EBS se mantienen adjuntos y se puede iniciar la instancia de nuevo más adelante"
  },
  {
-  "pregunta": "Como parte del área de RRLL debes colaborar en el armado de un equipo comercial para la organización LIMONES SA. ¿Qué actitudes privilegia en las personas?",
-  "respuesta": "Iniciativa; Orientación en resultados; Compromiso"
+  "pregunta": "¿Qué tipo de instancia es la adecuada, si necesitas utilizar un software que, por su diseño, no permite que sea virtualizado?",
+  "respuesta": "Host dedicados"
  },
  {
-  "pregunta": "Cuando un empleado espera determinados programas de beneficios, capacitación y políticas justas dentro de su empresa, ¿en qué relación clave se fundamenta su expectativa?",
-  "respuesta": "Relación individuo - organización"
+  "pregunta": "¿Quién fue el fundador de RackSpace?",
+  "respuesta": "Taylor Rhodes"
  },
  {
-  "pregunta": "Dentro de las ventajas del trabajo en equipo para los individuos de una organización  podemos mencionar: Seleccione las 4 (cuatro) respuestas correctas ",
-  "respuesta": "Aumenta la satisfacción por el logro compartido - Promueve  el respeto - Promueve la toma de decisiones por consenso - Promueve una  mayor integración entre las personas "
- },
- {
-  "pregunta": "Desde el área de relaciones laborales, se seleccionó a un postulante para ingresar al área de mantenimiento y deben realizar la oferta laboral para el ingreso. Como profesional del área, ¿qué requisitos debe cumplir esta oferta?",
-  "respuesta": "Detalle y Claridad en cuestiones administración; Explicación de cuestiones de formación e inducción a la organización."
- },
- {
-  "pregunta": "El área de RRHH, observó que todos los integrantes del sector de mantenimiento de  maquinarias de una empresa agropecuaria obtuvo las calificaciones más bajas en su  evaluación de desempeño, dato que alertó y puso de manifiesto la necesidad de revertir dicha situación. Al analizar más en profundidad, se dieron cuenta que los empleados no  tenían bien clarificadas sus responsabilidades, ni delimitadas sus tareas. ¿Sobre qué aspecto  fundamental deberá trabajar el responsable de RRHH para revertir la situación?",
-  "respuesta": "Corregir los errores del diseño de puesto"
- },
- {
-  "pregunta": "El directorio de una empresa agroquímica, le comunica al todo el personal la compra de un nuevo edificio al cual deberán mudarse en los próximos 6 meses. ¿Qué tipo de comunicación se produjo en este caso?",
-  "respuesta": "Comunicación descendente"
- },
- {
-  "pregunta": "El equipo comercial y de administración suelen tener múltiples conflictos operativos por la falta de comunicación entre los equipos. Se solicita intervención a relaciones laborales para solucionar tal situación. ¿En qué aspectos recomiendas trabajar?",
-  "respuesta": "Foco en la relaciones a largo plazo; Convergencia de intereses; Conocer la intención de la negociación."
- },
- {
-  "pregunta": "El equipo de Federico debe abrir nuevas oficinas virtuales en distintas partes del país. ¿Qué ventaja le dirías que obtiene de ello?",
-  "respuesta": "Optimización del tiempo; Optimización del costo; Recursos especializados."
- },
- {
-  "pregunta": "El equipo de María no está conforme con la forma de trabajo y los resultados que obtienen. Hay temas pilares en los cuales trabajar. ¿Qué recomiendas hacer?",
-  "respuesta": "Poner en evidencia los conflictos; Actividades de trabajo en equipo; Conocer a las personas del equipo."
- },
- {
-  "pregunta": "El equipo de marketing te solicita un curso de formación en redes sociales porque hay dificultades para vender y promocionar productos en el canal digital. ¿Qué acto utilizó el jefe de marketing para tal conversación?",
-  "respuesta": "Declaración"
- },
- {
-  "pregunta": "El equipo de relaciones laborales quiere dictar el bimestre próximo un curso de formación de conversaciones efectivas. ¿Qué temas propones para incluir en el temario del curso?",
-  "respuesta": "Promesa; Petición; Negociación"
- },
- {
-  "pregunta": "El gerente de RRHH de una empresa automotriz, ha observado que se está incrementando  el índice de bajas de personal con mayor talento por renuncia. Al analizar las entrevistas de  salida, la información recabada indica que el motivo de las bajas es por la falta de  programas de beneficio. ¿Qué tipo de relación clave entre los individuos debe mejorar para  retener y captar nuevos talentos? ",
-  "respuesta": "Relación individuo-organización "
- },
- {
-  "pregunta": "El jefe de una base antártica impartió directivas a sus colaboradores para realizar un traslado aéreo de carga y correspondencia a otra base. No especificó claramente el horario de despegue. Hasta último momento no se supo quiénes eran los integrantes de la tripulación de vuelo. Dejó de impartir directivas claras para la carga de combustible del avión y conocer el último parte meteorológico del aeródromo de destino. El resultado final fue que la operación aérea prevista no se pudo llevar a cabo. De acuerdo a lo expresado, ¿cuál considera Ud. que fue la falla que cometió el jefe de base?",
-  "respuesta": "Incapacidad de coordinar acciones"
- },
- {
-  "pregunta": "El lenguaje es la principal característica para la descripción de la realidad.",
-  "respuesta": true
- },
- {
-  "pregunta": "El proceso de observar y entender la realidad según la experiencia y aprendizaje refiere a:",
-  "respuesta": "Percepción"
- },
- {
-  "pregunta": "El propósito de una recompensa intrínseca permite ",
-  "respuesta": "Reconocer un esfuerzo y mejorar el crecimiento personal."
- },
- {
-  "pregunta": "El responsable de RRHH, de una empresa desarrolladora de software, ordenó unificar en el comedor las mesas para que los directivos puedan interactuar con los empleados y viceversa. ¿Qué objetivo persigue la empresa?",
-  "respuesta": "Disminuir los elementos de status"
- },
- {
-  "pregunta": "El responsable del área de control de Gestión de una empresa de seguros de vida, alertó al gerente comercial, que las productividades individuales del equipo de venta zona norte seguían sin repuntar. Cuando esta autoridad indagó sobre las posibles causas del problema planteado, varios integrantes del referido equipo de ventas le manifestaron que el motivo de la baja productividad era que el jefe del equipo no había cumplido una serie de promesas efectuadas a sus colaboradores lo que generó entre ellos una notable merma en la credibilidad de los valores asumidos como persona y sobre la capacidad de gestión de su jefe. Según los hechos relatados , ¿cuál fue el clima que generó la actitud del jefe de ventas del equipo de zona norte entre sus colaboradores?",
-  "respuesta": "Clima de desconfianza"
- },
- {
-  "pregunta": "El resultado obtenido en un puesto de trabajo depende exclusivamente de la capacidad y competencias de una persona.",
+  "pregunta": "Al crear una cuenta en Amazon, debemos crear el componente Internet Gateway",
   "respuesta": false
  },
  {
-  "pregunta": "En el proceso de selección de un analista junior de RRHH se presentaron 3 candidatos. Vos, como responsable de la búsqueda, ¿qué postulante tendrías en cuenta en primera instancia?",
-  "respuesta": "Potencial"
+  "pregunta": "Al momento de crear tus recursos dentro de Amazon, necesitas asegurarte de que todos estén interconectados y de que puedas administrar reglas que permitan que el tráfico que desees fluya tanto de salida como de entrada. ¿Qué solución elegirías, de las que ofrece Amazon, para alcanzar este objetivo?",
+  "respuesta": "Utilizaría una Virtual Private Cloud (VPC)."
  },
  {
-  "pregunta": "En la devolución de desempeño de María le relatan que posee un manejo deficiente en sistemas operativos. ¿Qué acción aconsejan desde el área de RRHH?",
-  "respuesta": "Tutoría con experto; Formación"
+  "pregunta": "Al momento de redactar un informe técnico para tu empresa, debes explicar, con alguno de los siguientes conceptos, la ventaja de migrar a la nube de Amazon ¿Cuál eliges?",
+  "respuesta": "La superioridad de Opex vs Capex"
  },
  {
-  "pregunta": "En la organización Limones SA se presentaron diversos conflictos de equipo en el semestre pasado. Como parte del equipo de RRLL, hay que solucionar estos conflictos. ¿Cuáles son los objetivos que debe definir la gerencia de RRLL?",
-  "respuesta": "Objetivos vinculados a gestión de personas."
- },
- {
-  "pregunta": "En últimas investigaciones publicadas se plantea que el mercado laboral de la Argentina es un desafío para los próximos años y esto requiere focalizarse en ciertas áreas, ¿cuáles?",
-  "respuesta": "Foco en las nuevas habilidades de gestión y tecnológicas."
- },
- {
-  "pregunta": "En un curso de autoconocimiento Martina diseñó su ikigai, y con ello pudo conocer acerca de ciertos aspectos pocos claros hasta ahora. ¿Cuáles?",
-  "respuesta": "Pasión; Misión; Vocación."
- },
- {
-  "pregunta": "En una empresa automotriz, el ingeniero industrial a cargo de la planta de armado de  motores, obtuvo una excelente calificación en la última evaluación de desempeño. La  empresa lo considerará para posiciones jerárquicas superiores. Según la matriz  desempeño\/potencial, ¿qué debe hacer la compañía para retener al ingeniero? ",
-  "respuesta": "Invertir seriamente, ofreciéndole oportunidades de carrera "
- },
- {
-  "pregunta": "En una empresa prepaga de salud se llevan a cabo programas de formación a los  vendedores, y se ha observado que no resultan efectivos los métodos de aprendizaje que se  decidieron utilizar porque no se logró cumplir uno los objetivos propuestos, puntualmente  el que establecía dar a conocer con claridad el servicio de salud que la compañía brinda.  ¿Qué fase del proceso de formación deberán mejorar ? ",
-  "respuesta": "Fase de implementación "
- },
- {
-  "pregunta": "En una empresa proveedora de electricidad, los indicadores de desempeño laboral en muchos casos no se vieron mejorados a pesar que la gerencia de RRHH implementó una política de remuneración más equitativa, que no produjo reclamos del personal. Este dato que preocupó a las autoridades las motivó a desarrollar una recompensa intrínseca. De las opciones planteadas seleccione la correcta.",
-  "respuesta": "Recomendar a los jefes de área, que motiven a sus colaboradores mediante felicitaciones o frases alentadoras"
- },
- {
-  "pregunta": "En una fábrica de calzados, la última encuesta de clima laboral dentro del área productiva  resultó desfavorable, detectándose diferentes conflictos interpersonales entre los  empleados. Ante ello el jefe de RRHH decide organizar torneos de fútbol y jornadas out  door incluyendo no solo a los afectados sino a todos los integrantes de la planta. ¿Qué  objetivo persigue la decisión tomada? ",
-  "respuesta": "Mejorar la relación individuo-compañeros "
- },
- {
-  "pregunta": "En una reunión de Directorio, el generente general de una empresa de servicios logísticos expresó ante la falta de resultados esperados para el trimestre: \"Resulta fundamental elaborar una estrategia que esté acorde con el negocio de la compañía y además con su estructura\"...",
-  "respuesta": "Cultura organizacional"
- },
- {
-  "pregunta": "En una reunión de equipo del Área Comercial, Pedro y María eligieron el silencio ante las propuestas que realizaban sus pares, ya que en la reunión última fueron cuestionados por no estar de acuerdo con sus compañeros. ¿En qué factores trabajarías para evitar esto?",
-  "respuesta": "Generar confianza."
- },
- {
-  "pregunta": "En una reunión entre las áreas de campo, comercial y marketing surgió un proyecto de trabajo conjunto. Mientas lo ejecutan, surgen distintos inconvenientes y se solicita una reunión para conversar sobre tal situación. Participa de la misma y colaboras con las siguientes preguntas en la reunión: ¿Saben cómo hacer lo que se proponen? Se modificó el contexto inicial, ahora ¿cómo se avanzará? ¿Requieren colaboración para cumplir? ¿A qué fase de coordinación se refieren las preguntas?",
-  "respuesta": "Ejecución"
- },
- {
-  "pregunta": "Entre Juan y María, ambos líderes de equipo, no pueden ponerse de acuerdo en tareas operativas y en cada reunión la situación empeora. ¿Qué aconsejas trabajar en ambos líderes?",
-  "respuesta": "Consirerar los sentimientos que aparecen; Apertura interpretativa; Que el mensaje sea más claro."
- },
- {
-  "pregunta": "Entre las desventajas de trabajar en equipo, podemos mencionar: Seleccione las 3 (tres)  respuestas correctas ",
-  "respuesta": "El consenso visto como pérdida de tiempo - Que el poder  resida en unas pocas personas - Que nadie tome la responsabilidad de los temas"
- },
- {
-  "pregunta": "Entre los atributos del liderazgo afectivo podemos mencionar (cuatro):",
-  "respuesta": "Brindar esperanza a las personas que dirigen a través de reconocimiento; Fomentan la acción y la aceptación de riesgos; Generan confianza a los miembros del equipo que dirigen; Proveen dirección y significado a la gente que dirigen."
- },
- {
-  "pregunta": "Federico prometió en una reunión a su equipo que realizaría el feedback de las evaluaciones de desempeño el próximo viernes y esto aún no sucedió. Como profesional de recursos humanos, ¿qué factores pone en juego Federico con esta conducta?",
-  "respuesta": "Confianza de su equipo; Poder realizar nuevas promesas; Credibilidad"
- },
- {
-  "pregunta": "Federico tiene que armar un equipo eficaz con miembros que tengan confianza entre ellos. ¿Qué aspectos debe tener en cuenta?",
-  "respuesta": "Coordinación; Comunicación; Compromiso."
- },
- {
-  "pregunta": "Finalizada la reunión entre los equipos comercial y logística, los miembros de ambos equipos se expresan encontrándose satisfechos. ¿Qué estrategia debieron utilizar para manifestar tal actitud?",
-  "respuesta": "Ganar - Ganar"
- },
- {
-  "pregunta": "Gervasio al hacerse cargo como director ejecutivo de una empresa de servicios de limpieza, estableció tres criterios básicos para tener en cuenta en la relación de los jefes de área con sus colaboradores: 1. Atender las motivaciones personales, 2- Interiorizarse de sus problemas familiares. 3- Analizar las secuelas ocasionadas en aquellos que sufrieron enfermedades laborales en la empresa. Al finalizar Gervasio expresó que lo exigido responde a la necesidad de entender que los empleados son seres humanos cuya dignidad trasciende el tiempo y que considera que es una obligación conocer dicha problemática para mejorar el resultado del desempeño laboral. Los parámetros establecidos por Gervasio estaban orientados a:",
-  "respuesta": "Mejorar la calidad de vida de los empleados en el trabajo"
- },
- {
-  "pregunta": "Hacer sinergia significa",
-  "respuesta": "Que el todo es más que la suma de las partes"
- },
- {
-  "pregunta": "Ignacio habla con su supervisor porque quiere crecer en la organización donde está y no sabe cómo hacerlo. ¿Qué recomiendas a su supervisor realizar para acompañar a Ignacio en este proceso?",
-  "respuesta": "Clarificar expectativas; Definición de oportunidades de moejora; Definir plan de carrera"
- },
- {
-  "pregunta": "Javier es parte de un equipo de trabajo y entiende que uno de los hábitos positivos de un equipo de trabajo efectivo es que cada uno de los integrantes se haga responsable por una porción del desafío conjunto. ¿De cuál de los elementos del modelo de las 5C es consciente Javier?",
-  "respuesta": "Complementariedad"
- },
- {
-  "pregunta": "Jorge es parte de un equipo de trabajo y entiende que uno de los hábitos positivos de un  equipo de trabajo efectivo es que el accionar de cada uno de los integrantes se articule con  las acciones y responsabilidades de sus compañeros. ¿De cuál de los elementos del modelo  de las 5C es consciente Jorge? ",
-  "respuesta": "Coordinación"
- },
- {
-  "pregunta": "Jorge lidera los proyectos de una empresa de la industria alimenticia. Él permanentemente se encuentra proponiendo nuevas maneras de proceder y se caracteriza por siempre estar un paso delante de la necesidad. ¿Qué hábito positivo tiene desarrollado Jorge?",
-  "respuesta": "Proactividad"
- },
- {
-  "pregunta": "Jorge lidera los proyectos de una empresa de la industria alimenticia. Él permanentemente  se encuentra proponiendo nuevas maneras de proceder y se caracteriza por siempre estar un  paso delante de la necesidad. ¿Qué hábito positivo tiene desarrollado Jorge?",
-  "respuesta": "Proactividad"
- },
- {
-  "pregunta": "José debe llevar a cabo una negociación de desvinculación de un miembro de su equipo. Para esta negociación solo basta con la información fácilmente disponible.",
+  "pregunta": "Cloud Computing es una tecnología específica, diseñada por AWS para dar solución a los problemas de los usuarios.",
   "respuesta": false
  },
  {
-  "pregunta": "José es jefe de selección de una empresa y tiene el objetivo de atraer colaboradores  talentosos a la organización. Es adecuado que él trabaje con el responsable de clima  organizacional para lograr su cometido.",
-  "respuesta": true
- },
- {
-  "pregunta": "José ingresó en la empresa Limones SA luego de una ardua selección. Pasado los 6 meses le aumentan el sueldo, pero su desmotivación aumenta cuando ingresa un ingeniero con mayor sueldo y sin experiencia. ¿Qué teoría explica esto?",
-  "respuesta": "Teoría de Adams"
- },
- {
-  "pregunta": "José y su equipo se destacan en la organización por su forma de trabajar y en especial por la comunicación intragrupal. ¿Cuáles son los indicadores que podés tener en cuenta para replicar en otros equipos en formación?",
-  "respuesta": "Manejo de la información; Motivación de los miembros; Control de normas."
- },
- {
-  "pregunta": "Josefina se encuentra al mando de un importante proyecto que le requerirá una  impecable comunicación con su equipo de trabajo ¿Cuáles 4 de las siguientes opciones son  los tipos de comunicaciones que deberá utilizar asertivamente? ",
-  "respuesta": "Afirmación - Declaración - Juicio - Promesa "
- },
- {
-  "pregunta": "Josefina trabaja en una empresa de prestación de servicios como responsable de atención al cliente y desea mejorar su relación con sus compañeros de trabajo. Por lo cual, comprende que debe fortalecer su autoconocimiento personal y emocional. ¿Cuál es el hábito que debe mejorar para ello?",
-  "respuesta": "Proactividad"
- },
- {
-  "pregunta": "Josefina trabaja en una empresa de prestación de servicios coo responsable de atención al  cliente y desea mejorar su relación con sus compañeros de trabajo. Por ello, desea mejorar  su autoconocimiento personal y emocional. ¿Cuál de los siguientes 2 hábitos debe mejorar  para ello?",
-  "respuesta": "Clarificación de Objetivos - Proactividad "
- },
- {
-  "pregunta": "Juan es colaborador de un área administrativa y desea mejorar su efectividad personal en el trabajo para poder ascender a coordinador de área. Según Covey ¿Con qué otro elemento debe combinar sus capacidades para poder aumentar su efectividad personal?",
-  "respuesta": "Resultados Esperados"
- },
- {
-  "pregunta": "Juan es gerente de operaciones de una empresa de servicios logísticos por lo que debe gestionar eficientemente su plantel de colaboradores. Él quiere mejorar el manejo de situaciones con ellos, dejando de lado sus emociones, por lo que debe trabajar internamente su inteligencia emocional.",
-  "respuesta": true
- },
- {
-  "pregunta": "Juan es jefe de administración y le advierte al departamento de compras que un insumo  que necesitan para un servicio cotizado que ya está en ejecución incrementó  considerablemente. Es correcto afirmar que, el departamento de compras, tiene la opción de  revocar la promesa. ",
-  "respuesta": true
- },
- {
-  "pregunta": "Juan es jefe de una sucursal de venta de electrodomésticos y debe tener una conversación  difícil con uno de sus colaboradores. Él decide tomar la iniciativa e invitarlo un café para  dialogar por lo que manifiesta el siguiente hábito positivo:",
-  "respuesta": "Proactividad "
- },
- {
-  "pregunta": "Juan quiere conservar la relación con sus compañeros de trabajo por lo que no le conviene llevar a cabo acuerdos ganar-ganar",
+  "pregunta": "Cloud Computing es una tecnología revolucionaria que nació de la fusión de tecnologías entre Microsoft, Apple y Amazon:",
   "respuesta": false
  },
  {
-  "pregunta": "Juan se destacó en el último semestre por su desempeño exitoso. ¿Qué pueden haber observado los jefes para destacarlo como exitoso?",
-  "respuesta": "Conductas; Resultados"
+  "pregunta": "Como consultor Cloud, sos requerido por parte del un gran cliente de Finanzas Corporativa, para asistir en un equipo de seguridad informática que desea migrar a la nube los servidores que almacenan información de carácter crítico y confidencial sobre servicios Financieros, por lo tanto, no debe ser de carácter público la información de sus clientes. ¿Qué solución de Amazon sería tu elección para asesorarlo?",
+  "respuesta": "Asesorarlos en utilizar la Nube de Amazon contratando el Soporte \"Bussines\"."
  },
  {
-  "pregunta": "Juan, líder de un equipo comercial, desea que Luisa modifique algunas conductas del trimestre pasado. Como profesional de RRLL, ¿qué acción le recomiendas implementar?",
-  "respuesta": "Realizar un feedback de conductas"
+  "pregunta": "Como consultor Cloud, uno de tus clientes te plantea la necesidad de utilizar un software específico, con licencia, pero en la nube. Él ya tiene la licencia oficial de dicho software, pero se encuentra en duda sobre qué entorno utilizar. El desea que sus clientes tengan el mínimo control sobre la infraestructura, que de todos los aspectos se encargue Amazon y ellos solo se concentren en utilizar correctamente el software. ¿Qué infraestructura le recomendarías?",
+  "respuesta": "Una infraestructura SaaS"
  },
  {
-  "pregunta": "Juana y Federico en su reunión de equipo se enfocan en soluciones creativas y beneficiosas para las partes. ¿Qué hábito ponen en función?",
-  "respuesta": "Pensar ganar – ganar."
+  "pregunta": "Como encargado del área de Cloud de una multinacional, presentarás un proyecto para pymes, fábricas y asociaciones comerciantes que desean soluciones en la nube para que sus negocios tengan alcance global, se recuperen de incidentes de forma rápida y con servicios que estén disponibles siempre. ¿Cuál es la mejor descripción para presentarles sobre AWS?",
+  "respuesta": "La nube de AWS, es su mejor opción porque funciona en muchas zonas de disponibilidad y regiones geográficas del mundo"
  },
  {
-  "pregunta": "La confianza reporta diversos beneficios a la organización.Entre los más significativos podemos mencionar: Seleccione las 4 (cuatro) respuestas correctas.",
-  "respuesta": "Bajan los índices de ausentismo y rotación - Mejoran los índices de productividad y rentabilidad - Reciben más y mejor cantidad de postulaciones de empleo - Se genera más innovación y creatividad"
+  "pregunta": "Como se define el servicio Aws Direct Connect?",
+  "respuesta": "Es un servicio de AWS que establece una conexión de red privada dedicada, desde un centro de datos, oficina o entorno de coubicación, a AWS."
  },
  {
-  "pregunta": "La eficaz coordinación de acción permite el aprendizaje y la mejora continua en los equipos de trabajo.",
-  "respuesta": true
+  "pregunta": "Cuándo es necesario utilizar VPC Peering? Seleccione las 2 (dos) respuestas correctas.",
+  "respuesta": "Cuando es necesario conectar distintas VPC; Cuando se necesita conectar VPC de distintas cuentas de AWS. "
  },
  {
-  "pregunta": "La evaluación de desempeño de Luis, contador de una fábrica de pastas, dio por segundo  año consecutivo un resultado por debajo de los valores medios esperados, pese a que se le  había brindado capacitación y aumento salarial. Luis además incumple con su horario de  trabajo, no presenta los informes necesarios a tiempo y en el último mes se le aplicó una  sanción disciplinaria por no presentar a tiempo una planilla de pago impuestos. En este  caso, la evaluación de desempeño realizada a Luis puede servir para: ",
-  "respuesta": "Tomar una decisión sobre su ubicación en la empresa"
+  "pregunta": "Debes asesorar a clientes que operan con bases de datos que nos son relacionales, donde necesitan almacenar archivos de distintos tipos como PDF y Words. La cantidad de datos aumenta con el tiempo y no quieren un límite específico para ellos. ¿Qué servicios de Amazon utilizarías para gestionar bases de datos no relacionales? (2 respuestas).",
+  "respuesta": "Amazon DynamoDB; Amazon RedShift"
  },
  {
-  "pregunta": "La evaluación de desempeño es el medio por el cual se puede conocer y relevar información sobre las personas de los equipos.",
-  "respuesta": true
+  "pregunta": "Debes brindar consultoría a Pymes y uno de tus clientes te solicita una solución para su empresa: desea migrar a la nube, y utilizar servidores con el mismo Sistema Operativo que tiene en On Premise; A su vez, quiere contratar estos servicios durante 3 años y quiere que te encargues de entrenar a su personal en cómo operar con servidores en la nube ¿qué solución es la correcta para sus necesidades?",
+  "respuesta": "Una Infraestructura IaaS."
  },
  {
-  "pregunta": "La gerencia general de una empresa, le solicita al área de RRHH, que presente un informe de los trabajadores actuales para conocer distintos aspectos como sexo, edad, país de origen, antigüedad en la empresa, años de experiencia laboral, tipo de contrato, tipo de jornada, nivel de estudios, cursos realizados y personas con discapacidad. Con el conocimiento de esos datos, ¿qué aspecto de la empresa se está diagnosticando?",
-  "respuesta": "La diversidad de su planta laboral"
+  "pregunta": "El servicio Amazon Virtual Private Cloud, ¿permite que configuremos reglas para controlar el trafico de entrada y de salida de los recursos?",
+  "respuesta": "Si, se permite"
  },
  {
-  "pregunta": "La organización es más eficiente cuando posee y conoce diversidad en los miembros de los equipos.",
-  "respuesta": true
+  "pregunta": "En el proceso de configuración de tus instancias, como consultor, debes proveerles a tus clientes de una solución de almacenamiento que permita que puedan guardar grandes cantidades de archivos, que no serán accedidos durante por lo menos , 6 meses, pero sin que por ello pierdan acceso a ellos, y buscan también, tus clientes, el coste más bajo posible, ¿podrías brindarle una solución que cumpla con esos objetivos?",
+  "respuesta": "Podrías Asesorarlo en Utilizar Amazon S3, particularmente Amazon S3 Glacier, que ofrece bajos costes y alta durabilidad , pero los tiempos de acceso no son inmediatos."
  },
  {
-  "pregunta": "La organización es más eficiente si realiza evaluaciones de desempeño a los miembros de los distintos equipos.",
-  "respuesta": true
+  "pregunta": "En la empresa en la cual trabajas, se te asigna la tarea de informar a gerencia por qué sería una excelente idea desde diversos puntos de vista, migrar hacia la nube de Amazon, ¿con qué dos palabras definirías la nube?",
+  "respuesta": "Flexible; Ágil"
  },
  {
-  "pregunta": "La organización Limones SA quiere implementar una nueva cultura de hacer. Como profesional, ¿en qué áreas recomiendas trabajar?",
-  "respuesta": "Gestión del conflicto en base a la confianza; Definición y comunicación clara de objetivos; Coherencia entre lo que se dice, siente y hace."
+  "pregunta": "En nuestra tarea de Consultores Cloud, nuestro cliente nos consulta si podemos asesorarlo en un servicio de Amazon que le de una visión global de toda la infraestructura mundial, para así tener tranquilidad del estado de sus recursos. ¿Podemos asesorarlo en un servicio de tales características?",
+  "respuesta": "La solución ideal es Aws Health Dashboard."
  },
  {
-  "pregunta": "La personalidad de un individuo está motivada por los siguientes factores: Seleccione las 4 (cuatro) respuestas correctas.",
-  "respuesta": "Clase social - Entorno cultural - Herencia - Relaciones familiares"
+  "pregunta": "En nuestro rol de consultor, recibiremos consultas de potenciales clientes que no conocen información alguna de la nube y, por lo tanto, necesitan de tus conocimientos. ¿Podrías asesorarlos en un servicio especializado de información introductoria sobre la nube de Amazon y todos sus servicios?",
+  "respuesta": "Podemos asesorarlos en que visiten el AWS Knowledge Center."
  },
  {
-  "pregunta": "Las relaciones de confianza de un equipo u otra organización se dan entre: colaboradores y sus jefes, entre colaboradores entre sí, y entre cual otra?",
-  "respuesta": "Entre colaboradores y organización"
+  "pregunta": "En tu equipo de desarrollo están probando las funcionalidades de un nuevo lenguaje de programación. Según lo que conoces de la oferta de Amazon, para probar código en tiempo real en la nube ¿Qué servicio específico podrías recomendar para esta tarea?",
+  "respuesta": "Deberían usar Lambda"
  },
  {
-  "pregunta": "Lograr un cambio de actitud depende de los siguientes tres factores:",
-  "respuesta": "El comunicador; El mensaje; La situación"
+  "pregunta": "En tu rol como consultor de Amazon Web Services, un cliente te solicita una solución para mitigar el tráfico de un solo servidor, entre varios, ¿qué servicio de Amazon es el adecuado para que lo asesores?",
+  "respuesta": "Deberías recomendarle utilizar un Elastic Load Balancer."
  },
  {
-  "pregunta": "Los objetivos semestrales del área comercial deben ser comunicados próximamente. Piden nuestra colaboración en el armado de estos objetivos, ¿qué aspectos le recomiendas tener en cuenta?",
-  "respuesta": "Objetivos alcanzables; objetivos específicos; objetivos medibles."
+  "pregunta": "En tu rol como Consultor de Soluciones Amazon, un cliente se acerca con la siguiente inquietud: desea que su aplicación, que funciona en la capa de de aplicación y gestiona contenido, tenga una performance excelente, utilizando los beneficios de la nube. Para esto necesita un Load Balancer entre sus servidores, pero, ¿cuál es el que deberías elegir para asesorarlo?",
+  "respuesta": "Un Application Load Balancer (ALB)."
  },
  {
-  "pregunta": "Luego de realizar una evaluación de desempeño al área administrativa de una empresa textil se detectó que el personal no tenía conocimientos del marco legal, ni de los sistemas de información, motivo por el cual se generaban cruzamientos de datos y la información necesaria para la toma de decisiones resultaba inexacta e inoportuna. Dada la situación, ¿sobre qué aspecto principal debe trabajar el área de RRHH?",
-  "respuesta": "Capacitación al personal"
+  "pregunta": "En tu rol como consultor de Soluciones utilizando los servicios de Amazon, un cliente se acerca con la siguiente inquietud, desea que su aplicación, que funciona en la capa de de red y debe gestionar trafico dependiendo de su origen y destino, sea compatible con su Balanceador de Carga, dispositivo que adquirió previo a la existencia de la nube, por lo tanto, podríamos asesorarlo en la utilización de una solución de Amazon Web Services para que pueda cumplir sus objetivos con los mejores resultados?",
+  "respuesta": "La solución ideal es que utilice un Load Balance (Balanceador de Carga) de Amazon."
  },
  {
-  "pregunta": "Marcelo , gerente comercial de una fábrica de galletitas, se reúne con Gastón, jefe de  ventas, para conversar algunos aspectos de su desempeño laboral dado que observa que los  números de ventas no están siendo los esperados según el objetivo mensual fijado. En la  conversación, Gastón manifiesta que no tiene el personal a cargo necesario para el logro de  los objetivos dado que la gerencia de ventas, decidió desvincular por motivos económicos a  dos de sus 5 vendedores, aunque manteniendo el mismo objetivo comercial. Teniendo en  cuenta esta situación, ¿En qué se basa Gastón para justificar que su desempeño no es el  esperado? ",
-  "respuesta": "Siente que no cuenta con recursos y herramientas necesarios  para hacer su trabajo."
+  "pregunta": "En tu rol de consultor Cloud al trabajar con muchos clientes, deseas utilizar una solución para almacenar logs de las operaciones que realizas en cada recurso. ¿Cuáles son los servicios para almacenar archivos, como logs o documentos de Amazon? Selecciona las opciones correctas",
+  "respuesta": "Amazon Glacier; Elastick Block Storage; S3"
  },
  {
-  "pregunta": "María no está obteniendo los resultados solicitados por su supervisor en el área de ventas. ¿En qué requiere trabajar para modificar estos resultados deficientes?",
-  "respuesta": "Motivación; Actitud"
+  "pregunta": "En tu rol de consultor Cloud, debes explicar a tus clientes sobre ventajas y desventajas económicas de llevar su infraestructura a la nube. ¿Cuál sería la desventaja más evidente, si no migraran a la nube de Amazon y persistirían en servidores on-premise?",
+  "respuesta": "Los gastos recurrentes de mantenimiento y energía, entre otros."
  },
  {
-  "pregunta": "María, al recibir su devolución de desempeño del semestre, se pone triste y se angustia y se dirige al área de RRHH. La recibes y conversan sobre lo sucedido, ¿dónde debe estar el foco de la charla?",
-  "respuesta": "Oportunidades de mejora; Fortalezas; Emociones"
+  "pregunta": "En tu rol de consultor Cloud, recibes una consulta de un pequeño equipo de desarrollo, que desea operar en Cloud, para reducir sus costos actuales, estando on premise. ¿Qué infraestructura les recomendarías?",
+  "respuesta": "Una infraestructura IasS"
  },
  {
-  "pregunta": "Marianela, se desempeña como especialista en seguridad e higiene para una compañía proveedora de gas natural. En su última evaluación de desempeño, su calificación resultó sobresaliente. Sus colegas y jefe respetan profundamente su labor. En diferentes oportunidades se le otorgaron responsabilidades más complejas de las que su puesto de trabajo exige, observándose que por temor, no logró satisfacer el nivel esperado. Según la matriz desempeño\/potencial, ¿a qué grupo pertenece Marianela?",
-  "respuesta": "Desempeño alto-potencial bajo"
+  "pregunta": "En tu rol de consultor cloud, suele ser una práctica común la de trabajar con servidores que manejan información que, si no se encuentra correctamente protegida, puede abrir la puerta a vulnerabilidades. Para brindarles a tus clientes la mayor protección posible en sus servidores, ¿cómo podrías asesorarlos en un servicio de Amazon que implemente cifrado?",
+  "respuesta": "Podrían utilizar Encrypting File System (EFS) en EC2."
  },
  {
-  "pregunta": "Paulina es Jefa del área de Clima Organizacional de una reconocida empresa nacional.  Ella tiene el pedido por parte de la dirección de mejorar el clima de la organización ¿En  cuáles 4 de los siguientes aspectos deberá hacer foco para lograrlo? ",
-  "respuesta": "Entorno de trabajo - Persona - Puesto de trabajo - Situaciones extra laborales "
+  "pregunta": "En tu rol de consultor Cloud, tus clientes necesitan que puedas brindarles una solución de backups y de recuperación automática de sus servidores de bases de datos, en caso de desastres u errores en los servidores. ¿Qué servicio de Amazon sería recomendable para esta petición?",
+  "respuesta": "Amazon RDS, porque cuenta con las propiedades de autorecuperación y backup automático."
  },
  {
-  "pregunta": "Paulina es parte de un equipo de trabajo y entiende que uno de los hábitos positivos de  un equipo de trabajo efectivo es que cada uno de los integrantes haga un aporte genuino por  cumplir con sus responsabilidades. ¿De cuál de los elementos del modelo de las 5C es  consciente Paulina?",
-  "respuesta": "Compromiso"
+  "pregunta": "En tu rol de Consultor Cloud, una de tus tareas es migrar los servidores On premise a instancias en la nube, tu cliente te solicita que las instancias que le sugieras, mantengan una relación equilibrada en precio\/hardware, siendo similares a las que son On Premise, por lo tanto, ¿qué solución de Amazon es Ideal para elegir tipos de Instancias según sus recursos?",
+  "respuesta": "Claramente utilizaría Amazon EC2, y seleccionaría una instancia del tipo que sea mas adecuado a los requisitos del cliente."
  },
  {
-  "pregunta": "Pedro se encuentra al mando de un importante proyecto que le requerirá una impecable  coordinación de acciones con su equipo de trabajo ¿Cuáles 4 de las siguientes opciones son  las etapas del ciclo de coordinación de acciones que deberá tener en cuenta?",
-  "respuesta": "Aseguramiento - Ejecución - Negociación - Preparación"
+  "pregunta": "En tu rol de consultor Cloud, uno de tus clientes necesita una solución en la nube que tenga alcance global, que le permita acceder desde su empresa y desde entornos externos, que le proveen soporte Enterprise y que pueda comunicarse con el soporte mediante un sistema de casos. El cliente no utilizaría información sensible en dichos servicios ¿Qué tipo de nube le recomendarías contratar?",
+  "respuesta": "Debería adoptar una infraestructura multicloud; Debería contratar una nube pública, como lo es AWS"
  },
  {
-  "pregunta": "Ramiro se destaca como líder en los equipos por su capacidad de escucha. ¿Qué rasgos se destacan en una escucha efectiva?",
-  "respuesta": "Desapego de la mirada propia; Entender lo que se dice; Preguntar dudas."
+  "pregunta": "En tu tarea como consultor Cloud, recibes una inquietud en materia de seguridad. Tus clientes desean almacenar las llaves de acceso a sus recursos de Amazon, dentro del mismo Amazon. Según tus conocimientos, ¿podrías asesorarlos en la utilización de un servicio en particular?",
+  "respuesta": "Los usuarios pueden administrar sus claves de cifrado mediante AWS Key Management Service (KMS)."
  },
  {
-  "pregunta": "Según el modelo de las \"5 C\" , ¿A cuál de las 5C se hace referencia al afirmar que cada integrante del equipo se hace responsable de cada una de las partes y que cada una de las partes es fundamental para el logro del objetivo principal?",
-  "respuesta": "Complementariedad"
+  "pregunta": "En tu trabajo, como consultor Cloud, uno de tus clientes, necesita una solución en la nube que tenga alcance global, con la que puedan acceder tanto desde su empresa, como desde entornos externos, que le provean soporte a nivel Bussines y poder comunicarse mediante tickets con el soporte de la infraestructura cloud. El cliente no utilizaría información sensible en dichos servicios, ¿cuál sería tu recomendación para contratar un tipo de nube?",
+  "respuesta": "Debería contratar una nube pública, como lo es Amazon Web Servicies."
  },
  {
-  "pregunta": "Seleccione 4 limitantes para el desempeño laboral ",
-  "respuesta": "Conflictos personales con sus compañeros - Desmotivación - Insatisfacción con el sueldo - Problemas personales"
+  "pregunta": "En una de tus tareas habituales, trabajando On premise, debías realizar tareas de actualización y patching de manera manual, en horarios determinados y avisando previamente que se realizarían esas operaciones. Ahora migraron a cloud computing y necesitas crear una base de datos RDS, ¿cómo gestionas la administración de la misma?",
+  "respuesta": "Amazon Web Services se encarga de todos los aspectos de mantenimiento."
  },
  {
-  "pregunta": "Sofía es Gerenta de Ventas y llama por teléfono al Gerente de Administración porque tiene algunas dudas de interpretación en los indicadores de un informe mensual. ¿Qué tipo de comunicación se produjo en este caso?",
-  "respuesta": "Comunicación horizontal"
+  "pregunta": "En una tarea específica ligada a brindar consultoría a una empresa del sector científico, uno de tus clientes desea migrar a la nube y utilizar servidores con el sistema operativo Linux. A su vez, quiere contratar esos servicios durante 1 año y solicita que te encargues de entrenar a su personal sobre cómo operar con servidores en la nube. ¿Qué solución le recomendarías?",
+  "respuesta": "Una infraestructura IasS"
  },
  {
-  "pregunta": "Sos parte del equipo de capital humano, y debes seleccionar postulantes cuyas competencias destacables son participación y escucha. Estos son los perfiles adecuados para tener en cuenta en un equipo.",
-  "respuesta": true
+  "pregunta": "Enunciando las mejoras que ofrece Amazon en términos de bases de datos, necesitas explicar por qué es esencial la elección del motor correcto, de acuerdo a la carga de trabajo de la base de datos, que será migrada a RDS. Considerando que la base de datos a migrar recibe y ejecuta miles de peticiones por segundo, para varios clientes, ¿cuál es el motor adecuado para esto?",
+  "respuesta": "El motor adecuado es Amazon Aurora."
  },
  {
-  "pregunta": "Te invitan a formar parte del equipo de capital humano y el desafío es transformar la empresa en el mejor lugar para trabajar. ¿Por dónde debes iniciar?",
-  "respuesta": "Formación del capital humano en habilidades y actitudes."
- },
- {
-  "pregunta": "Tener habilidades de autoconocimiento y autocontrol, supone tener:",
-  "respuesta": "Inteligencia emocional"
- },
- {
-  "pregunta": "Teoría de la equidad (Adams); Teoría de la definición de objetivos (Lock); Teoría de las expectativas (Vroom); Desempeño, satisfacción (Porter y Lawler)",
-  "respuesta": "Teorías del proceso"
- },
- {
-  "pregunta": "Teoría de la equidad y justicia organizacional de Adams.",
-  "respuesta": "Explica la influencia que la percepción de un trato justo tiene en la motivación de los individuos. "
- },
- {
-  "pregunta": "Teoría de la pirámide de necesidades (Maslow); Teoría ERC (Alderfer); Teoría de los dos factores (Herzeberg); Teoría de las necesidades adquiridas (McClelland)",
-  "respuesta": "Teorías de contenido"
- },
- {
-  "pregunta": "Teoría de las expectativas de Vroom.",
-  "respuesta": "La motivación es producto del valor que el individuo pone en los posibles resultados de sus acciones y la expectativa de que sus metas se cumplan."
- },
- {
-  "pregunta": "Teoría de las jerarquías de Maslow: Maslow plantea que las necesidades están organizadas en una pirámide de acuerdo a su importancia respecto de la conducta humana. Una necesidad satisfecha no es una motivación para la persona.",
-  "respuesta": "Las necesidades fisiológicas; Las necesidades de seguridad; Las necesidades sociales son las de amistad, participación, pertenencia a grupos, amor y afecto; Las necesidades de estima están en relación con la autoestima. Las necesidades de autorrealización llevan a realizarse mediante el desarrollo de sus aptitudes y capacidades."
- },
- {
-  "pregunta": "Teoría de los dos factores de Herzberg: factores higiénicos y los motivacionales.",
-  "respuesta": "Los factores higiénicos son las condiciones de trabajo que rodean a la persona en el trabajo; Los factores motivacionales son aquellos que se relacionan con el contenido del puesto y las tareas."
- },
- {
-  "pregunta": "Teoría de refuerzo (B. Skinner)",
-  "respuesta": "La teoría del refuerzo se centra en cómo se comporta un individuo teniendo en cuenta los estímulos que recibe."
- },
- {
-  "pregunta": "Un empleado de una empresa agrícola se ofrece para ayudar a un equipo de trabajo en un proyecto nuevo en donde supone que puede hacer un aporte significativo a la causa. En este caso, ¿Qué actitud está adoptando?",
-  "respuesta": "Toma la iniciativa"
- },
- {
-  "pregunta": "Una de las ventajas de la evaluación de desempeño es la:",
-  "respuesta": "Revisión de políticas de compensación salarial"
- },
- {
-  "pregunta": "Una estrategia de resolución de conflictos de evitación se relaciona con modo de relación: vos estas bien, yo estoy mal.",
+  "pregunta": "Es obligatorio afrontar costos para implementar una arquitectura de acuerdo a la documentación de Amazon",
   "respuesta": false
+ },
+ {
+  "pregunta": "Estás trabajando en consultorías a empresas familiares y uno de tus clientes te solicita una solución para sus empleados. Necesita que puedan utilizar un software de gestión que, para funcionar, requiere un poder de procesamiento que ellos no pueden abastecer mediante hardware. ¿Podrías indicarle una infraestructura que permita ejecutar software directamente desde la nube?",
+  "respuesta": "Una infraestructura SaaS"
+ },
+ {
+  "pregunta": "Estás trabajando en la migración de una empresa On Premise a la nube. Los empleados del área de IT esperan utilizar servicios similares a los que tenían con MySQL, para administrar sus bases de datos ¿Qué servicio de Amazon utilizarías para gestionar bases de datos creadas y gestionadas en MySQL?",
+  "respuesta": "Utilizaría MySQL para Amazon"
+ },
+ {
+  "pregunta": "Evaluando la creación de tu propia consultora, comenzas a crear un mapa de ventajas y desventajas de llevar tu infraestructura a la nube , teniendo en cuenta que tu presupuesto es limitado y pensas en tu negocio como una oportunidad a largo plazo, ¿cuál sería la desventaja mas evidente si no migraras a la nube de Amazon y persistieras en servidores On Premise?",
+  "respuesta": "Los gastos recurrentes."
+ },
+ {
+  "pregunta": "La embajada de Croacia en Argentina te contrata para asesorarlos en el proceso de migración a la nube de los servidores que almacenan información de carácter crítico y confidencial sobre asuntos internacionales ¿Cuáles serían tus recomendaciones?",
+  "respuesta": "Deberían encriptar todos los datos de sus recursos y servicios; Deberían utilizar una nube privada, con mecanismos de biometría y seguridad permanente del hardware y datacenters"
+ },
+ {
+  "pregunta": "Las instancias poseen un almacenamiento interno. ¿Este almacenamiento posee las características de alta disponibilidad y replicación?",
+  "respuesta": "No, solo almacena la información de la partición root, si la instancia se termina o se apaga, los datos se pierden"
+ },
+ {
+  "pregunta": "Nuestro Cliente desea que le brindemos una solución a su problema: Desea brindar el servicio de su aplicación, para un evento que tiene una fecha de inicio, una fecha de fin, y unos horarios de actividad determinados, aparte de esa información, cuenta con un presupuesto muy limitado, ¿podríamos como consultores brindarle una solución de bajo coste para tener servidores en la nube durante periodos determinados y muy específicos?",
+  "respuesta": "La solución ideal es que adquiera Instancias Spot,( en puja) las cuales son las menos costosas del mercado (hasta un 90% de descuento por cantidad de servidores)"
+ },
+ {
+  "pregunta": "Recibes una consulta de un cliente que desea almacenar las llaves de accesos a los usuarios temporales dentro de algún servicio seguro. Según tus conocimientos ¿podrías asesorarlos en la utilización de un servicio en particular?",
+  "respuesta": "Los usuarios pueden optar por administrar sus claves de cifrado mediante AWS Ke Management Service (KMS) y almacenarlas cifradas"
+ },
+ {
+  "pregunta": "Se te asigna la tarea de exponer ante potenciales inversores los beneficios de migrar a la nube de Amazon. ¿Qué palabras tendrían que estar presentes en la exposición? Selecciona las 2 opciones correctas",
+  "respuesta": "Económica \/ Escalable"
+ },
+ {
+  "pregunta": "Supongamos que recibes solicitudes de un grupo de clientes que desean almacenar sus datos y controlar sus servidores en un entorno cloud, pero son extremadamente recelosos de la información y el acceso a dichos servidores. Por lo tanto, no desean que sus servidores y datos se encuentren en servidores ajenos, sino que quieren tener el control físico del hardware y de todos los aspectos de sus recursos. En tu experiencia como consultor, ¿qué tipo de nube cumple con los requisitos y objetivos del cliente?",
+  "respuesta": "La nube privada es la elección correcta para esta situación."
+ },
+ {
+  "pregunta": "Te contratan para asesorar a una compañía que se dedica a realizar Bussines Intelligence, recolectando información de diversos orígenes y con formatos distintos. Quiere poder realización toda esta información para trabajar en análisis de datos. ¿Podrías asesorarlos en una solución de Amazon para datos que no están relacionados entre sí en filas y columnas?",
+  "respuesta": "La solución es utilizar DynamoDB"
+ },
+ {
+  "pregunta": "Te contratan para crear, junto con un equipo, la infraestructura para una multinacional que desea migrar a la nube ¿Qué argumentarías para que escojan un servicio en la nube por sobre un servicio on premise? Seleccione las opciones correctas",
+  "respuesta": "El modelo por suscripción disminuye los costos; Podrán aumentar su alcance y escalar a nivel global"
+ },
+ {
+  "pregunta": "Te solicitan asesorar a una empresa que ha recibido un ataque informático que le ha provocado un gran daño. Piensan en revocar todos los usuarios y todos sus permisos hasta poder encontrar al responsable de dicho evento ¿Podrías brindar una solución que no implique revocar todos los permisos?",
+  "respuesta": "Se debe utilizar IAM para anular de manera jerárquica las políticas de cada usuario, hasta dar con el que provocaba el impacto negativo en seguridad"
+ },
+ {
+  "pregunta": "Te solicitan asesoría sobre qué servicios contratar para recibir un soporte especializado de Amazon, que tenga en cuenta estrategias de optimización y monitoreo de utilización de los recursos. Además, requieren que, predictivamente, analice mejoras en los costos, informando a los clientes los cambios que podrían realizar para alivianar los costos. ¿Qué servicios de Amazon proveen dichas capacidades? Selecciona las 2 (dos) respuestas correctas.",
+  "respuesta": "AWS Personal Health Dashboard; AWS Trusted Advisor. "
+ },
+ {
+  "pregunta": "Te solicitan una asesoría para bases de datos que fueron creadas en un entorno Windows. Por lo tanto, buscan que funcionen óptimamente en ese sistema operativo. Necesitas seleccionar la solución que supere esta dificultad. ¿Qué servicio de Amazon utilizarías para gestionar bases de datos creadas originalmente en Windows?",
+  "respuesta": "Utilizaría MySQL para Amazon."
+ },
+ {
+  "pregunta": "Trabajando como arquitecto Cloud, debes prender y apagar al mismo tiempo muchos servidores. ¿Cuál de estas afirmaciones se ajusta mejor a tu condición?",
+  "respuesta": "Debo contratar servicios de Amazon web Services que permitan realizar operaciones de apagado y prendido en simultaneo."
+ },
+ {
+  "pregunta": "Tu cliente es un estudio contable que te solicita una solución en la nube que les permita almacenar libros contables antiguos. Desean almacenarlos por precaución, pero no accederán a ellos, por lo menos, un año, por lo tanto ¿Podrías recomendarle el servicio más económico de almacenamiento para archivos con poca frecuencia?",
+  "respuesta": "Sí, podría recomendarle Amazon S3 Glacier"
+ },
+ {
+  "pregunta": "Tus clientes desean migrar sus servidores a la nube, pero se encuentran preocupados por la información de sus instancias, sus discos HDD y SSD, en sus servidores on premise, ya que temen por la disponibilidad de sus discos ¿Es razonable su temor a perder los archivos de sus discos una vez que se encuentran migrados en la nube?",
+  "respuesta": "No deberían preocuparse, Amazon posee capacidad de auto recuperación (desastre recovery); No deberían preocuparse, Amazon provee alta disponibilidad mediante Elastic Block Storage, replicando los discos en la nube en por lo menos 3 zonas de disponibilidad"
+ },
+ {
+  "pregunta": "Un cliente desea guardar los resultados de la ejecución de un código, en logs en Amazon, ¿qué servicio podrías recomendarle para almacenar archivos en Amazon?",
+  "respuesta": "Si, la solución Ideal es S3."
+ },
+ {
+  "pregunta": "Un cliente nos trae el siguiente desafío: ha logrado crear una función de autoescalado y, ahora, su aplicación crece y decrece de acuerdo a la demanda. Pero él quiere saber cuál es la demanda. Es decir, cuánto crece su aplicación, en términos de servidores y bajo qué condiciones esto sucede. Como consultores, ¿podemos asesorarlo en un servicio de monitoreo de Amazon que contemple el autoescalado?",
+  "respuesta": "Sí, podemos asesorarlo para configurar CloudWatch."
+ },
+ {
+  "pregunta": "Un cliente que almacena sus archivos en S3, como backup, ya que no suele acceder a ellos frecuentemente, ha comenzado a notar que cuando desea cargarlos, debe esperar mas de 50 minutos y hasta 12 horas, en aquellos archivos más antiguos que almacenó cuando comenzó a utilizar el servicio. El cree que está experimentando problemas en su red. ¿Puedes explicarle lo que está sucediendo?. Selecciona las 3 opciones correctas",
+  "respuesta": "Está utilizando Amazon S3 Deep Glacier; Está utilizando Amazon S3 Glacier; Ha configurado el servicio S3 para que almacene los archivos mas antiguos en S3 Glacier y los aún mas antiguos en S3 Deep Glacier"
+ },
+ {
+  "pregunta": "Un equipo de desarrollo desea migrar sus servidores a la nube, pero su conocimiento en esto es nulo, ya que ellos solo se dedican a la programación. ¿Podrías asesorarlos en un servicio especializado de soporte para desarrollos en la nube de Amazon?",
+  "respuesta": "Deberían contratar AWS Developer Support."
+ },
+ {
+  "pregunta": "Una de las características de Amazon, es la flexibilidad. Es decir, que se encargan de contactar al cliente, dialogar con el, y realizar los contratos necesarios pueda obtener los servicios que demanda, a la escala que desee, y con bajo costo.",
+  "respuesta": false
+ },
+ {
+  "pregunta": "Una instancia puede cambiar de zona de disponibilidad en tiempo real.",
+  "respuesta": false
+ },
+ {
+  "pregunta": "Una instancia solo se puede parar o terminar de ejecutar si la zona en la que está determinada lo permite.",
+  "respuesta": false
+ },
+ {
+  "pregunta": "Uno de nuestros clientes desea ser notificado de los eventos de sus recursos, cuando se activa la función de autoescalado, mediante alarmas a su correo eletrónico. ¿Qué servicio de Amazon le podemos recomendar?",
+  "respuesta": "La solución ideal es configurar las notificaciones y alertas de CloudWatch."
+ },
+ {
+  "pregunta": "Uno de nuestros clientes nos consulta sobre aspectos técnicos de instancias para la migración de sus datacenters a la nube de Amazon, desea servidores equilibrados, destinados a tareas genéricas, administrativas, que no se destaquen por una performance específica. ¿Podemos, como consultores, brindarle una solución desde los servicios de Amazon?",
+  "respuesta": "Podemos recomendarle que utilice instancias de uso general"
+ },
+ {
+  "pregunta": "Uno de nuestros clientes nos consulta, sobre una plataforma para que sus empleados puedan recibir entrenamiento gratuito y\/o pago por parte de Amazon para comprender mejor las tecnologías ¿Podemos asesorarlo en un servicio de Amazon que cumpla con dichas expectativas?",
+  "respuesta": "Si, pueden formarse desde AWS Knowledge Center; Si, puede utilizar el AWS Training Center"
+ },
+ {
+  "pregunta": "Uno de nuestros clientes nos presenta un desafío técnico, desea que sus aplicaciones sean extremadamente rápidas, ya que necesita realizar renderizado de video en ese servidor, el software que utilizará contiene una licencia que no permite que se la pueda duplicar en varios servidores, y no soporta software de virtualización, solo puede ser utilizado en entornos no cloud, ¿cómo podríamos asesorarlo para que aun así, pueda utilizar ese software en un servidor en la nube?",
+  "respuesta": "Es una solución simple si se utiliza los Host Dedicados de Amazon."
+ },
+ {
+  "pregunta": "Uno de nuestros clientes nos solicita que creemos sus recursos en el datacenter más cercano a la localidad donde vive, ya que desea experimentar la menos latencia posible. ¿Podemos asesorarlo con alguna tecnología disponible en Amazon Web Services? Selecciona las 2 opciones correctas",
+  "respuesta": "Debemos ayudarlo a crear sus recursos en una zona local; Puede solucionarlo utilizando zonas locales y el servicio CloudFront con las Edge Locations"
+ },
+ {
+  "pregunta": "Uno de tus clientes desea brindar a sus empleados, un servicio de streaming de noticias de la empresa, pero desea que esto no afecte el servidor que proveerá el servicio. Desea que, entre varios servidores, puedan suministrar el contenido, ¿Qué servicio de Amazon es el adecuado para este cliente?",
+  "respuesta": "Un elastic load balancer"
+ },
+ {
+  "pregunta": "Uno de tus clientes necesita un servicio especifico que opere con distintos sistemas de archivos, ya que sus aplicaciones pueden operar con sistemas operativos con diversos sistemas de archivos y con aplicaciones que solo funcionan en un sistema aoperativo con un sistema de archivos específicos. ¿Existe un servicio que contemple soporte a todos los sistemas de archivos?",
+  "respuesta": "Si, podemos utilizar Elastic FileSystem"
  }
 ]
