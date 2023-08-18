@@ -1,11 +1,19 @@
 [
  {
+  "pregunta": "¿Cómo asesorarías a un potencial cliente, que no conoce información alguna de la nube, en un servicio especializado de información introductoria sobre la nube de Amazon y todos sus servicios?",
+  "respuesta": "Podemos asesorarlo en que visite el AWS Knowledge Center."
+ },
+ {
   "pregunta": "¿Cómo se define el servicio de AWS Direct Connected?",
   "respuesta": "Es un servicio de AWS que establece una conexión de red privada dedicada desde un centro de datos, oficina o entorno de coubicación, a AWS"
  },
  {
   "pregunta": "¿Cómo se denominan los servicios esenciales de AWS?",
   "respuesta": "Son parte de la infraestructura básica de la nube de Amazon."
+ },
+ {
+  "pregunta": "¿Cuál de las siguientes instancias permite un contrato de, por lo menos, un año, con Amazon?",
+  "respuesta": "Instancias reserved."
  },
  {
   "pregunta": "¿Cuál de las siguientes instancias permite un contrato entre uno a 3 años con Amazon?",
@@ -16,7 +24,15 @@
   "respuesta": "Instancias spot"
  },
  {
+  "pregunta": "¿Cuál es el servicio esencial de Aws que permite a sus usuarios crear recursos en un entorno interconectado, donde todos los recursos y servicios pueden convivir integrados. Es decir, crear un espacio para que el cliente cree sus servidores, servicios de almacenamientos y bases de datos?",
+  "respuesta": "Virtual Private Cloud."
+ },
+ {
   "pregunta": "¿Cuál es la definición de una arquitectura de nube en Amazon Web Services?",
+  "respuesta": "Constituye la forma de organizar e integrar las tecnologías que conforman la nube de Amazon."
+ },
+ {
+  "pregunta": "¿Cuál es la definición de una Arquitectura de Nube en Amazon Web Services?",
   "respuesta": "Constituye la forma de organizar e integrar las tecnologías que conforman la nube de Amazon."
  },
  {
@@ -26,6 +42,10 @@
  {
   "pregunta": "¿Cuáles de estos enunciados coinciden con la definición correcta de OpenStack? Seleccione las 2 (dos) respuestas correctas.",
   "respuesta": "Es un proyecto que proporciona infraestructura como servicio (IaaS); Es un proyecto de nube open source."
+ },
+ {
+  "pregunta": "¿Cuáles son características del Servicio RDS ?",
+  "respuesta": "Es un servicio totalmente administrado por Amazon. - Puede configurar una variedad de tipos de motores de bases de datos relacionales y no relacionales, que se integran con motores On Premise ya existentes."
  },
  {
   "pregunta": "¿Cuándo es conveniente utilizar una nube pública?",
@@ -42,6 +62,10 @@
  {
   "pregunta": "¿El servicio Amazon Virtual Private Cloud permite que nos conectemos a servidores desplegados dentro de una VPC, mediante el protocolo Virtual Private Network (VPN)?",
   "respuesta": "Si, se permite"
+ },
+ {
+  "pregunta": "¿Es Amazon Web Services responsable de la configuración de las zona de disponibilidad por cada región?",
+  "respuesta": "Sí, Amazon se encarga de configurar una región y zona de disponibilidad por defecto si no se selecciona una específica."
  },
  {
   "pregunta": "¿Qué es una nube híbrida?",
@@ -112,6 +136,10 @@
   "respuesta": "Es un servicio de AWS que establece una conexión de red privada dedicada, desde un centro de datos, oficina o entorno de coubicación, a AWS."
  },
  {
+  "pregunta": "Con Internet Gateway se puede lograr que los recursos de una VPC puedan alcanzar internet.",
+  "respuesta": true
+ },
+ {
   "pregunta": "Cuándo es necesario utilizar VPC Peering? Seleccione las 2 (dos) respuestas correctas.",
   "respuesta": "Cuando es necesario conectar distintas VPC; Cuando se necesita conectar VPC de distintas cuentas de AWS. "
  },
@@ -126,6 +154,14 @@
  {
   "pregunta": "El servicio Amazon Virtual Private Cloud, ¿permite que configuremos reglas para controlar el trafico de entrada y de salida de los recursos?",
   "respuesta": "Si, se permite"
+ },
+ {
+  "pregunta": "En el proceso de configuración de las instancias de tus clientes, necesitas asegurar que estas puedan brindar una performance de disco adecuada para estar en la nube de Amazon, tener alcance global y poder lidiar con el almacenamiento de archivos y la eliminación de los mismos, de diversos tamaños y que sean almacenados como si fuese un disco duro físico (HDD) o un disco de estado sólido (SSD). ¿Cuál es el servicio exacto para asesorar a tus clientes?",
+  "respuesta": "El servicio que almacena en bloques es EBS."
+ },
+ {
+  "pregunta": "En el proceso de configuración de las instancias de una compañía local de streaming, debes proveerles a tus clientes la performance mas optima que Amazon puede ofrecer en términos de conectividad e instancias con interfaces que puedan soportar cargas de trabajo intensas. ¿Qué ofrece Amazon como parte de una VPC para brindar conectividad de alta velocidad a la instancia?",
+  "respuesta": "Una interfaz de red elástica (ENI)."
  },
  {
   "pregunta": "En el proceso de configuración de tus instancias, como consultor, debes proveerles a tus clientes de una solución de almacenamiento que permita que puedan guardar grandes cantidades de archivos, que no serán accedidos durante por lo menos , 6 meses, pero sin que por ello pierdan acceso a ellos, y buscan también, tus clientes, el coste más bajo posible, ¿podrías brindarle una solución que cumpla con esos objetivos?",
@@ -152,12 +188,24 @@
   "respuesta": "Deberías recomendarle utilizar un Elastic Load Balancer."
  },
  {
+  "pregunta": "En tu rol como consultor de soluciones , un cliente se acerca con la siguiente inquietud: desea que su aplicación, que funciona en la capa de aplicación y gestiona contenido, tenga una performance excelente, utilizando los beneficios de la nube. Para esto, necesita un load balancer entre sus servidores, pero, ¿Cuál elegirías para recomendarle?",
+  "respuesta": "Un application load balancer (ALB)."
+ },
+ {
   "pregunta": "En tu rol como Consultor de Soluciones Amazon, un cliente se acerca con la siguiente inquietud: desea que su aplicación, que funciona en la capa de de aplicación y gestiona contenido, tenga una performance excelente, utilizando los beneficios de la nube. Para esto necesita un Load Balancer entre sus servidores, pero, ¿cuál es el que deberías elegir para asesorarlo?",
   "respuesta": "Un Application Load Balancer (ALB)."
  },
  {
   "pregunta": "En tu rol como consultor de Soluciones utilizando los servicios de Amazon, un cliente se acerca con la siguiente inquietud, desea que su aplicación, que funciona en la capa de de red y debe gestionar trafico dependiendo de su origen y destino, sea compatible con su Balanceador de Carga, dispositivo que adquirió previo a la existencia de la nube, por lo tanto, podríamos asesorarlo en la utilización de una solución de Amazon Web Services para que pueda cumplir sus objetivos con los mejores resultados?",
   "respuesta": "La solución ideal es que utilice un Load Balance (Balanceador de Carga) de Amazon."
+ },
+ {
+  "pregunta": "En tu rol como consultor, un cliente se acerca con la siguiente inquietud: desea que su aplicación, que funciona en la capa de red y debe gestionar tráfico de distintos continentes, sea analizada para detectar las conexiones de países bloqueados por su firewall. Por lo tanto, desea un solución que se encuentre diseñada para una análisis inteligente del tráfico y para un posterior balanceo en base al tráfico que recibe y envía. ¿Qué solución debes recomendarle?",
+  "respuesta": "Un network load balancer (NLB)."
+ },
+ {
+  "pregunta": "En tu rol de arquitecto Cloud, recibís una consulta de un cliente que opera con bases de datos relacionales y no relacionales en on premise. Tu cliente manifiesta la necesidad de migrar a servicios para bases de datos en Cloud, aunque no a un sistema totalmente administrable. Desea que sus empleados, que actualmente son especialistas en bases de datos, no deban aprender aspectos profundos de Cloud, sino solo los aspectos básicos. ¿Qué infraestructura le recomendarías?",
+  "respuesta": "Una infraestructura DaaS."
  },
  {
   "pregunta": "En tu rol de consultor Cloud al trabajar con muchos clientes, deseas utilizar una solución para almacenar logs de las operaciones que realizas en cada recurso. ¿Cuáles son los servicios para almacenar archivos, como logs o documentos de Amazon? Selecciona las opciones correctas",
@@ -172,12 +220,24 @@
   "respuesta": "Una infraestructura IasS"
  },
  {
+  "pregunta": "En tu rol de consultor cloud, suele ser una practica común la de trabajar con servidores que manejan información que si no se encuentra correctamente protegida, puede abrir la puerta a vulnerabilidades. Para brindarles a tus clientes la mayor protección posible en sus servidores, ¿cómo podrías asesorarlos con un servicio de Amazon que implemente cifrado?",
+  "respuesta": "Podes asesorarlos en utilizar Encrypting File System (EFS) en EC2."
+ },
+ {
   "pregunta": "En tu rol de consultor cloud, suele ser una práctica común la de trabajar con servidores que manejan información que, si no se encuentra correctamente protegida, puede abrir la puerta a vulnerabilidades. Para brindarles a tus clientes la mayor protección posible en sus servidores, ¿cómo podrías asesorarlos en un servicio de Amazon que implemente cifrado?",
   "respuesta": "Podrían utilizar Encrypting File System (EFS) en EC2."
  },
  {
   "pregunta": "En tu rol de consultor Cloud, tus clientes necesitan que puedas brindarles una solución de backups y de recuperación automática de sus servidores de bases de datos, en caso de desastres u errores en los servidores. ¿Qué servicio de Amazon sería recomendable para esta petición?",
   "respuesta": "Amazon RDS, porque cuenta con las propiedades de autorecuperación y backup automático."
+ },
+ {
+  "pregunta": "En tu rol de consultor cloud, un cliente te solicita la tarea de migrar su infraestructura a un tipo de nube que tenga alcance global, soporte empresarial y un modelo de costos configurable de acuerdo a sus necesidades ¿Qué tipo de arquitectura le recomendarías?",
+  "respuesta": "La utilización de una nube publica como Amazon Web Services."
+ },
+ {
+  "pregunta": "En tu rol de consultor Cloud, una de tus tareas es educar mediante seminarios a personal técnico en las soluciones que provee la nube de Amazon. Debes en esta ocasión, armar una capacitación sobre un servicio de bases de datos que permita desentenderse a los administradores de todas las tareas de actualización, parche, recovery, backups. ¿Qué servicio elegirías para este seminario?",
+  "respuesta": "Amazon Relational Database Service."
  },
  {
   "pregunta": "En tu rol de Consultor Cloud, una de tus tareas es migrar los servidores On premise a instancias en la nube, tu cliente te solicita que las instancias que le sugieras, mantengan una relación equilibrada en precio\/hardware, siendo similares a las que son On Premise, por lo tanto, ¿qué solución de Amazon es Ideal para elegir tipos de Instancias según sus recursos?",
@@ -220,6 +280,10 @@
   "respuesta": "Utilizaría MySQL para Amazon"
  },
  {
+  "pregunta": "Estás viendo tu dashboard de AWS porque querés saber dónde se encuentra una instancia de EC2 y ves lo siguiente: \"us-east-1\" ¿Qué significa? Selecciona las 2 (dos) opciones correctas.",
+  "respuesta": "Amazon utiliza un simple sistema de nomenclaturas para nombrar a las regiones y zonas de disponibilidad. - Las nomenclaturas corresponden a una manera simple de Amazon de identificar un país, un estado específico, una posición geográfica y un número identificatorio de la zona de disponibilidad."
+ },
+ {
   "pregunta": "Evaluando la creación de tu propia consultora, comenzas a crear un mapa de ventajas y desventajas de llevar tu infraestructura a la nube , teniendo en cuenta que tu presupuesto es limitado y pensas en tu negocio como una oportunidad a largo plazo, ¿cuál sería la desventaja mas evidente si no migraras a la nube de Amazon y persistieras en servidores On Premise?",
   "respuesta": "Los gastos recurrentes."
  },
@@ -242,6 +306,14 @@
  {
   "pregunta": "Se te asigna la tarea de exponer ante potenciales inversores los beneficios de migrar a la nube de Amazon. ¿Qué palabras tendrían que estar presentes en la exposición? Selecciona las 2 opciones correctas",
   "respuesta": "Económica \/ Escalable"
+ },
+ {
+  "pregunta": "Sos encargado de educar a los nuevos usuarios de tu empresa, en términos simples, los beneficios de cloud sobre el hardware, y el hecho de que ya no tendrán que operar muchos servidores físicos paralelamente o que podrán trabajar en sistemas globales en tiempo real en minutos. Selecciona las 2 (dos) frases que utilizarías para hacerlo.",
+  "respuesta": "Poder manipular o cambiar hardware de sus equipos sin necesidad de tener físicamente ese hardware; Podrán utilizar los servicios sin necesidad de tenerlos instalados en su equipo."
+ },
+ {
+  "pregunta": "Sos representante de una Multinacional, que está migrando a la nube. Por sus características, necesitan un servicio altamente especializado, con soporte las 24 horas , los 7 días de la semana, en varios Idiomas y con respuestas ante incidentes no mayores a 15 minutos. ¿Podrías asesorar a tus clientes en un servicio de Amazon que sea de dicha calidad?",
+  "respuesta": "Los asesoraría en elegir Enterprise Support."
  },
  {
   "pregunta": "Supongamos que recibes solicitudes de un grupo de clientes que desean almacenar sus datos y controlar sus servidores en un entorno cloud, pero son extremadamente recelosos de la información y el acceso a dichos servidores. Por lo tanto, no desean que sus servidores y datos se encuentren en servidores ajenos, sino que quieren tener el control físico del hardware y de todos los aspectos de sus recursos. En tu experiencia como consultor, ¿qué tipo de nube cumple con los requisitos y objetivos del cliente?",
@@ -276,8 +348,16 @@
   "respuesta": "Sí, podría recomendarle Amazon S3 Glacier"
  },
  {
+  "pregunta": "Tu cliente te solicita ser notificado cuando sus archivos en S3, pasan a S3 Glacier, por medio de un mensaje de texto. ¿Podemos brindarle una solución desde AWS?",
+  "respuesta": "Debemos configurar por medio de cloudwatch, al servicio s3."
+ },
+ {
   "pregunta": "Tus clientes desean migrar sus servidores a la nube, pero se encuentran preocupados por la información de sus instancias, sus discos HDD y SSD, en sus servidores on premise, ya que temen por la disponibilidad de sus discos ¿Es razonable su temor a perder los archivos de sus discos una vez que se encuentran migrados en la nube?",
   "respuesta": "No deberían preocuparse, Amazon posee capacidad de auto recuperación (desastre recovery); No deberían preocuparse, Amazon provee alta disponibilidad mediante Elastic Block Storage, replicando los discos en la nube en por lo menos 3 zonas de disponibilidad"
+ },
+ {
+  "pregunta": "Tus clientes necesitan una solución que contemple los siguientes objetivos: Algunos departamentos van a migrar a un tipo de nube que sea escalable, siempre disponible, y que pueda automatizar los procesos de creación de recursos. Pero otros departamentos mas específicos de la empresa, necesitan migrar a un entorno en la nube que no este bajo control de ninguna empresa externa, sino que los clientes se encargarían de la contratación y formación del personal para la administración de estos recursos, porque los consideran críticos. ¿Podrías asesorarlo en la solución de arquitectura que seria la indicada para esta situación?",
+  "respuesta": "La solución ideal es una nube hibrida."
  },
  {
   "pregunta": "Un cliente desea guardar los resultados de la ejecución de un código, en logs en Amazon, ¿qué servicio podrías recomendarle para almacenar archivos en Amazon?",
@@ -296,6 +376,10 @@
   "respuesta": "Deberían contratar AWS Developer Support."
  },
  {
+  "pregunta": "Una de las características de Amazon es la agilidad. Esto quiere decir que se encargan de comprar lo que el cliente pida, ya que Amazon se ha formado sobre la base de las compras que sus clientes han realizado a lo largo del tiempo.",
+  "respuesta": false
+ },
+ {
   "pregunta": "Una de las características de Amazon, es la flexibilidad. Es decir, que se encargan de contactar al cliente, dialogar con el, y realizar los contratos necesarios pueda obtener los servicios que demanda, a la escala que desee, y con bajo costo.",
   "respuesta": false
  },
@@ -306,6 +390,18 @@
  {
   "pregunta": "Una instancia solo se puede parar o terminar de ejecutar si la zona en la que está determinada lo permite.",
   "respuesta": false
+ },
+ {
+  "pregunta": "Uno de los creadores de Amazon Web Services es Bill Gates.",
+  "respuesta": false
+ },
+ {
+  "pregunta": "Uno de nuestros clientes desea interactuar con la API de Amazon para diseñar aplicaciones que le informen el estado de sus recursos. Por temas privados, decide desarrollar el mismo su solución. ¿Qué servicio de Amazon existe para exponer una API para permitir desarrollos externos?",
+  "respuesta": "Puede utilizar AWS Health API."
+ },
+ {
+  "pregunta": "Uno de nuestros clientes desea que una aplicación conocida como Bot, sea notificada cuando en sus servidores de bases de datos de RDS se activa la función de autoescalado, este bot luego comunicara al equipo de operaciones la actividad mediante alarmas a su correo electrónico. ¿Qué servicio de Amazon le podemos recomendar?",
+  "respuesta": "La solución es utilizar Lambda. - La solución ideal es configurar las notificaciones y alertas de CloudWatch."
  },
  {
   "pregunta": "Uno de nuestros clientes desea ser notificado de los eventos de sus recursos, cuando se activa la función de autoescalado, mediante alarmas a su correo eletrónico. ¿Qué servicio de Amazon le podemos recomendar?",
@@ -320,6 +416,10 @@
   "respuesta": "Si, pueden formarse desde AWS Knowledge Center; Si, puede utilizar el AWS Training Center"
  },
  {
+  "pregunta": "Uno de nuestros clientes nos pide asesorarlo en una manera de que su equipo de operaciones sea notificado cuando la red en VPC esta recibiendo trafico al 90% de su capacidad, con el fin de elevar un incidente a operaciones para analizar si no es un ataque de denegación de servicio destruido, ¿podemos asesorarlo con un servicio de AWS?",
+  "respuesta": "Si, debe integrar una combinación de Lambda analizando mediante cloudwatch."
+ },
+ {
   "pregunta": "Uno de nuestros clientes nos presenta un desafío técnico, desea que sus aplicaciones sean extremadamente rápidas, ya que necesita realizar renderizado de video en ese servidor, el software que utilizará contiene una licencia que no permite que se la pueda duplicar en varios servidores, y no soporta software de virtualización, solo puede ser utilizado en entornos no cloud, ¿cómo podríamos asesorarlo para que aun así, pueda utilizar ese software en un servidor en la nube?",
   "respuesta": "Es una solución simple si se utiliza los Host Dedicados de Amazon."
  },
@@ -332,7 +432,27 @@
   "respuesta": "Un elastic load balancer"
  },
  {
+  "pregunta": "Uno de tus clientes desea para su empresa un entorno controlado a prueba de errores, es decir, que sea manejado en parte por Amazon y en parte por los usuarios, permitiendo que estos solo accedan a plataformas y no a un sistema totalmente administrable. Desea también que sus empleados sean formados en conceptos básicos de administración en Amazon. ¿Qué infraestructura le recomendarías?",
+  "respuesta": "Una infra PaaS."
+ },
+ {
   "pregunta": "Uno de tus clientes necesita un servicio especifico que opere con distintos sistemas de archivos, ya que sus aplicaciones pueden operar con sistemas operativos con diversos sistemas de archivos y con aplicaciones que solo funcionan en un sistema aoperativo con un sistema de archivos específicos. ¿Existe un servicio que contemple soporte a todos los sistemas de archivos?",
   "respuesta": "Si, podemos utilizar Elastic FileSystem"
+ },
+ {
+  "pregunta": "Uno de tus clientes te plantea la necesidad de elegir entre dos tipos de entorno: uno totalmente administrable por sus empleados pero con menor seguridad o uno administrado parcialmente por Amazon, pero con un costo mayor. ¿Cuáles son los entornos a los que hace referencia?",
+  "respuesta": "Una infraestructura PaaS. - Una infraestructura SaaS"
+ },
+ {
+  "pregunta": "Uno de tus clientes trabaja en un laboratorio de análisis de malware y busca una solución en los servicios en la nube que le permita realizar sus tareas cotidianas de investigación. Es necesario acentuar que los datos son potencialmente peligrosos. ¿Cuáles serían tus recomendaciones como consultor?",
+  "respuesta": "Crear su propia infraestructura privada bajo su propio riesgo sería una posible solución; No migrar a Cloud, ya que los proveedores no permiten la utilización de sus recursos para material potencialmente peligroso."
+ },
+ {
+  "pregunta": "Uno de tus clientes, necesita que puedas brindarle una solución de backups y recuperación automática de sus servidores de bases de datos, en caso de desastres u errores en los servidores, ¿Qué servicio de Amazon elegirías para recomendarles?",
+  "respuesta": "Amazon RDS porque cuenta con esas propiedades, de auto recuperación y backups automático. - Configuraría Amazon RDS para que opere en Multi AZ."
+ },
+ {
+  "pregunta": "Uno de tus clientes, te propone la posibilidad de que él y su equipo de seguridad informática auditen los servicios de Amazon, viajando a los datacenters en las regiones donde se encuentran sus recursos y analizar ellos la seguridad de la infraestructura global de Amazon. En tu rol de arquitecto Cloud, ¿Cuáles serían las respuestas adecuadas?",
+  "respuesta": "Amazon no permite a sus clientes visitas a sus datacenters. - Amazon solo permite a empresas certificadas que auditen sus datacenters."
  }
 ]
