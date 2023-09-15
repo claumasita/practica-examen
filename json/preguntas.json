@@ -327,7 +327,7 @@
   "respuesta": "API Number"
  },
  {
-  "pregunta": "Seleccionar 1 (una) respuesta correcta. Cual es la manera correcta de declarar un par clavevalor en Json de tipo INT que haga referencia a edad(age)?",
+  "pregunta": "Seleccionar 1 (una) respuesta correcta. Cual es la manera correcta de declarar un par clave valor en Json de tipo INT que haga referencia a edad(age)?",
   "respuesta": "“age”:22"
  },
  {
