@@ -1,458 +1,425 @@
 [
  {
-  "pregunta": "¿Cómo asesorarías a un potencial cliente, que no conoce información alguna de la nube, en un servicio especializado de información introductoria sobre la nube de Amazon y todos sus servicios?",
-  "respuesta": "Podemos asesorarlo en que visite el AWS Knowledge Center."
+  "pregunta": "¿A qué colecciones y, por ende, solicitudes afecta una variable de entorno?",
+  "respuesta": "AFECTAN ÚNICAMENTE A LAS SOLICITUDES QUE SE ENCUENTRAN EN UN “ENVIRONMENT” DETERMINADO EN SU CREACIÓN."
  },
  {
-  "pregunta": "¿Cómo se define el servicio de AWS Direct Connected?",
-  "respuesta": "Es un servicio de AWS que establece una conexión de red privada dedicada desde un centro de datos, oficina o entorno de coubicación, a AWS"
+  "pregunta": "¿A qué colecciones y, por ende, solicitudes afecta una variable global?",
+  "respuesta": "AFECTA A TODOS LOS ENVIRONMENTS Y COLECCIONES POR IGUAL."
  },
  {
-  "pregunta": "¿Cómo se denominan los servicios esenciales de AWS?",
-  "respuesta": "Son parte de la infraestructura básica de la nube de Amazon."
+  "pregunta": "¿Cuál de los siguientes no es un beneficio de la Integración Continua?",
+  "respuesta": "Mejora el tiempo de reuniones con el cliente."
  },
  {
-  "pregunta": "¿Cuál de las siguientes instancias permite un contrato de, por lo menos, un año, con Amazon?",
-  "respuesta": "Instancias reserved."
+  "pregunta": "¿Cuál es el código de error que recibiremos si, por alguna razón, el servidor de la API REST no puede procesar nuestra solicitud?",
+  "respuesta": "5XX (500, 501, 502, etc.)."
  },
  {
-  "pregunta": "¿Cuál de las siguientes instancias permite un contrato entre uno a 3 años con Amazon?",
-  "respuesta": "Instancias Reservadas."
+  "pregunta": "¿Cuál es el comando del motor de Docker por el cual consumiremos un archivo de tipo dockerfile y desencadenaremos el proceso de creación de la imagen a virtualizar?",
+  "respuesta": "Docker build."
  },
  {
-  "pregunta": "¿Cuál de las siguientes instancias puede ser terminada automáticamente, si no estamos atentos a la variación de su precio en tiempo real?",
-  "respuesta": "Instancias spot"
+  "pregunta": "¿Cuál es el comando por el cual podemos instalar Newman desde nuestra terminal en un sistema operativo Windows?",
+  "respuesta": "npm install -g newman."
  },
  {
-  "pregunta": "¿Cuál es el servicio esencial de Aws que permite a sus usuarios crear recursos en un entorno interconectado, donde todos los recursos y servicios pueden convivir integrados. Es decir, crear un espacio para que el cliente cree sus servidores, servicios de almacenamientos y bases de datos?",
-  "respuesta": "Virtual Private Cloud."
+  "pregunta": "¿Cuál es el método de autenticación de APIs más comúnmente utilizado?",
+  "respuesta": "APIkey"
  },
  {
-  "pregunta": "¿Cuál es la definición de una arquitectura de nube en Amazon Web Services?",
-  "respuesta": "Constituye la forma de organizar e integrar las tecnologías que conforman la nube de Amazon."
+  "pregunta": "¿Cuál es la característica de los microservicios que permite que, si yo modifico el código de un microservicio, no afecte al resto de microservicios que componen a una aplicación?",
+  "respuesta": "Independencia"
  },
  {
-  "pregunta": "¿Cuál es la definición de una Arquitectura de Nube en Amazon Web Services?",
-  "respuesta": "Constituye la forma de organizar e integrar las tecnologías que conforman la nube de Amazon."
+  "pregunta": "¿Cuál es la función que debemos utilizar si queremos realizar un test de aserción?",
+  "respuesta": "pm.expect(jsonData.name).to.eql(“ValorEsperado”);"
  },
  {
-  "pregunta": "¿Cuáles de estos enunciados coinciden con la definición correcta de OpenStack?",
-  "respuesta": "Es un proyecto de nube open source; Es un proyecto que proporciona infraestructura como servicio (IaaS)"
+  "pregunta": "¿Cuál es un prerrequisito fundamental para que podamos trabajar con integración continua?",
+  "respuesta": "Que los proyectos trabajen con un sistema de versionado o de control de versiones."
  },
  {
-  "pregunta": "¿Cuáles de estos enunciados coinciden con la definición correcta de OpenStack? Seleccione las 2 (dos) respuestas correctas.",
-  "respuesta": "Es un proyecto que proporciona infraestructura como servicio (IaaS); Es un proyecto de nube open source."
+  "pregunta": "¿Cuáles de los siguientes son beneficios de WhatsApp Business API?",
+  "respuesta": "Vinculación de la cuenta de WhatsApp Business API a una plataforma multiusuario. Reportes completos de los chatbots. Difusión de contenidos. Capacidad de creación de chatbots. "
  },
  {
-  "pregunta": "¿Cuáles son características del Servicio RDS ?",
-  "respuesta": "Es un servicio totalmente administrado por Amazon. - Puede configurar una variedad de tipos de motores de bases de datos relacionales y no relacionales, que se integran con motores On Premise ya existentes."
+  "pregunta": "¿Cuáles de los siguientes son los 2 tipos de pipelines más usados en Jenkins?",
+  "respuesta": "Freestyle pipeline; Multibranch pipeline. "
  },
  {
-  "pregunta": "¿Cuándo es conveniente utilizar una nube pública?",
-  "respuesta": "Cuando deseamos escalar horizontalmente; Cuando se desea una estructura escalable sin adquirirlos componentes de hardware y software"
+  "pregunta": "¿En qué sección de la estructura de un fichero XML incluimos nuestras credenciales para autenticarnos?",
+  "respuesta": "Header"
  },
  {
-  "pregunta": "¿Cuándo es conveniente utilizar una nube pública? Seleccione las 2 (dos) respuestas correctas.",
-  "respuesta": "Cuando deseamos escalar horizontalmente; Cuando se desea una infraestructura escalable sin adquirir los componentes de hardware y software."
+  "pregunta": "¿Jenkins es compatible con Ansible?",
+  "respuesta": "Sí, Ansible actúa como orquestador y Jenkins como automatizador."
  },
  {
-  "pregunta": "¿Cuándo es necesario utilizar Security Group?",
-  "respuesta": "Cuando se desea tener control sobre los puertos y protocolos; Siempre, es por defecto"
+  "pregunta": "¿Para qué nos sirve TDD en un modelo de Integración Continua?",
+  "respuesta": "Para asegurarnos que un nuevo commit a la rama principal supera todas nuestras instancias de testing antes de desplegarla en producción."
  },
  {
-  "pregunta": "¿El servicio Amazon Virtual Private Cloud permite que nos conectemos a servidores desplegados dentro de una VPC, mediante el protocolo Virtual Private Network (VPN)?",
-  "respuesta": "Si, se permite"
+  "pregunta": "¿Para qué sirve la consola de Postman?",
+  "respuesta": "Para tener mayor información sobre la respuesta de nuestras peticiones de API."
  },
  {
-  "pregunta": "¿Es Amazon Web Services responsable de la configuración de las zona de disponibilidad por cada región?",
-  "respuesta": "Sí, Amazon se encarga de configurar una región y zona de disponibilidad por defecto si no se selecciona una específica."
+  "pregunta": "¿Para qué sirve la sección “API” dentro de Postman?",
+  "respuesta": "Para poder alojar allí las APIs de nuestra creación por medio de un repositorio."
  },
  {
-  "pregunta": "¿Qué es una nube híbrida?",
-  "respuesta": "Es una solución que combina una nube privada con uno o más servicios de nube pública con software exclusivo que permite la comunicación entre cada servicio distinto; Servicios potentes que proporcionan a las empresas un mayor control de sus datos privados"
+  "pregunta": "¿Para qué sirve Swagger?",
+  "respuesta": "Es una herramienta para documentar API REST."
  },
  {
-  "pregunta": "¿Qué es una nube híbrida?",
-  "respuesta": "Una solución que combina una nube privada con uno o más servicios de nube pública con software exclusivo, que permite la comunicación entre cada servicio distintivo."
+  "pregunta": "¿Que código de respuesta obtendremos de una API REST si nuestro método de autenticación no es reconocido por el servidor y, por ende, nuestra solicitud recibe un error de respuesta?",
+  "respuesta": 403
  },
  {
-  "pregunta": "¿Qué es una nube privada?",
-  "respuesta": "Las nubes privadas son entornos de nube diseñados solo para el usuario final, generalmente dentro del firewall"
+  "pregunta": "¿Que código de respuesta recibiremos si, accidentalmente, nos equivocamos y enviamos a un endpoint de tipo de solicitud (GET, POST, PUT, etc.) a un endpoint que no está preparado para recibir ese tipo de solicitudes?",
+  "respuesta": 405
  },
  {
-  "pregunta": "¿Qué son las instancias de EC2?",
-  "respuesta": "Entornos informáticos virtuales \/ Instancias de Amazon"
+  "pregunta": "¿Qué debe perseguir, principalmente, una estrategia de branching?",
+  "respuesta": "Optimizar la productividad del equipo de desarrollo; Admitir multiplex versiones de software. "
  },
  {
-  "pregunta": "¿Qué son los servicios Core?",
-  "respuesta": "Son parte de la Infraestructura Básica de la Nube de Amazon"
+  "pregunta": "¿Qué devolvería el siguiente script? let jsonData = pm.response.json(); for (var i=0;i<jsonData.list.length;i++) {console.log(jsonData.list[i].clientName);}",
+  "respuesta": "Todos los valores dentro de la clave “clientName” existente dentro del array “list”."
  },
  {
-  "pregunta": "¿Qué sucede cuando se selecciona el estado “stop” en una instancia EC2?. Selecciona las 2 opciones correctas",
-  "respuesta": "Esta se cierra de forma normal. El volumen de dispositivo raíz se elimina de forma predeterminada, pero cualquier volumen de Amazon EBS asociado, se conserva de forma predeterminada; Se lleva a cabo un cierre normal y después de una transición a un estado stopped. Todos los volúmenes de Amazon EBS se mantienen adjuntos y se puede iniciar la instancia de nuevo más adelante"
+  "pregunta": "¿Qué es “JWT”?",
+  "respuesta": "Json Web Token"
  },
  {
-  "pregunta": "¿Qué tipo de instancia es la adecuada, si necesitas utilizar un software que, por su diseño, no permite que sea virtualizado?",
-  "respuesta": "Host dedicados"
+  "pregunta": "¿Qué es “npm”?",
+  "respuesta": "Node package manager."
  },
  {
-  "pregunta": "¿Quién fue el fundador de RackSpace?",
-  "respuesta": "Taylor Rhodes"
+  "pregunta": "¿Qué es Docker?",
+  "respuesta": "Un software para despliegue de aplicaciones dentro de contenedores virtuales."
  },
  {
-  "pregunta": "Al crear una cuenta en Amazon, debemos crear el componente Internet Gateway",
-  "respuesta": false
+  "pregunta": "¿Qué es Nodemon?",
+  "respuesta": "Es una utilidad de interfaz de línea de comandos (CLI) que envuelve la aplicación Node, vigila el sistema de archivos y reinicia automáticamente el proceso."
  },
  {
-  "pregunta": "Al momento de crear tus recursos dentro de Amazon, necesitas asegurarte de que todos estén interconectados y de que puedas administrar reglas que permitan que el tráfico que desees fluya tanto de salida como de entrada. ¿Qué solución elegirías, de las que ofrece Amazon, para alcanzar este objetivo?",
-  "respuesta": "Utilizaría una Virtual Private Cloud (VPC)."
+  "pregunta": "¿Qué es un pipeline de Jenkins?",
+  "respuesta": "Un repositorio interno del aplicativo para crear nuevos builds."
  },
  {
-  "pregunta": "Al momento de redactar un informe técnico para tu empresa, debes explicar, con alguno de los siguientes conceptos, la ventaja de migrar a la nube de Amazon ¿Cuál eliges?",
-  "respuesta": "La superioridad de Opex vs Capex"
+  "pregunta": "¿Qué estamos haciendo al ejecutar el siguiente código? $ ansible [pattern] -m [module_name] -a \"[module options]\"",
+  "respuesta": "Es un comando AD-HOC para automatizar una única tarea en un único host o en un grupo de hosts."
  },
  {
-  "pregunta": "Cloud Computing es una tecnología específica, diseñada por AWS para dar solución a los problemas de los usuarios.",
-  "respuesta": false
+  "pregunta": "¿Qué método HTTP debemos utilizar para crear un nuevo recurso en un endpoint?",
+  "respuesta": "POST"
  },
  {
-  "pregunta": "Cloud Computing es una tecnología revolucionaria que nació de la fusión de tecnologías entre Microsoft, Apple y Amazon:",
-  "respuesta": false
+  "pregunta": "¿Qué nos devuelve el siguiente script en Postman?: var jsonData = pm.response.json(); for (var i=0;i<jsonData.alumnos.length;i++) { console.log(jsonData.alumnos[i].name) }",
+  "respuesta": "Nos devolverá el nombre de cada uno de los alumnos"
  },
  {
-  "pregunta": "Como consultor Cloud, sos requerido por parte del un gran cliente de Finanzas Corporativa, para asistir en un equipo de seguridad informática que desea migrar a la nube los servidores que almacenan información de carácter crítico y confidencial sobre servicios Financieros, por lo tanto, no debe ser de carácter público la información de sus clientes. ¿Qué solución de Amazon sería tu elección para asesorarlo?",
-  "respuesta": "Asesorarlos en utilizar la Nube de Amazon contratando el Soporte \"Bussines\"."
+  "pregunta": "¿Qué posibilidades tenemos para integrarnos con WhatsApp? ",
+  "respuesta": "WhatsApp API; WhatsApp Business API. "
  },
  {
-  "pregunta": "Como consultor Cloud, uno de tus clientes te plantea la necesidad de utilizar un software específico, con licencia, pero en la nube. Él ya tiene la licencia oficial de dicho software, pero se encuentra en duda sobre qué entorno utilizar. El desea que sus clientes tengan el mínimo control sobre la infraestructura, que de todos los aspectos se encargue Amazon y ellos solo se concentren en utilizar correctamente el software. ¿Qué infraestructura le recomendarías?",
-  "respuesta": "Una infraestructura SaaS"
+  "pregunta": "¿Qué produce el siguiente código? app.get(\"\/productos\", (req,res) => { const productos = [ { id: 1, name: \"Fideos\", }, { id: 2, name: \"Aceite\", }, ]; res.json(productos); })",
+  "respuesta": "Crea un endpoint llamado “Productos” con dos productos que contienen un ID y un nombre."
  },
  {
-  "pregunta": "Como encargado del área de Cloud de una multinacional, presentarás un proyecto para pymes, fábricas y asociaciones comerciantes que desean soluciones en la nube para que sus negocios tengan alcance global, se recuperen de incidentes de forma rápida y con servicios que estén disponibles siempre. ¿Cuál es la mejor descripción para presentarles sobre AWS?",
-  "respuesta": "La nube de AWS, es su mejor opción porque funciona en muchas zonas de disponibilidad y regiones geográficas del mundo"
+  "pregunta": "¿Qué quiere decidir que un ambiente (producción\/desarrollo\/testing) esté homologado?",
+  "respuesta": "Que cuenten todos los ambientes con las mismas funcionalidades."
  },
  {
-  "pregunta": "Como se define el servicio Aws Direct Connect?",
-  "respuesta": "Es un servicio de AWS que establece una conexión de red privada dedicada, desde un centro de datos, oficina o entorno de coubicación, a AWS."
+  "pregunta": "¿Qué significa API?",
+  "respuesta": "Application Programming Interface."
  },
  {
-  "pregunta": "Con Internet Gateway se puede lograr que los recursos de una VPC puedan alcanzar internet.",
-  "respuesta": true
+  "pregunta": "¿Qué significa JWT?",
+  "respuesta": "Json Web Token"
  },
  {
-  "pregunta": "Cuándo es necesario utilizar VPC Peering? Seleccione las 2 (dos) respuestas correctas.",
-  "respuesta": "Cuando es necesario conectar distintas VPC; Cuando se necesita conectar VPC de distintas cuentas de AWS. "
+  "pregunta": "¿Qué son los Snippets en Postman?",
+  "respuesta": "Una sección de Postman con hints\/pistas de algunos test posibles a nuestras APIs."
  },
  {
-  "pregunta": "Debes asesorar a clientes que operan con bases de datos que nos son relacionales, donde necesitan almacenar archivos de distintos tipos como PDF y Words. La cantidad de datos aumenta con el tiempo y no quieren un límite específico para ellos. ¿Qué servicios de Amazon utilizarías para gestionar bases de datos no relacionales? (2 respuestas).",
-  "respuesta": "Amazon DynamoDB; Amazon RedShift"
+  "pregunta": "¿Qué tienen en común XML y Json?",
+  "respuesta": "Ambos son lenguajes de marcado"
  },
  {
-  "pregunta": "Debes brindar consultoría a Pymes y uno de tus clientes te solicita una solución para su empresa: desea migrar a la nube, y utilizar servidores con el mismo Sistema Operativo que tiene en On Premise; A su vez, quiere contratar estos servicios durante 3 años y quiere que te encargues de entrenar a su personal en cómo operar con servidores en la nube ¿qué solución es la correcta para sus necesidades?",
-  "respuesta": "Una Infraestructura IaaS."
+  "pregunta": "¿Qué tipo de lenguaje de marcado utilizan las APIs REST para comunicarse?",
+  "respuesta": "JSON"
  },
  {
-  "pregunta": "El servicio Amazon Virtual Private Cloud, ¿permite que configuremos reglas para controlar el trafico de entrada y de salida de los recursos?",
-  "respuesta": "Si, se permite"
+  "pregunta": "Como consultores de integraciones, un cliente nos solicita crear un servicio web de tipo monolítico. ¿Qué nos está pidiendo?",
+  "respuesta": "Un tipo de arquitectura de microservicios que se caracteriza por contener todos los servicios que requiere una aplicación en un código único."
  },
  {
-  "pregunta": "En el proceso de configuración de las instancias de tus clientes, necesitas asegurar que estas puedan brindar una performance de disco adecuada para estar en la nube de Amazon, tener alcance global y poder lidiar con el almacenamiento de archivos y la eliminación de los mismos, de diversos tamaños y que sean almacenados como si fuese un disco duro físico (HDD) o un disco de estado sólido (SSD). ¿Cuál es el servicio exacto para asesorar a tus clientes?",
-  "respuesta": "El servicio que almacena en bloques es EBS."
+  "pregunta": "Como se llaman aquellos microservicios que pueden ser accesibles por terceros?",
+  "respuesta": "APIS PUBLICAS"
  },
  {
-  "pregunta": "En el proceso de configuración de las instancias de una compañía local de streaming, debes proveerles a tus clientes la performance mas optima que Amazon puede ofrecer en términos de conectividad e instancias con interfaces que puedan soportar cargas de trabajo intensas. ¿Qué ofrece Amazon como parte de una VPC para brindar conectividad de alta velocidad a la instancia?",
-  "respuesta": "Una interfaz de red elástica (ENI)."
+  "pregunta": "Como se llaman aquellos microservicios que pueden ser accesibles por terceros?",
+  "respuesta": "APIS PUBLICAS"
  },
  {
-  "pregunta": "En el proceso de configuración de tus instancias, como consultor, debes proveerles a tus clientes de una solución de almacenamiento que permita que puedan guardar grandes cantidades de archivos, que no serán accedidos durante por lo menos , 6 meses, pero sin que por ello pierdan acceso a ellos, y buscan también, tus clientes, el coste más bajo posible, ¿podrías brindarle una solución que cumpla con esos objetivos?",
-  "respuesta": "Podrías Asesorarlo en Utilizar Amazon S3, particularmente Amazon S3 Glacier, que ofrece bajos costes y alta durabilidad , pero los tiempos de acceso no son inmediatos."
+  "pregunta": "Como se llaman aquellos microservicios que solo son de acceso interno o por parte de otros servicios que componen una misma aplicación?",
+  "respuesta": "APIS PRIVADAS"
  },
  {
-  "pregunta": "En la empresa en la cual trabajas, se te asigna la tarea de informar a gerencia por qué sería una excelente idea desde diversos puntos de vista, migrar hacia la nube de Amazon, ¿con qué dos palabras definirías la nube?",
-  "respuesta": "Flexible; Ágil"
+  "pregunta": "Cual de las siguientes opciones es uno de los criterios para definir a una API como RESTful?",
+  "respuesta": "DEBE TENER UNA ARQUITECTURA CLIENTE-SERVIDOR"
  },
  {
-  "pregunta": "En nuestra tarea de Consultores Cloud, nuestro cliente nos consulta si podemos asesorarlo en un servicio de Amazon que le de una visión global de toda la infraestructura mundial, para así tener tranquilidad del estado de sus recursos. ¿Podemos asesorarlo en un servicio de tales características?",
-  "respuesta": "La solución ideal es Aws Health Dashboard."
+  "pregunta": "Cual es el código de respuesta mas popular que obtendremos si un endpoint al que estamos enviando una solicitud fue redireccionando a otro?",
+  "respuesta": 302
  },
  {
-  "pregunta": "En nuestro rol de consultor, recibiremos consultas de potenciales clientes que no conocen información alguna de la nube y, por lo tanto, necesitan de tus conocimientos. ¿Podrías asesorarlos en un servicio especializado de información introductoria sobre la nube de Amazon y todos sus servicios?",
-  "respuesta": "Podemos asesorarlos en que visiten el AWS Knowledge Center."
+  "pregunta": "Cual es la aplicación que se utiliza para probar microservicios de tipo SOAP?",
+  "respuesta": "SOAPUI"
  },
  {
-  "pregunta": "En tu equipo de desarrollo están probando las funcionalidades de un nuevo lenguaje de programación. Según lo que conoces de la oferta de Amazon, para probar código en tiempo real en la nube ¿Qué servicio específico podrías recomendar para esta tarea?",
-  "respuesta": "Deberían usar Lambda"
+  "pregunta": "Cual es la principal diferencia entre SOAP y REST?",
+  "respuesta": "SOAP ES UN PROTOCOLO, MIENTRAS QUE REST ES UN PATRON DE ARQUITECTURA"
  },
  {
-  "pregunta": "En tu rol como consultor de Amazon Web Services, un cliente te solicita una solución para mitigar el tráfico de un solo servidor, entre varios, ¿qué servicio de Amazon es el adecuado para que lo asesores?",
-  "respuesta": "Deberías recomendarle utilizar un Elastic Load Balancer."
+  "pregunta": "Dentro de la sección “inspeccionar” del navegador, ¿a qué apartado deberemos dirigirnos si queremos observar las peticiones HTTP que se realizan durante nuestra navegación?",
+  "respuesta": "Red -> Fetch\/XHR"
  },
  {
-  "pregunta": "En tu rol como consultor de soluciones , un cliente se acerca con la siguiente inquietud: desea que su aplicación, que funciona en la capa de aplicación y gestiona contenido, tenga una performance excelente, utilizando los beneficios de la nube. Para esto, necesita un load balancer entre sus servidores, pero, ¿Cuál elegirías para recomendarle?",
-  "respuesta": "Un application load balancer (ALB)."
+  "pregunta": "Dentro de Postman. ¿Para qué sirve el aparato de Environments?",
+  "respuesta": "PARA ALOJAR NUESTRAS VARIABLES GLOBALES Y DE ENTORNO"
  },
  {
-  "pregunta": "En tu rol como Consultor de Soluciones Amazon, un cliente se acerca con la siguiente inquietud: desea que su aplicación, que funciona en la capa de de aplicación y gestiona contenido, tenga una performance excelente, utilizando los beneficios de la nube. Para esto necesita un Load Balancer entre sus servidores, pero, ¿cuál es el que deberías elegir para asesorarlo?",
-  "respuesta": "Un Application Load Balancer (ALB)."
+  "pregunta": "Dentro de una solicitud de Postman de envío de información (POST, PUT, PATCH), ¿en qué sección de la solicitud deberemos enviar la información hacia el endpoint?",
+  "respuesta": "En el Body"
  },
  {
-  "pregunta": "En tu rol como consultor de Soluciones utilizando los servicios de Amazon, un cliente se acerca con la siguiente inquietud, desea que su aplicación, que funciona en la capa de de red y debe gestionar trafico dependiendo de su origen y destino, sea compatible con su Balanceador de Carga, dispositivo que adquirió previo a la existencia de la nube, por lo tanto, podríamos asesorarlo en la utilización de una solución de Amazon Web Services para que pueda cumplir sus objetivos con los mejores resultados?",
-  "respuesta": "La solución ideal es que utilice un Load Balance (Balanceador de Carga) de Amazon."
+  "pregunta": "El método “app.use” en ExpressJS contiene tres métodos. ¿Cuáles son?",
+  "respuesta": "Next; Req; Res"
  },
  {
-  "pregunta": "En tu rol como consultor, un cliente se acerca con la siguiente inquietud: desea que su aplicación, que funciona en la capa de red y debe gestionar tráfico de distintos continentes, sea analizada para detectar las conexiones de países bloqueados por su firewall. Por lo tanto, desea un solución que se encuentre diseñada para una análisis inteligente del tráfico y para un posterior balanceo en base al tráfico que recibe y envía. ¿Qué solución debes recomendarle?",
-  "respuesta": "Un network load balancer (NLB)."
+  "pregunta": "En Docker ¿qué indica la siguiente instrucción? FROM mcr.microsoft.com\/windows\/servercore:ltsc2019",
+  "respuesta": "Establece la imagen del contenedor que se usará durante el proceso de creación de la imagen."
  },
  {
-  "pregunta": "En tu rol de arquitecto Cloud, recibís una consulta de un cliente que opera con bases de datos relacionales y no relacionales en on premise. Tu cliente manifiesta la necesidad de migrar a servicios para bases de datos en Cloud, aunque no a un sistema totalmente administrable. Desea que sus empleados, que actualmente son especialistas en bases de datos, no deban aprender aspectos profundos de Cloud, sino solo los aspectos básicos. ¿Qué infraestructura le recomendarías?",
-  "respuesta": "Una infraestructura DaaS."
+  "pregunta": "En Express Js, si realizamos la declaración “const port = 4000”, ¿qué estamos haciendo?",
+  "respuesta": "Declarando el puerto por el que permitiremos la conexión a nuestra API."
  },
  {
-  "pregunta": "En tu rol de consultor Cloud al trabajar con muchos clientes, deseas utilizar una solución para almacenar logs de las operaciones que realizas en cada recurso. ¿Cuáles son los servicios para almacenar archivos, como logs o documentos de Amazon? Selecciona las opciones correctas",
-  "respuesta": "Amazon Glacier; Elastick Block Storage; S3"
+  "pregunta": "En Postman es posible configurar variables dentro del body de la solicitud que estamos por enviar y que, el mismo, tome los datos de esa\/s variable\/s desde un archivo externo, a partir del cual, podemos tomar esos datos. ¿Es esto realmente posible?",
+  "respuesta": "Si es posible, pero las columnas del .CSV\/Json deben tener exactamente el mismo nombre que el nombre de las variables (incluido respetar mayúsculas)"
  },
  {
-  "pregunta": "En tu rol de consultor Cloud, debes explicar a tus clientes sobre ventajas y desventajas económicas de llevar su infraestructura a la nube. ¿Cuál sería la desventaja más evidente, si no migraran a la nube de Amazon y persistirían en servidores on-premise?",
-  "respuesta": "Los gastos recurrentes de mantenimiento y energía, entre otros."
+  "pregunta": "En Postman, ¿qué almacena el menú \"collections\" (colecciones)?",
+  "respuesta": "Solicitudes"
  },
  {
-  "pregunta": "En tu rol de consultor Cloud, recibes una consulta de un pequeño equipo de desarrollo, que desea operar en Cloud, para reducir sus costos actuales, estando on premise. ¿Qué infraestructura les recomendarías?",
-  "respuesta": "Una infraestructura IasS"
+  "pregunta": "En que sección de la estructura de un fichero XML le indicamos al microservicio con que nos comunicamos que, efectivamente, ¿el fichero que le enviamos se identifica como un XML?",
+  "respuesta": "ENVELOPE"
  },
  {
-  "pregunta": "En tu rol de consultor cloud, suele ser una practica común la de trabajar con servidores que manejan información que si no se encuentra correctamente protegida, puede abrir la puerta a vulnerabilidades. Para brindarles a tus clientes la mayor protección posible en sus servidores, ¿cómo podrías asesorarlos con un servicio de Amazon que implemente cifrado?",
-  "respuesta": "Podes asesorarlos en utilizar Encrypting File System (EFS) en EC2."
+  "pregunta": "En una API REST. ¿Qué método HTTP debemos utilizar para obtener información de un endpoint en una solicitud?",
+  "respuesta": "GET"
  },
  {
-  "pregunta": "En tu rol de consultor cloud, suele ser una práctica común la de trabajar con servidores que manejan información que, si no se encuentra correctamente protegida, puede abrir la puerta a vulnerabilidades. Para brindarles a tus clientes la mayor protección posible en sus servidores, ¿cómo podrías asesorarlos en un servicio de Amazon que implemente cifrado?",
-  "respuesta": "Podrían utilizar Encrypting File System (EFS) en EC2."
+  "pregunta": "Estamos evaluando las integraciones que deberemos reutilizar para crear una aplicación para un cliente. Podemos notar que una integración se realiza por medio de un protocolo SOAP que nos envía un archivo tipo XML del cual deberemos nutrirnos de información. Para poder leerlo es necesario conocer cómo se divide una solicitud XML. ¿Cuál de las siguientes opciones es la correcta?",
+  "respuesta": "Envelope\/Header\/Body."
  },
  {
-  "pregunta": "En tu rol de consultor Cloud, tus clientes necesitan que puedas brindarles una solución de backups y de recuperación automática de sus servidores de bases de datos, en caso de desastres u errores en los servidores. ¿Qué servicio de Amazon sería recomendable para esta petición?",
-  "respuesta": "Amazon RDS, porque cuenta con las propiedades de autorecuperación y backup automático."
+  "pregunta": "Existen los códigos de respuesta que hacen referencia a respuestas informativas, pero que no hacen referencia al procesamiento de la solicitud, sino simplemente a la información de su recepción. ¿Cuáles son?",
+  "respuesta": "LOS CODIGOS DENTRO DEL RANGO 1XX"
  },
  {
-  "pregunta": "En tu rol de consultor cloud, un cliente te solicita la tarea de migrar su infraestructura a un tipo de nube que tenga alcance global, soporte empresarial y un modelo de costos configurable de acuerdo a sus necesidades ¿Qué tipo de arquitectura le recomendarías?",
-  "respuesta": "La utilización de una nube publica como Amazon Web Services."
+  "pregunta": "La Integración Continua, la filosofía DevOps y las Metodologías Agiles comparten un mismo enfoque, ¿cuál es?",
+  "respuesta": "Están enfocadas en el cliente."
  },
  {
-  "pregunta": "En tu rol de consultor Cloud, una de tus tareas es educar mediante seminarios a personal técnico en las soluciones que provee la nube de Amazon. Debes en esta ocasión, armar una capacitación sobre un servicio de bases de datos que permita desentenderse a los administradores de todas las tareas de actualización, parche, recovery, backups. ¿Qué servicio elegirías para este seminario?",
-  "respuesta": "Amazon Relational Database Service."
+  "pregunta": "La siguiente porción de código hace referencia a un test asertivo dentro de Postman, ¿qué le falta para funcionar correctamente?: pm.expect(name).to.eql(“ValorEsperado”);",
+  "respuesta": "Le falta la variable que contiene todo el Json de respuesta donde buscar el campo name."
  },
  {
-  "pregunta": "En tu rol de Consultor Cloud, una de tus tareas es migrar los servidores On premise a instancias en la nube, tu cliente te solicita que las instancias que le sugieras, mantengan una relación equilibrada en precio\/hardware, siendo similares a las que son On Premise, por lo tanto, ¿qué solución de Amazon es Ideal para elegir tipos de Instancias según sus recursos?",
-  "respuesta": "Claramente utilizaría Amazon EC2, y seleccionaría una instancia del tipo que sea mas adecuado a los requisitos del cliente."
+  "pregunta": "newman-html-reporter es un módulo de NodeJS que puede ir adosado a Newman para generar reportes de nuestras ejecuciones de colecciones por medio este último, pero para aclararle a Newman que requerimos un reporte, ¿qué debemos agregar al final de nuestro comando?"
  },
  {
-  "pregunta": "En tu rol de consultor Cloud, uno de tus clientes necesita una solución en la nube que tenga alcance global, que le permita acceder desde su empresa y desde entornos externos, que le proveen soporte Enterprise y que pueda comunicarse con el soporte mediante un sistema de casos. El cliente no utilizaría información sensible en dichos servicios ¿Qué tipo de nube le recomendarías contratar?",
-  "respuesta": "Debería adoptar una infraestructura multicloud; Debería contratar una nube pública, como lo es AWS"
+  "pregunta": "Nos disponemos a crear una API REST. Para ello debemos cumplir con los criterios RESTful. Nombrar al menos 3 criterios que deberíamos considerar para crearla.",
+  "respuesta": "Comunicación sin estado; Arquitectura cliente-servidor; Los datos pueden almacenarse en caché y optimizan la interacción cliente-servidor."
  },
  {
-  "pregunta": "En tu tarea como consultor Cloud, recibes una inquietud en materia de seguridad. Tus clientes desean almacenar las llaves de acceso a sus recursos de Amazon, dentro del mismo Amazon. Según tus conocimientos, ¿podrías asesorarlos en la utilización de un servicio en particular?",
-  "respuesta": "Los usuarios pueden administrar sus claves de cifrado mediante AWS Key Management Service (KMS)."
+  "pregunta": "Para qué sirve la sección “Mock Servers” dentro de Postman?",
+  "respuesta": "PARA SIMULAR SERVIDORES DE API INEXISTENTES PERO QUE NOS PERMITIRÁ COMPROBAR SU COMPORTAMIENTO."
  },
  {
-  "pregunta": "En tu trabajo, como consultor Cloud, uno de tus clientes, necesita una solución en la nube que tenga alcance global, con la que puedan acceder tanto desde su empresa, como desde entornos externos, que le provean soporte a nivel Bussines y poder comunicarse mediante tickets con el soporte de la infraestructura cloud. El cliente no utilizaría información sensible en dichos servicios, ¿cuál sería tu recomendación para contratar un tipo de nube?",
-  "respuesta": "Debería contratar una nube pública, como lo es Amazon Web Servicies."
+  "pregunta": "Que código de respuesta obtendremos en una API REST si nuestra petición fue ejecutada correctamente y esta nos devuelve información?",
+  "respuesta": 200
  },
  {
-  "pregunta": "En una de tus tareas habituales, trabajando On premise, debías realizar tareas de actualización y patching de manera manual, en horarios determinados y avisando previamente que se realizarían esas operaciones. Ahora migraron a cloud computing y necesitas crear una base de datos RDS, ¿cómo gestionas la administración de la misma?",
-  "respuesta": "Amazon Web Services se encarga de todos los aspectos de mantenimiento."
+  "pregunta": "Que código de respuesta obtendremos si al ejecutar una petición el servidor se encuentra ocupado o no puede procesar la petición por problemas en dicho servidor?",
+  "respuesta": 503
  },
  {
-  "pregunta": "En una tarea específica ligada a brindar consultoría a una empresa del sector científico, uno de tus clientes desea migrar a la nube y utilizar servidores con el sistema operativo Linux. A su vez, quiere contratar esos servicios durante 1 año y solicita que te encargues de entrenar a su personal sobre cómo operar con servidores en la nube. ¿Qué solución le recomendarías?",
-  "respuesta": "Una infraestructura IasS"
+  "pregunta": "Que es Postman?",
+  "respuesta": "UN APLICATIVO PARA REALIZAR PRUEBAS DE APIS"
  },
  {
-  "pregunta": "Enunciando las mejoras que ofrece Amazon en términos de bases de datos, necesitas explicar por qué es esencial la elección del motor correcto, de acuerdo a la carga de trabajo de la base de datos, que será migrada a RDS. Considerando que la base de datos a migrar recibe y ejecuta miles de peticiones por segundo, para varios clientes, ¿cuál es el motor adecuado para esto?",
-  "respuesta": "El motor adecuado es Amazon Aurora."
+  "pregunta": "Que es un sistema monolítico?",
+  "respuesta": "UN SISTEMA DESARROLLADO EN UN SOLO BLOQUE DE CODIGO DONDE DENTRO DE EL SE ENCONTRABA TODO LO QUE NECESITABA PARA FUNCIONAR"
  },
  {
-  "pregunta": "Es obligatorio afrontar costos para implementar una arquitectura de acuerdo a la documentación de Amazon",
-  "respuesta": false
+  "pregunta": "Que es un test de aserción o asertividad?",
+  "respuesta": "ES UN TEST EN EL CUAL SE ESPERA DETERMINADO VALOR EN UN PAR CLAVE\/VALOR Y NOS DEVUELVE SI ESTO SE HA CUMPLIDO O NO."
  },
  {
-  "pregunta": "Estás trabajando en consultorías a empresas familiares y uno de tus clientes te solicita una solución para sus empleados. Necesita que puedan utilizar un software de gestión que, para funcionar, requiere un poder de procesamiento que ellos no pueden abastecer mediante hardware. ¿Podrías indicarle una infraestructura que permita ejecutar software directamente desde la nube?",
-  "respuesta": "Una infraestructura SaaS"
+  "pregunta": "Que símbolo debemos utilizar para concatenar 2 queries (consultas) dentro de una misma URL?",
+  "respuesta": "&"
  },
  {
-  "pregunta": "Estás trabajando en la migración de una empresa On Premise a la nube. Los empleados del área de IT esperan utilizar servicios similares a los que tenían con MySQL, para administrar sus bases de datos ¿Qué servicio de Amazon utilizarías para gestionar bases de datos creadas y gestionadas en MySQL?",
-  "respuesta": "Utilizaría MySQL para Amazon"
+  "pregunta": "Que tipo de lenguaje de marcado utiliza el protocolo SOAP para comunicarse?",
+  "respuesta": "XML"
  },
  {
-  "pregunta": "Estás viendo tu dashboard de AWS porque querés saber dónde se encuentra una instancia de EC2 y ves lo siguiente: \"us-east-1\" ¿Qué significa? Selecciona las 2 (dos) opciones correctas.",
-  "respuesta": "Amazon utiliza un simple sistema de nomenclaturas para nombrar a las regiones y zonas de disponibilidad. - Las nomenclaturas corresponden a una manera simple de Amazon de identificar un país, un estado específico, una posición geográfica y un número identificatorio de la zona de disponibilidad."
+  "pregunta": "Que toma de JavaScript el tipo de archivo Json?",
+  "respuesta": "LA FORMA DE ESTRUCTURAR OBJETOS"
  },
  {
-  "pregunta": "Evaluando la creación de tu propia consultora, comenzas a crear un mapa de ventajas y desventajas de llevar tu infraestructura a la nube , teniendo en cuenta que tu presupuesto es limitado y pensas en tu negocio como una oportunidad a largo plazo, ¿cuál sería la desventaja mas evidente si no migraras a la nube de Amazon y persistieras en servidores On Premise?",
-  "respuesta": "Los gastos recurrentes."
+  "pregunta": "Seleccionar 1 (una) opción correcta Cual de las siguientes opciones no es una ventaja de los microservicios?",
+  "respuesta": "PORTABILIDAD"
  },
  {
-  "pregunta": "La embajada de Croacia en Argentina te contrata para asesorarlos en el proceso de migración a la nube de los servidores que almacenan información de carácter crítico y confidencial sobre asuntos internacionales ¿Cuáles serían tus recomendaciones?",
-  "respuesta": "Deberían encriptar todos los datos de sus recursos y servicios; Deberían utilizar una nube privada, con mecanismos de biometría y seguridad permanente del hardware y datacenters"
+  "pregunta": "Seleccionar 1 (una) opción correcta Según el método de autentificación 0auth de API. ¿Que de esta lista podríamos utilizar para autenticarnos?",
+  "respuesta": "CUENTA DE GOOGLE"
  },
  {
-  "pregunta": "Las instancias poseen un almacenamiento interno. ¿Este almacenamiento posee las características de alta disponibilidad y replicación?",
-  "respuesta": "No, solo almacena la información de la partición root, si la instancia se termina o se apaga, los datos se pierden"
+  "pregunta": "Seleccionar 1 (una) opción correcta. Estamos trabajando con una API y necesitamos extraer por consola el valor del par llamado “name” que se encuentra en un array llamado “users” en la posición 3. Supongamos también que ya hemos declarado el objeto de respuesta Json con el nombre “jsonData”, por lo cual solamente deberíamos escribir la ruta de la que queremos que se tome ese valor. ¿Cuál es la forma correcta de escribirlo?",
+  "respuesta": "console.log(jsonData.users[3].name)"
  },
  {
-  "pregunta": "Nuestro Cliente desea que le brindemos una solución a su problema: Desea brindar el servicio de su aplicación, para un evento que tiene una fecha de inicio, una fecha de fin, y unos horarios de actividad determinados, aparte de esa información, cuenta con un presupuesto muy limitado, ¿podríamos como consultores brindarle una solución de bajo coste para tener servidores en la nube durante periodos determinados y muy específicos?",
-  "respuesta": "La solución ideal es que adquiera Instancias Spot,( en puja) las cuales son las menos costosas del mercado (hasta un 90% de descuento por cantidad de servidores)"
+  "pregunta": "Seleccionar 1 (una) opción correcta. Por que decimos que los microservicios cuentan con independencia técnica?",
+  "respuesta": "PORQUE NO IMPORTA EN QUE LENGUAJE SE HAGA, LA FORMA DE COMNICACION ES INDISTINTA AL LENGUAJE CON EL QUE FUE CREADO"
  },
  {
-  "pregunta": "Recibes una consulta de un cliente que desea almacenar las llaves de accesos a los usuarios temporales dentro de algún servicio seguro. Según tus conocimientos ¿podrías asesorarlos en la utilización de un servicio en particular?",
-  "respuesta": "Los usuarios pueden optar por administrar sus claves de cifrado mediante AWS Ke Management Service (KMS) y almacenarlas cifradas"
+  "pregunta": "Seleccionar 1 (una) respuesta correcta. ¿Cuál de las siguientes no es una de las ventajas de trabajar con GraphQL en lugar de una API REST?",
+  "respuesta": "Es posible incluir GraphQL como dependencia en NodeJS para incluirla dentro de una API REST en un apartado aparte."
  },
  {
-  "pregunta": "Se te asigna la tarea de exponer ante potenciales inversores los beneficios de migrar a la nube de Amazon. ¿Qué palabras tendrían que estar presentes en la exposición? Selecciona las 2 opciones correctas",
-  "respuesta": "Económica \/ Escalable"
+  "pregunta": "Seleccionar 1 (una) respuesta correcta. ¿Cuál de las siguientes opciones es uno de los criterios obligatorios para definir a una API como RESTful?",
+  "respuesta": "DEBE CONTAR CON UNA INTERFAZ UNIFORME ENTRE LOS ELEMENTOS"
  },
  {
-  "pregunta": "Sos encargado de educar a los nuevos usuarios de tu empresa, en términos simples, los beneficios de cloud sobre el hardware, y el hecho de que ya no tendrán que operar muchos servidores físicos paralelamente o que podrán trabajar en sistemas globales en tiempo real en minutos. Selecciona las 2 (dos) frases que utilizarías para hacerlo.",
-  "respuesta": "Poder manipular o cambiar hardware de sus equipos sin necesidad de tener físicamente ese hardware; Podrán utilizar los servicios sin necesidad de tenerlos instalados en su equipo."
+  "pregunta": "Seleccionar 1 (una) respuesta correcta. ¿Cuál de las siguientes opciones es uno de los criterios obligatorios para definir a una API como RESTful?",
+  "respuesta": "Debe contar con una comunicación sin estado."
  },
  {
-  "pregunta": "Sos representante de una Multinacional, que está migrando a la nube. Por sus características, necesitan un servicio altamente especializado, con soporte las 24 horas , los 7 días de la semana, en varios Idiomas y con respuestas ante incidentes no mayores a 15 minutos. ¿Podrías asesorar a tus clientes en un servicio de Amazon que sea de dicha calidad?",
-  "respuesta": "Los asesoraría en elegir Enterprise Support."
+  "pregunta": "Seleccionar 1 (una) respuesta correcta. ¿Cuál de las siguientes opciones es uno de los criterios obligatorios para definir a una API como RESTful?",
+  "respuesta": "Debe contar con una interfaz uniforme entre los elementos."
  },
  {
-  "pregunta": "Supongamos que recibes solicitudes de un grupo de clientes que desean almacenar sus datos y controlar sus servidores en un entorno cloud, pero son extremadamente recelosos de la información y el acceso a dichos servidores. Por lo tanto, no desean que sus servidores y datos se encuentren en servidores ajenos, sino que quieren tener el control físico del hardware y de todos los aspectos de sus recursos. En tu experiencia como consultor, ¿qué tipo de nube cumple con los requisitos y objetivos del cliente?",
-  "respuesta": "La nube privada es la elección correcta para esta situación."
+  "pregunta": "Seleccionar 1 (una) respuesta correcta. ¿Cuál de los siguientes elementos no responde a la estructura básica de un fichero XML?",
+  "respuesta": "TEST "
  },
  {
-  "pregunta": "Te contratan para asesorar a una compañía que se dedica a realizar Bussines Intelligence, recolectando información de diversos orígenes y con formatos distintos. Quiere poder realización toda esta información para trabajar en análisis de datos. ¿Podrías asesorarlos en una solución de Amazon para datos que no están relacionados entre sí en filas y columnas?",
-  "respuesta": "La solución es utilizar DynamoDB"
+  "pregunta": "Seleccionar 1 (una) respuesta correcta. ¿Cuál de los siguientes métodos HTTP no sirve para enviar información al endpoint de una API REST?",
+  "respuesta": "GET"
  },
  {
-  "pregunta": "Te contratan para crear, junto con un equipo, la infraestructura para una multinacional que desea migrar a la nube ¿Qué argumentarías para que escojan un servicio en la nube por sobre un servicio on premise? Seleccione las opciones correctas",
-  "respuesta": "El modelo por suscripción disminuye los costos; Podrán aumentar su alcance y escalar a nivel global"
+  "pregunta": "Seleccionar 1 (una) respuesta correcta. ¿Cuál de los siguientes no es un método de autenticación?",
+  "respuesta": "API Number"
  },
  {
-  "pregunta": "Te solicitan asesorar a una empresa que ha recibido un ataque informático que le ha provocado un gran daño. Piensan en revocar todos los usuarios y todos sus permisos hasta poder encontrar al responsable de dicho evento ¿Podrías brindar una solución que no implique revocar todos los permisos?",
-  "respuesta": "Se debe utilizar IAM para anular de manera jerárquica las políticas de cada usuario, hasta dar con el que provocaba el impacto negativo en seguridad"
+  "pregunta": "Seleccionar 1 (una) respuesta correcta. Cual es la manera correcta de declarar un par clavevalor en Json de tipo INT que haga referencia a edad(age)?",
+  "respuesta": "“age”:22"
  },
  {
-  "pregunta": "Te solicitan asesoría sobre qué servicios contratar para recibir un soporte especializado de Amazon, que tenga en cuenta estrategias de optimización y monitoreo de utilización de los recursos. Además, requieren que, predictivamente, analice mejoras en los costos, informando a los clientes los cambios que podrían realizar para alivianar los costos. ¿Qué servicios de Amazon proveen dichas capacidades? Selecciona las 2 (dos) respuestas correctas.",
-  "respuesta": "AWS Personal Health Dashboard; AWS Trusted Advisor. "
+  "pregunta": "Seleccionar 1 (una) respuesta correcta. En Json, ¿con qué caracteres identificamos la apertura y cierre de un array?",
+  "respuesta": "[] Corchetes"
  },
  {
-  "pregunta": "Te solicitan una asesoría para bases de datos que fueron creadas en un entorno Windows. Por lo tanto, buscan que funcionen óptimamente en ese sistema operativo. Necesitas seleccionar la solución que supere esta dificultad. ¿Qué servicio de Amazon utilizarías para gestionar bases de datos creadas originalmente en Windows?",
-  "respuesta": "Utilizaría MySQL para Amazon."
+  "pregunta": "Seleccionar 1 (una) respuesta correcta. En Json. Con que caracteres identificamos la apertura y cierre de un objeto?",
+  "respuesta": "{ } LLAVES"
  },
  {
-  "pregunta": "Trabajando como arquitecto Cloud, debes prender y apagar al mismo tiempo muchos servidores. ¿Cuál de estas afirmaciones se ajusta mejor a tu condición?",
-  "respuesta": "Debo contratar servicios de Amazon web Services que permitan realizar operaciones de apagado y prendido en simultaneo."
+  "pregunta": "Seleccionar 1 (una) respuesta correcta. Para poder trabajar con Newman en Postman es necesario contar con algo instalado, además de Postman, ¿qué necesitaríamos instalar?",
+  "respuesta": "NodeJS."
  },
  {
-  "pregunta": "Tu cliente es un estudio contable que te solicita una solución en la nube que les permita almacenar libros contables antiguos. Desean almacenarlos por precaución, pero no accederán a ellos, por lo menos, un año, por lo tanto ¿Podrías recomendarle el servicio más económico de almacenamiento para archivos con poca frecuencia?",
-  "respuesta": "Sí, podría recomendarle Amazon S3 Glacier"
+  "pregunta": "Seleccionar 1 (una) respuesta correcta. Una de las siguientes opciones no pertenece a un flujo de integración continua en Jenkins, ¿cuál es?",
+  "respuesta": "Postman ejecuta las pruebas de APIs de integración."
  },
  {
-  "pregunta": "Tu cliente te solicita ser notificado cuando sus archivos en S3, pasan a S3 Glacier, por medio de un mensaje de texto. ¿Podemos brindarle una solución desde AWS?",
-  "respuesta": "Debemos configurar por medio de cloudwatch, al servicio s3."
+  "pregunta": "Seleccionar las 2 (dos) respuestas correctas En JavaScript. ¿Cuáles son los 2 métodos válidos para declarar una variable?",
+  "respuesta": "LET-VAR"
  },
  {
-  "pregunta": "Tus clientes desean migrar sus servidores a la nube, pero se encuentran preocupados por la información de sus instancias, sus discos HDD y SSD, en sus servidores on premise, ya que temen por la disponibilidad de sus discos ¿Es razonable su temor a perder los archivos de sus discos una vez que se encuentran migrados en la nube?",
-  "respuesta": "No deberían preocuparse, Amazon posee capacidad de auto recuperación (desastre recovery); No deberían preocuparse, Amazon provee alta disponibilidad mediante Elastic Block Storage, replicando los discos en la nube en por lo menos 3 zonas de disponibilidad"
+  "pregunta": "Seleccionar las 2 (dos) respuestas correctas Que extensiones de archivos admite el collection runner de Postman para tomar datos externos de las soluciones APIs?",
+  "respuesta": ".CSV -. JSON"
  },
  {
-  "pregunta": "Tus clientes necesitan una solución que contemple los siguientes objetivos: Algunos departamentos van a migrar a un tipo de nube que sea escalable, siempre disponible, y que pueda automatizar los procesos de creación de recursos. Pero otros departamentos mas específicos de la empresa, necesitan migrar a un entorno en la nube que no este bajo control de ninguna empresa externa, sino que los clientes se encargarían de la contratación y formación del personal para la administración de estos recursos, porque los consideran críticos. ¿Podrías asesorarlo en la solución de arquitectura que seria la indicada para esta situación?",
-  "respuesta": "La solución ideal es una nube hibrida."
+  "pregunta": "Seleccionar las 2 (dos) respuestas correctas. ¿Cuáles son los protocolos por los que nos podemos comunicar con una API REST?",
+  "respuesta": "HTTP-HTTPS"
  },
  {
-  "pregunta": "Un cliente desea guardar los resultados de la ejecución de un código, en logs en Amazon, ¿qué servicio podrías recomendarle para almacenar archivos en Amazon?",
-  "respuesta": "Si, la solución Ideal es S3."
+  "pregunta": "Seleccionar una opción correcta. Que acción ejecuta la siguiente porción de código y que nos mostrara por la consola de Postman?: let jsonData = pm.response.json(); for (var i=0; i<jsonData.list.lenght;i++) {console.log(jsonData.list[i].clientName);}.",
+  "respuesta": "EJECUTA UN LOOP QUE VA RECORRIENDO TODOS LOS OBJETOS “CLIENTNAME” DENTRO DEL ARRAY “LIST” Y DEVUELVE EL CONTENIDO DE CADA UNO POR CONSOLA"
  },
  {
-  "pregunta": "Un cliente nos trae el siguiente desafío: ha logrado crear una función de autoescalado y, ahora, su aplicación crece y decrece de acuerdo a la demanda. Pero él quiere saber cuál es la demanda. Es decir, cuánto crece su aplicación, en términos de servidores y bajo qué condiciones esto sucede. Como consultores, ¿podemos asesorarlo en un servicio de monitoreo de Amazon que contemple el autoescalado?",
-  "respuesta": "Sí, podemos asesorarlo para configurar CloudWatch."
+  "pregunta": "Si al enviar una solicitud recibimos un código re respuesta “204 – No content”, ¿que nos indica?",
+  "respuesta": "QUE LA SOLICITUD SE EJECUTÓ CORRECTAMENTE, PERO NO DEVOLVIÓ NINGÚN CONTENIDO."
  },
  {
-  "pregunta": "Un cliente que almacena sus archivos en S3, como backup, ya que no suele acceder a ellos frecuentemente, ha comenzado a notar que cuando desea cargarlos, debe esperar mas de 50 minutos y hasta 12 horas, en aquellos archivos más antiguos que almacenó cuando comenzó a utilizar el servicio. El cree que está experimentando problemas en su red. ¿Puedes explicarle lo que está sucediendo?. Selecciona las 3 opciones correctas",
-  "respuesta": "Está utilizando Amazon S3 Deep Glacier; Está utilizando Amazon S3 Glacier; Ha configurado el servicio S3 para que almacene los archivos mas antiguos en S3 Glacier y los aún mas antiguos en S3 Deep Glacier"
+  "pregunta": "Si bien es cierto que con Postman podemos leer un archivo XML, existe otra herramienta más apropiada para trabajar con servicios SOAP y que nos puede ser de gran utilidad para leer este XML de la integración. ¿Cuál es esa herramienta?",
+  "respuesta": "SOPAUI"
  },
  {
-  "pregunta": "Un equipo de desarrollo desea migrar sus servidores a la nube, pero su conocimiento en esto es nulo, ya que ellos solo se dedican a la programación. ¿Podrías asesorarlos en un servicio especializado de soporte para desarrollos en la nube de Amazon?",
-  "respuesta": "Deberían contratar AWS Developer Support."
+  "pregunta": "Si en Postman queremos enviar una query por medio del apartado “Params” (parámetros) que nos devuelva un resultado comprendido entre 01 de enero de 2023 a las 13:00 hs. y las 13:59 hs., ¿cómo deberíamos escribirlo?",
+  "respuesta": "“Key” = DATE; “Value” = Date:[2023-01-01T13:00:00.000Z TO 2023-01-01T13:59:59.999Z]"
  },
  {
-  "pregunta": "Una de las características de Amazon es la agilidad. Esto quiere decir que se encargan de comprar lo que el cliente pida, ya que Amazon se ha formado sobre la base de las compras que sus clientes han realizado a lo largo del tiempo.",
-  "respuesta": false
+  "pregunta": "Si en Postman quisiéramos configurar una variable de entorno, ¿cuál es la sección a la que deberíamos acudir?",
+  "respuesta": "Environments"
  },
  {
-  "pregunta": "Una de las características de Amazon, es la flexibilidad. Es decir, que se encargan de contactar al cliente, dialogar con el, y realizar los contratos necesarios pueda obtener los servicios que demanda, a la escala que desee, y con bajo costo.",
-  "respuesta": false
+  "pregunta": "Si enviamos una solicitud a una API privada, pero no tenemos acceso a dicho endpoint, ¿qué código de respuesta recibiremos que hace referencia a \"forbidden\" (prohibido)?",
+  "respuesta": 403
  },
  {
-  "pregunta": "Una instancia puede cambiar de zona de disponibilidad en tiempo real.",
-  "respuesta": false
+  "pregunta": "Si introducimos “?page=1&pageSize=20” en una URL de un endpoint API, ¿qué estamos haciendo?",
+  "respuesta": "Estamos introduciendo una query vía URL y accediendo a la primera hoja con un tamaño de 20 registros."
  },
  {
-  "pregunta": "Una instancia solo se puede parar o terminar de ejecutar si la zona en la que está determinada lo permite.",
-  "respuesta": false
+  "pregunta": "Si necesitamos consultar información a un endpoint de una API REST, ¿qué tipo de solicitud debemos enviar?",
+  "respuesta": "GET"
  },
  {
-  "pregunta": "Uno de los creadores de Amazon Web Services es Bill Gates.",
-  "respuesta": false
+  "pregunta": "Si necesitamos crear un nuevo recurso en un endpoint, por ejemplo, crear un usuario nuevo dentro de un endpoint que contiene los datos de los usuarios de una aplicación basada en microservicios, ¿cuál es la solicitud recomendada para cumplir ese objetivo?",
+  "respuesta": "POST"
  },
  {
-  "pregunta": "Uno de nuestros clientes desea interactuar con la API de Amazon para diseñar aplicaciones que le informen el estado de sus recursos. Por temas privados, decide desarrollar el mismo su solución. ¿Qué servicio de Amazon existe para exponer una API para permitir desarrollos externos?",
-  "respuesta": "Puede utilizar AWS Health API."
+  "pregunta": "Si nuestra API tiene un listado de productos y cada producto cuenta con un ID que lo identifica inequívocamente, ¿qué hace el siguiente código? app.get(\"\/usuarios\/:id\", (req, res) => { res.json(usuarios.find(p => p.id === +req.params.id));});",
+  "respuesta": "Crea la posibilidad de acceder directamente a cada usuario si introducimos su ID luego de la URL del endpoint correspondiente a \/usuarios."
  },
  {
-  "pregunta": "Uno de nuestros clientes desea que una aplicación conocida como Bot, sea notificada cuando en sus servidores de bases de datos de RDS se activa la función de autoescalado, este bot luego comunicara al equipo de operaciones la actividad mediante alarmas a su correo electrónico. ¿Qué servicio de Amazon le podemos recomendar?",
-  "respuesta": "La solución es utilizar Lambda. - La solución ideal es configurar las notificaciones y alertas de CloudWatch."
+  "pregunta": "Si nuestros cambios sobre la rama principal de nuestro repositorio han superado ya todas las validaciones de integración y se encuentra que el código es apto para su despliegue de manera automatizada, ¿de qué estamos hablando?",
+  "respuesta": "De despliegue continuo."
  },
  {
-  "pregunta": "Uno de nuestros clientes desea ser notificado de los eventos de sus recursos, cuando se activa la función de autoescalado, mediante alarmas a su correo eletrónico. ¿Qué servicio de Amazon le podemos recomendar?",
-  "respuesta": "La solución ideal es configurar las notificaciones y alertas de CloudWatch."
+  "pregunta": "Si obtenemos un código de respuesta del tipo 403 Forbidden. ¿Cuál de los siguientes valores deberíamos corroborar que es correcto?",
+  "respuesta": "APIKey\/APIToken U OTRO METODO DE AUTENTICACION"
  },
  {
-  "pregunta": "Uno de nuestros clientes nos consulta sobre aspectos técnicos de instancias para la migración de sus datacenters a la nube de Amazon, desea servidores equilibrados, destinados a tareas genéricas, administrativas, que no se destaquen por una performance específica. ¿Podemos, como consultores, brindarle una solución desde los servicios de Amazon?",
-  "respuesta": "Podemos recomendarle que utilice instancias de uso general"
+  "pregunta": "Si queremos pedirle a Postman que nos devuelva un valor por medio de la consola cuando realizamos una solicitud a un endpoint de API, ¿en qué sección de Postman deberíamos incluirlo?",
+  "respuesta": "Test"
  },
  {
-  "pregunta": "Uno de nuestros clientes nos consulta, sobre una plataforma para que sus empleados puedan recibir entrenamiento gratuito y\/o pago por parte de Amazon para comprender mejor las tecnologías ¿Podemos asesorarlo en un servicio de Amazon que cumpla con dichas expectativas?",
-  "respuesta": "Si, pueden formarse desde AWS Knowledge Center; Si, puede utilizar el AWS Training Center"
+  "pregunta": "Si quisiéramos declarar una variable de entorno en la URL o en un script dentro de nuestros Test, supongamos que con nombre “UnaVariable”, ¿cómo deberíamos declararla dentro de Postman?",
+  "respuesta": "{{UnaVariable}}"
  },
  {
-  "pregunta": "Uno de nuestros clientes nos pide asesorarlo en una manera de que su equipo de operaciones sea notificado cuando la red en VPC esta recibiendo trafico al 90% de su capacidad, con el fin de elevar un incidente a operaciones para analizar si no es un ataque de denegación de servicio destruido, ¿podemos asesorarlo con un servicio de AWS?",
-  "respuesta": "Si, debe integrar una combinación de Lambda analizando mediante cloudwatch."
+  "pregunta": "Si quisiéramos enviar una query dentro de la URL en una solicitud de tipo GET, pero sin escribirla en la URL misma. ¿Dónde podríamos adjuntarla?",
+  "respuesta": "EN LA SECCION DE PARAMS"
  },
  {
-  "pregunta": "Uno de nuestros clientes nos presenta un desafío técnico, desea que sus aplicaciones sean extremadamente rápidas, ya que necesita realizar renderizado de video en ese servidor, el software que utilizará contiene una licencia que no permite que se la pueda duplicar en varios servidores, y no soporta software de virtualización, solo puede ser utilizado en entornos no cloud, ¿cómo podríamos asesorarlo para que aun así, pueda utilizar ese software en un servidor en la nube?",
-  "respuesta": "Es una solución simple si se utiliza los Host Dedicados de Amazon."
- },
- {
-  "pregunta": "Uno de nuestros clientes nos solicita que creemos sus recursos en el datacenter más cercano a la localidad donde vive, ya que desea experimentar la menos latencia posible. ¿Podemos asesorarlo con alguna tecnología disponible en Amazon Web Services? Selecciona las 2 opciones correctas",
-  "respuesta": "Debemos ayudarlo a crear sus recursos en una zona local; Puede solucionarlo utilizando zonas locales y el servicio CloudFront con las Edge Locations"
- },
- {
-  "pregunta": "Uno de tus clientes desea brindar a sus empleados, un servicio de streaming de noticias de la empresa, pero desea que esto no afecte el servidor que proveerá el servicio. Desea que, entre varios servidores, puedan suministrar el contenido, ¿Qué servicio de Amazon es el adecuado para este cliente?",
-  "respuesta": "Un elastic load balancer"
- },
- {
-  "pregunta": "Uno de tus clientes desea para su empresa un entorno controlado a prueba de errores, es decir, que sea manejado en parte por Amazon y en parte por los usuarios, permitiendo que estos solo accedan a plataformas y no a un sistema totalmente administrable. Desea también que sus empleados sean formados en conceptos básicos de administración en Amazon. ¿Qué infraestructura le recomendarías?",
-  "respuesta": "Una infra PaaS."
- },
- {
-  "pregunta": "Uno de tus clientes necesita un servicio especifico que opere con distintos sistemas de archivos, ya que sus aplicaciones pueden operar con sistemas operativos con diversos sistemas de archivos y con aplicaciones que solo funcionan en un sistema aoperativo con un sistema de archivos específicos. ¿Existe un servicio que contemple soporte a todos los sistemas de archivos?",
-  "respuesta": "Si, podemos utilizar Elastic FileSystem"
- },
- {
-  "pregunta": "Uno de tus clientes te plantea la necesidad de elegir entre dos tipos de entorno: uno totalmente administrable por sus empleados pero con menor seguridad o uno administrado parcialmente por Amazon, pero con un costo mayor. ¿Cuáles son los entornos a los que hace referencia?",
-  "respuesta": "Una infraestructura PaaS. - Una infraestructura SaaS"
- },
- {
-  "pregunta": "Uno de tus clientes trabaja en un laboratorio de análisis de malware y busca una solución en los servicios en la nube que le permita realizar sus tareas cotidianas de investigación. Es necesario acentuar que los datos son potencialmente peligrosos. ¿Cuáles serían tus recomendaciones como consultor?",
-  "respuesta": "Crear su propia infraestructura privada bajo su propio riesgo sería una posible solución; No migrar a Cloud, ya que los proveedores no permiten la utilización de sus recursos para material potencialmente peligroso."
- },
- {
-  "pregunta": "Uno de tus clientes, necesita que puedas brindarle una solución de backups y recuperación automática de sus servidores de bases de datos, en caso de desastres u errores en los servidores, ¿Qué servicio de Amazon elegirías para recomendarles?",
-  "respuesta": "Amazon RDS porque cuenta con esas propiedades, de auto recuperación y backups automático. - Configuraría Amazon RDS para que opere en Multi AZ."
- },
- {
-  "pregunta": "Uno de tus clientes, te propone la posibilidad de que él y su equipo de seguridad informática auditen los servicios de Amazon, viajando a los datacenters en las regiones donde se encuentran sus recursos y analizar ellos la seguridad de la infraestructura global de Amazon. En tu rol de arquitecto Cloud, ¿Cuáles serían las respuestas adecuadas?",
-  "respuesta": "Amazon no permite a sus clientes visitas a sus datacenters. - Amazon solo permite a empresas certificadas que auditen sus datacenters."
+  "pregunta": "Si tuviéramos la siguiente estructura JSON y quisiéramos solamente modificar el valor \"skuID\" sin alterar el resto de la estructura y valores, ¿qué método deberíamos usar? \"skuId\": \"1054673\", \"warehouseId\": \"E164\", \"dockId\": \"164\"...",
+  "respuesta": "PATCH"
  }
 ]
