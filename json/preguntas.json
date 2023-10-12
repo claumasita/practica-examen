@@ -1,425 +1,518 @@
 [
  {
-  "pregunta": "¿A qué colecciones y, por ende, solicitudes afecta una variable de entorno?",
-  "respuesta": "AFECTAN ÚNICAMENTE A LAS SOLICITUDES QUE SE ENCUENTRAN EN UN “ENVIRONMENT” DETERMINADO EN SU CREACIÓN."
+  "pregunta": "¿A qué nos referimos con las técnicas de ponderación?",
+  "respuesta": "Definir la manera de valorar cada parte del área de sistemas."
  },
  {
-  "pregunta": "¿A qué colecciones y, por ende, solicitudes afecta una variable global?",
-  "respuesta": "AFECTA A TODOS LOS ENVIRONMENTS Y COLECCIONES POR IGUAL."
+  "pregunta": "¿A qué nos referimos cuando hablamos de un conjunto de elementos o componentes interrelacionados que recaban, manipulan, almacenan y distribuyen datos e información?",
+  "respuesta": "Un sistema de información."
  },
  {
-  "pregunta": "¿Cuál de los siguientes no es un beneficio de la Integración Continua?",
-  "respuesta": "Mejora el tiempo de reuniones con el cliente."
+  "pregunta": "¿A qué se refiere el concepto de “escribir software reutilizable”?",
+  "respuesta": "El desarrollo de software basado en componentes permite reutilizar piezas de código."
  },
  {
-  "pregunta": "¿Cuál es el código de error que recibiremos si, por alguna razón, el servidor de la API REST no puede procesar nuestra solicitud?",
-  "respuesta": "5XX (500, 501, 502, etc.)."
+  "pregunta": "¿A quiénes apoyan los sistemas de automatización de oficina? Selecciona la respuesta correcta.",
+  "respuesta": "Apoyan a los trabajadores de datos, en donde analizan la información con el propósito de transformar los datos."
  },
  {
-  "pregunta": "¿Cuál es el comando del motor de Docker por el cual consumiremos un archivo de tipo dockerfile y desencadenaremos el proceso de creación de la imagen a virtualizar?",
-  "respuesta": "Docker build."
+  "pregunta": "¿Cómo definimos a las herramientas CASE?",
+  "respuesta": "Un conjunto de programas y ayudas que dan asistencia a los analistas."
  },
  {
-  "pregunta": "¿Cuál es el comando por el cual podemos instalar Newman desde nuestra terminal en un sistema operativo Windows?",
-  "respuesta": "npm install -g newman."
+  "pregunta": "¿Como puede variar el presupuesto inicial del proyecto?",
+  "respuesta": "Al principio del proyecto, su costo es bajo, nivel máximo y al finalizar su costo debe ser BAJO"
  },
  {
-  "pregunta": "¿Cuál es el método de autenticación de APIs más comúnmente utilizado?",
-  "respuesta": "APIkey"
+  "pregunta": "¿Cuál de estos pasos pertenece a la fase de ejecución de la auditoría?",
+  "respuesta": "Elaborar el dictamen preliminar y presentarlo a discusión."
  },
  {
-  "pregunta": "¿Cuál es la característica de los microservicios que permite que, si yo modifico el código de un microservicio, no afecte al resto de microservicios que componen a una aplicación?",
-  "respuesta": "Independencia"
+  "pregunta": "¿Cuál de las siguientes afirmaciones, referentes a la calidad de proceso, es cierta?",
+  "respuesta": "El modelo ISO 9001 es complejo de implantar en pequeñas y medianas empresas para gestionar la calidad de los procesos software."
  },
  {
-  "pregunta": "¿Cuál es la función que debemos utilizar si queremos realizar un test de aserción?",
-  "respuesta": "pm.expect(jsonData.name).to.eql(“ValorEsperado”);"
+  "pregunta": "¿Cuál de las siguientes cuestiones no establece la ingeniería de los requerimientos?",
+  "respuesta": "la información a procesa"
  },
  {
-  "pregunta": "¿Cuál es un prerrequisito fundamental para que podamos trabajar con integración continua?",
-  "respuesta": "Que los proyectos trabajen con un sistema de versionado o de control de versiones."
+  "pregunta": "¿Cuál de las siguientes no es una causa de los problemas en la Fase Inicial del Proyecto del Software?",
+  "respuesta": "Las dificultades de la programación"
  },
  {
-  "pregunta": "¿Cuáles de los siguientes son beneficios de WhatsApp Business API?",
-  "respuesta": "Vinculación de la cuenta de WhatsApp Business API a una plataforma multiusuario. Reportes completos de los chatbots. Difusión de contenidos. Capacidad de creación de chatbots. "
+  "pregunta": "¿Cuál de las siguientes opciones corresponde al modelo de cascada?",
+  "respuesta": "Análisis de requisitos de software."
  },
  {
-  "pregunta": "¿Cuáles de los siguientes son los 2 tipos de pipelines más usados en Jenkins?",
-  "respuesta": "Freestyle pipeline; Multibranch pipeline. "
+  "pregunta": "¿Cuál de los siguientes enunciados define mejor los resultados esperados de la prueba?",
+  "respuesta": "Especificación de caso de prueba."
  },
  {
-  "pregunta": "¿En qué sección de la estructura de un fichero XML incluimos nuestras credenciales para autenticarnos?",
-  "respuesta": "Header"
+  "pregunta": "¿Cuál de los siguientes no es un valor de un agile coach?",
+  "respuesta": "Tener una alta competencia técnica"
  },
  {
-  "pregunta": "¿Jenkins es compatible con Ansible?",
-  "respuesta": "Sí, Ansible actúa como orquestador y Jenkins como automatizador."
+  "pregunta": "¿Cuál es el número de herramientas que constan según el ciclo de vida?",
+  "respuesta": 4
  },
  {
-  "pregunta": "¿Para qué nos sirve TDD en un modelo de Integración Continua?",
-  "respuesta": "Para asegurarnos que un nuevo commit a la rama principal supera todas nuestras instancias de testing antes de desplegarla en producción."
+  "pregunta": "¿Cuál es la desventaja del modelo incremental?",
+  "respuesta": "No es recomendable para casos de sistemas de tiempo real"
  },
  {
-  "pregunta": "¿Para qué sirve la consola de Postman?",
-  "respuesta": "Para tener mayor información sobre la respuesta de nuestras peticiones de API."
+  "pregunta": "¿Cuál es la diferencia entre las maquetas y los prototipos?",
+  "respuesta": "Que las maquetas se “desechan” al comenzar el desarrollo."
  },
  {
-  "pregunta": "¿Para qué sirve la sección “API” dentro de Postman?",
-  "respuesta": "Para poder alojar allí las APIs de nuestra creación por medio de un repositorio."
+  "pregunta": "¿Cuál es la diferencia entre las pruebas preventivas y reactivas?",
+  "respuesta": "PREVENTIVAS están diseñadas de manera temprana"
  },
  {
-  "pregunta": "¿Para qué sirve Swagger?",
-  "respuesta": "Es una herramienta para documentar API REST."
+  "pregunta": "¿Cuál es la etapa de la metodología en la que se realiza la declaración de los resultados derivados de una actividad?",
+  "respuesta": "Retroalimentación."
  },
  {
-  "pregunta": "¿Que código de respuesta obtendremos de una API REST si nuestro método de autenticación no es reconocido por el servidor y, por ende, nuestra solicitud recibe un error de respuesta?",
-  "respuesta": 403
+  "pregunta": "¿Cuál es la función de la proyección como elemento de la gesón del riesgo?",
+  "respuesta": "Es un mecanismo de defensa que opera en situaciones de conflicto emocional o amenazas de origen interno o externo."
  },
  {
-  "pregunta": "¿Que código de respuesta recibiremos si, accidentalmente, nos equivocamos y enviamos a un endpoint de tipo de solicitud (GET, POST, PUT, etc.) a un endpoint que no está preparado para recibir ese tipo de solicitudes?",
-  "respuesta": 405
+  "pregunta": "¿Cuál es la función principal del modelado de casos de uso?",
+  "respuesta": "Relacionar las funciones del sistema con las clases del sistema."
  },
  {
-  "pregunta": "¿Qué debe perseguir, principalmente, una estrategia de branching?",
-  "respuesta": "Optimizar la productividad del equipo de desarrollo; Admitir multiplex versiones de software. "
+  "pregunta": "¿Cuál es la primera fase del modelo incremental?",
+  "respuesta": "Requerimientos."
  },
  {
-  "pregunta": "¿Qué devolvería el siguiente script? let jsonData = pm.response.json(); for (var i=0;i<jsonData.list.length;i++) {console.log(jsonData.list[i].clientName);}",
-  "respuesta": "Todos los valores dentro de la clave “clientName” existente dentro del array “list”."
+  "pregunta": "¿Cuál es la principal función de un líder de proyecto en la prevención de riesgos?",
+  "respuesta": "Observación regular y registro de las actividades que se llevan a cabo en un proyecto"
  },
  {
-  "pregunta": "¿Qué es “JWT”?",
-  "respuesta": "Json Web Token"
+  "pregunta": "¿Cuál es la prueba beta?",
+  "respuesta": "Las pruebas realizadas por los clientes en sus propios sectores"
  },
  {
-  "pregunta": "¿Qué es “npm”?",
-  "respuesta": "Node package manager."
+  "pregunta": "¿Cuál es una afirmación en el Manifiesto Ágil?",
+  "respuesta": "Valoramos software funcionando por sobre documentación extensiva"
  },
  {
-  "pregunta": "¿Qué es Docker?",
-  "respuesta": "Un software para despliegue de aplicaciones dentro de contenedores virtuales."
+  "pregunta": "¿Cuál es una de las actividades de accion para el Scrum Master?",
+  "respuesta": "Explicarle al Dueño del Producto (Product Owner) que esta decisión lecorresponde al Equipo de Desarrollo y que debe ser aceptada"
  },
  {
-  "pregunta": "¿Qué es Nodemon?",
-  "respuesta": "Es una utilidad de interfaz de línea de comandos (CLI) que envuelve la aplicación Node, vigila el sistema de archivos y reinicia automáticamente el proceso."
+  "pregunta": "¿Cuál es una ventaja del método incremental?",
+  "respuesta": "Se reduce el tiempo de desarrollo inicial, ya que se implementa la funcionalidad parcial"
  },
  {
-  "pregunta": "¿Qué es un pipeline de Jenkins?",
-  "respuesta": "Un repositorio interno del aplicativo para crear nuevos builds."
+  "pregunta": "¿Cuál es uno de los métodos principales que está disponible para que el analista lo use cuando analiza los sistemas orientados a datos?",
+  "respuesta": "Diagrama de flujo de datos."
  },
  {
-  "pregunta": "¿Qué estamos haciendo al ejecutar el siguiente código? $ ansible [pattern] -m [module_name] -a \"[module options]\"",
-  "respuesta": "Es un comando AD-HOC para automatizar una única tarea en un único host o en un grupo de hosts."
+  "pregunta": "¿Cuáles de las siguientes cuesones establece la ingeniería de los requerimientos?",
+  "respuesta": "Las funciones del sistema; Las restricciones de diseño; El comportamiento del sistema"
  },
  {
-  "pregunta": "¿Qué método HTTP debemos utilizar para crear un nuevo recurso en un endpoint?",
-  "respuesta": "POST"
+  "pregunta": "¿Cuales son las desventajas del modelo en cascada?",
+  "respuesta": "Inflexibilidad"
  },
  {
-  "pregunta": "¿Qué nos devuelve el siguiente script en Postman?: var jsonData = pm.response.json(); for (var i=0;i<jsonData.alumnos.length;i++) { console.log(jsonData.alumnos[i].name) }",
-  "respuesta": "Nos devolverá el nombre de cada uno de los alumnos"
+  "pregunta": "¿Cuáles son las etapas del modelo de desarrollo por prototipos?",
+  "respuesta": "Modelado, diseño rápido."
  },
  {
-  "pregunta": "¿Qué posibilidades tenemos para integrarnos con WhatsApp? ",
-  "respuesta": "WhatsApp API; WhatsApp Business API. "
+  "pregunta": "¿Cuáles son las metodologías de desarrollo de software tradicionales?",
+  "respuesta": "Modelo en cascada"
  },
  {
-  "pregunta": "¿Qué produce el siguiente código? app.get(\"\/productos\", (req,res) => { const productos = [ { id: 1, name: \"Fideos\", }, { id: 2, name: \"Aceite\", }, ]; res.json(productos); })",
-  "respuesta": "Crea un endpoint llamado “Productos” con dos productos que contienen un ID y un nombre."
+  "pregunta": "¿Cuáles son las ventajas de las tecnologías que utilizan la información para auditar?",
+  "respuesta": "Excelente consistencia y rendimiento constante."
  },
  {
-  "pregunta": "¿Qué quiere decidir que un ambiente (producción\/desarrollo\/testing) esté homologado?",
-  "respuesta": "Que cuenten todos los ambientes con las mismas funcionalidades."
+  "pregunta": "¿Cuáles son los objevos del diseño de los formularios de entrada?",
+  "respuesta": "Efectividad y facilidad de uso."
  },
  {
-  "pregunta": "¿Qué significa API?",
-  "respuesta": "Application Programming Interface."
+  "pregunta": "¿Cuáles son los tipos de sistemas? Selecciona la respuesta correcta.",
+  "respuesta": "Sistemas de procesamiento de transacciones."
  },
  {
-  "pregunta": "¿Qué significa JWT?",
-  "respuesta": "Json Web Token"
+  "pregunta": "¿Dónde se puede realizar la prueba funcional?",
+  "respuesta": "En todos los niveles de prueba."
  },
  {
-  "pregunta": "¿Qué son los Snippets en Postman?",
-  "respuesta": "Una sección de Postman con hints\/pistas de algunos test posibles a nuestras APIs."
+  "pregunta": "¿En qué consiste el manejo de riesgos?",
+  "respuesta": "En transferir el riesgo a otra parte, reducir los efectos negativos, aceptar las consecuencias"
  },
  {
-  "pregunta": "¿Qué tienen en común XML y Json?",
-  "respuesta": "Ambos son lenguajes de marcado"
+  "pregunta": "¿En qué fase del proyecto se debe trabajar el aspecto de la calidad del producto?",
+  "respuesta": "Durante todo el proyecto"
  },
  {
-  "pregunta": "¿Qué tipo de lenguaje de marcado utilizan las APIs REST para comunicarse?",
-  "respuesta": "JSON"
+  "pregunta": "¿Qué ayuda al analista a observar las actividades del sponsor?",
+  "respuesta": "Definir el problema y buscar alternativas de solución."
  },
  {
-  "pregunta": "Como consultores de integraciones, un cliente nos solicita crear un servicio web de tipo monolítico. ¿Qué nos está pidiendo?",
-  "respuesta": "Un tipo de arquitectura de microservicios que se caracteriza por contener todos los servicios que requiere una aplicación en un código único."
+  "pregunta": "¿Qué es el protopo?",
+  "respuesta": "Es un modelo donde se presentan al usuario final algunas de las caracteríscas principales del sistema."
  },
  {
-  "pregunta": "Como se llaman aquellos microservicios que pueden ser accesibles por terceros?",
-  "respuesta": "APIS PUBLICAS"
+  "pregunta": "¿Qué es kanban?",
+  "respuesta": "Kanban es un método basado en los principios de la metodología Lean y Agil"
  },
  {
-  "pregunta": "Como se llaman aquellos microservicios que pueden ser accesibles por terceros?",
-  "respuesta": "APIS PUBLICAS"
+  "pregunta": "¿Que es la idea de un proyecto?",
+  "respuesta": "Consiste en establecer la necesidad u oportunidad a partir de la cual es posible iniciar un diseño del proyecto"
  },
  {
-  "pregunta": "Como se llaman aquellos microservicios que solo son de acceso interno o por parte de otros servicios que componen una misma aplicación?",
-  "respuesta": "APIS PRIVADAS"
+  "pregunta": "¿Qué es un caso de uso?",
+  "respuesta": "Representar a clientes y sus interacciones."
  },
  {
-  "pregunta": "Cual de las siguientes opciones es uno de los criterios para definir a una API como RESTful?",
-  "respuesta": "DEBE TENER UNA ARQUITECTURA CLIENTE-SERVIDOR"
+  "pregunta": "¿Qué es un diccionario de datos?",
+  "respuesta": "Documento utilizado para crear pantallas formularios."
  },
  {
-  "pregunta": "Cual es el código de respuesta mas popular que obtendremos si un endpoint al que estamos enviando una solicitud fue redireccionando a otro?",
-  "respuesta": 302
+  "pregunta": "¿Qué es un proyecto?",
+  "respuesta": "Un esfuerzo temporal que se lleva a cabo para crear un producto, servicio o resultado."
  },
  {
-  "pregunta": "Cual es la aplicación que se utiliza para probar microservicios de tipo SOAP?",
-  "respuesta": "SOAPUI"
+  "pregunta": "¿Qué es un sistema de información?",
+  "respuesta": "Conjunto de pasos a seguir de manera ordenada para resolver un problema."
  },
  {
-  "pregunta": "Cual es la principal diferencia entre SOAP y REST?",
-  "respuesta": "SOAP ES UN PROTOCOLO, MIENTRAS QUE REST ES UN PATRON DE ARQUITECTURA"
+  "pregunta": "¿Que es una prueba de software?",
+  "respuesta": "Comprobación de que el producto funciona según lo esperado"
  },
  {
-  "pregunta": "Dentro de la sección “inspeccionar” del navegador, ¿a qué apartado deberemos dirigirnos si queremos observar las peticiones HTTP que se realizan durante nuestra navegación?",
-  "respuesta": "Red -> Fetch\/XHR"
+  "pregunta": "¿Qué hace el responsable en la etapa de requerimientos básicos?",
+  "respuesta": "DETERMINAR LOS COSTOS Y RECURSOS QUE SE INCLUIRAN EN EL PROYECTO"
  },
  {
-  "pregunta": "Dentro de Postman. ¿Para qué sirve el aparato de Environments?",
-  "respuesta": "PARA ALOJAR NUESTRAS VARIABLES GLOBALES Y DE ENTORNO"
+  "pregunta": "¿Qué implica documentar la seguridad de las computadoras?",
+  "respuesta": "Identificar usuarios e integridad de datos del sistema."
  },
  {
-  "pregunta": "Dentro de una solicitud de Postman de envío de información (POST, PUT, PATCH), ¿en qué sección de la solicitud deberemos enviar la información hacia el endpoint?",
-  "respuesta": "En el Body"
+  "pregunta": "¿Qué implica escribir software reutilizable?",
+  "respuesta": "Reutilizar piezas del código codificado para diversificar tareas."
  },
  {
-  "pregunta": "El método “app.use” en ExpressJS contiene tres métodos. ¿Cuáles son?",
-  "respuesta": "Next; Req; Res"
+  "pregunta": "¿Que pasa si en el proceso de auditoria se detecta algún fraude?",
+  "respuesta": "Conviene consultar al asesor jurídico"
  },
  {
-  "pregunta": "En Docker ¿qué indica la siguiente instrucción? FROM mcr.microsoft.com\/windows\/servercore:ltsc2019",
-  "respuesta": "Establece la imagen del contenedor que se usará durante el proceso de creación de la imagen."
+  "pregunta": "¿Qué preguntas sirven para una rápida tabulación y mayor veracidad en las respuestas obtenidas?",
+  "respuesta": "Matriz."
  },
  {
-  "pregunta": "En Express Js, si realizamos la declaración “const port = 4000”, ¿qué estamos haciendo?",
-  "respuesta": "Declarando el puerto por el que permitiremos la conexión a nuestra API."
+  "pregunta": "¿Qué se necesita para garanzar que en la auditoría se consideren todos los aspectos significavos?",
+  "respuesta": "Obtener evidencia suficiente y adecuada."
  },
  {
-  "pregunta": "En Postman es posible configurar variables dentro del body de la solicitud que estamos por enviar y que, el mismo, tome los datos de esa\/s variable\/s desde un archivo externo, a partir del cual, podemos tomar esos datos. ¿Es esto realmente posible?",
-  "respuesta": "Si es posible, pero las columnas del .CSV\/Json deben tener exactamente el mismo nombre que el nombre de las variables (incluido respetar mayúsculas)"
+  "pregunta": "¿Qué son las estructuras de datos lógicas?",
+  "respuesta": "Datos lógicos, como nombre y apellido."
  },
  {
-  "pregunta": "En Postman, ¿qué almacena el menú \"collections\" (colecciones)?",
-  "respuesta": "Solicitudes"
+  "pregunta": "¿Qué son las herramientas de alto nivel?",
+  "respuesta": "Son aquellas que están orientadas a la automatización y soporte de las actividades desarrolladas."
  },
  {
-  "pregunta": "En que sección de la estructura de un fichero XML le indicamos al microservicio con que nos comunicamos que, efectivamente, ¿el fichero que le enviamos se identifica como un XML?",
-  "respuesta": "ENVELOPE"
+  "pregunta": "¿Qué son las tool CASE?",
+  "respuesta": "Son el tipo más simple de herramientas CASE. Automatizan una fase dentro del ciclo de vida."
  },
  {
-  "pregunta": "En una API REST. ¿Qué método HTTP debemos utilizar para obtener información de un endpoint en una solicitud?",
-  "respuesta": "GET"
+  "pregunta": "¿Trabajamos en una consultora de desarrollo de software y nuestro cliente nos consulta, cuáles son los objetivos que persigue el analista al diseñar la salida del sistema?",
+  "respuesta": "Entregar la cantidad adecuada de salida"
  },
  {
-  "pregunta": "Estamos evaluando las integraciones que deberemos reutilizar para crear una aplicación para un cliente. Podemos notar que una integración se realiza por medio de un protocolo SOAP que nos envía un archivo tipo XML del cual deberemos nutrirnos de información. Para poder leerlo es necesario conocer cómo se divide una solicitud XML. ¿Cuál de las siguientes opciones es la correcta?",
-  "respuesta": "Envelope\/Header\/Body."
+  "pregunta": "¿Un Auditor debe Guardar secreto de los hechos, encontrado es en la auditoria?",
+  "respuesta": false
  },
  {
-  "pregunta": "Existen los códigos de respuesta que hacen referencia a respuestas informativas, pero que no hacen referencia al procesamiento de la solicitud, sino simplemente a la información de su recepción. ¿Cuáles son?",
-  "respuesta": "LOS CODIGOS DENTRO DEL RANGO 1XX"
+  "pregunta": "Al finalizar el proceso de idenficar los riesgos, el registro de riesgos resultante ofrece las siguientes informaciones:",
+  "respuesta": "Las respuestas potenciales a ciertos riesgos; Los riesgos idenficados ulizando la cadena causa -> eventos -> efectos; Los dueños del riesgo potencial."
  },
  {
-  "pregunta": "La Integración Continua, la filosofía DevOps y las Metodologías Agiles comparten un mismo enfoque, ¿cuál es?",
-  "respuesta": "Están enfocadas en el cliente."
+  "pregunta": "Al finalizar el proceso de identificar los riesgos, el registro de riesgos resultante ofrece las siguientes informaciones:",
+  "respuesta": "Los riesgos identificados utilizando la cadena causa 🡪 eventos 🡪 efectos; Los dueños del riesgo potencial; Las respuestas potenciales a ciertos riesgos."
  },
  {
-  "pregunta": "La siguiente porción de código hace referencia a un test asertivo dentro de Postman, ¿qué le falta para funcionar correctamente?: pm.expect(name).to.eql(“ValorEsperado”);",
-  "respuesta": "Le falta la variable que contiene todo el Json de respuesta donde buscar el campo name."
+  "pregunta": "Al finalizar el proceso de Identificar los Riesgos, el registro de riesgos resultante ofrece todas las siguientes Informacion EXCEPTO:",
+  "respuesta": "La prioridad del Riesgo"
  },
  {
-  "pregunta": "newman-html-reporter es un módulo de NodeJS que puede ir adosado a Newman para generar reportes de nuestras ejecuciones de colecciones por medio este último, pero para aclararle a Newman que requerimos un reporte, ¿qué debemos agregar al final de nuestro comando?"
+  "pregunta": "Beneficios principales para documentar un diccionario de datos",
+  "respuesta": "Documento utilizado para crear pantallas formularios"
  },
  {
-  "pregunta": "Nos disponemos a crear una API REST. Para ello debemos cumplir con los criterios RESTful. Nombrar al menos 3 criterios que deberíamos considerar para crearla.",
-  "respuesta": "Comunicación sin estado; Arquitectura cliente-servidor; Los datos pueden almacenarse en caché y optimizan la interacción cliente-servidor."
+  "pregunta": "CMM significa:",
+  "respuesta": "Modelo de madurez de procesos del software"
  },
  {
-  "pregunta": "Para qué sirve la sección “Mock Servers” dentro de Postman?",
-  "respuesta": "PARA SIMULAR SERVIDORES DE API INEXISTENTES PERO QUE NOS PERMITIRÁ COMPROBAR SU COMPORTAMIENTO."
+  "pregunta": "Cuál es la diferencia clave entre los enfoques preventivos y reactivos",
+  "respuesta": "Pruebas preventivas están diseñados temprana; pruebas reactivas están diseñados después de que el software haya sido producido"
  },
  {
-  "pregunta": "Que código de respuesta obtendremos en una API REST si nuestra petición fue ejecutada correctamente y esta nos devuelve información?",
-  "respuesta": 200
+  "pregunta": "Cual es una ventajas del modelo espiral?",
+  "respuesta": "Se adapta para desarrollos a gran escala"
  },
  {
-  "pregunta": "Que código de respuesta obtendremos si al ejecutar una petición el servidor se encuentra ocupado o no puede procesar la petición por problemas en dicho servidor?",
-  "respuesta": 503
+  "pregunta": "De acuerdo a la gesón de los recursos tangibles, es importante tener en cuenta que puede llegar a ser necesario distribuir recursos adicionales, lo que implicará un mayor costo para el cliente.",
+  "respuesta": true
  },
  {
-  "pregunta": "Que es Postman?",
-  "respuesta": "UN APLICATIVO PARA REALIZAR PRUEBAS DE APIS"
+  "pregunta": "El auditor informático se preocupa solo de las funciones del depto de informatica",
+  "respuesta": false
  },
  {
-  "pregunta": "Que es un sistema monolítico?",
-  "respuesta": "UN SISTEMA DESARROLLADO EN UN SOLO BLOQUE DE CODIGO DONDE DENTRO DE EL SE ENCONTRABA TODO LO QUE NECESITABA PARA FUNCIONAR"
+  "pregunta": "El ciclo de vida es lo mismo que el modelo de proceso o paradigma utilizado.",
+  "respuesta": false
  },
  {
-  "pregunta": "Que es un test de aserción o asertividad?",
-  "respuesta": "ES UN TEST EN EL CUAL SE ESPERA DETERMINADO VALOR EN UN PAR CLAVE\/VALOR Y NOS DEVUELVE SI ESTO SE HA CUMPLIDO O NO."
+  "pregunta": "El concepto mas apropiado que define a la empresa digital es:",
+  "respuesta": "Todas las relaciones significativas de negocios de la organización con clientes, proveedores y empleados se realizan y control"
  },
  {
-  "pregunta": "Que símbolo debemos utilizar para concatenar 2 queries (consultas) dentro de una misma URL?",
-  "respuesta": "&"
+  "pregunta": "El control forma parte integrante de la gestión",
+  "respuesta": false
  },
  {
-  "pregunta": "Que tipo de lenguaje de marcado utiliza el protocolo SOAP para comunicarse?",
-  "respuesta": "XML"
+  "pregunta": "El control interno informático se preocupa de cambios y versiones de implementación del software",
+  "respuesta": true
  },
  {
-  "pregunta": "Que toma de JavaScript el tipo de archivo Json?",
-  "respuesta": "LA FORMA DE ESTRUCTURAR OBJETOS"
+  "pregunta": "El Departamento de Control Interno Informático, que es lo que realizada?",
+  "respuesta": "Cubre sólo las funciones del Depto de Informatica"
  },
  {
-  "pregunta": "Seleccionar 1 (una) opción correcta Cual de las siguientes opciones no es una ventaja de los microservicios?",
-  "respuesta": "PORTABILIDAD"
+  "pregunta": "El diagrama de desarrollo o despliegue es realizado por el área de desarrollo y por los programadores.",
+  "respuesta": false
  },
  {
-  "pregunta": "Seleccionar 1 (una) opción correcta Según el método de autentificación 0auth de API. ¿Que de esta lista podríamos utilizar para autenticarnos?",
-  "respuesta": "CUENTA DE GOOGLE"
+  "pregunta": "El Manifiesto Ágil fue el resultado de muchos años de investigación académica",
+  "respuesta": false
  },
  {
-  "pregunta": "Seleccionar 1 (una) opción correcta. Estamos trabajando con una API y necesitamos extraer por consola el valor del par llamado “name” que se encuentra en un array llamado “users” en la posición 3. Supongamos también que ya hemos declarado el objeto de respuesta Json con el nombre “jsonData”, por lo cual solamente deberíamos escribir la ruta de la que queremos que se tome ese valor. ¿Cuál es la forma correcta de escribirlo?",
-  "respuesta": "console.log(jsonData.users[3].name)"
+  "pregunta": "El póquer de planificación sirve para",
+  "respuesta": "Planificar"
  },
  {
-  "pregunta": "Seleccionar 1 (una) opción correcta. Por que decimos que los microservicios cuentan con independencia técnica?",
-  "respuesta": "PORQUE NO IMPORTA EN QUE LENGUAJE SE HAGA, LA FORMA DE COMNICACION ES INDISTINTA AL LENGUAJE CON EL QUE FUE CREADO"
+  "pregunta": "El software es el conjunto de programas, estructuras de datos y documentos asociados para soportar la instalación y uso de los programas.",
+  "respuesta": false
  },
  {
-  "pregunta": "Seleccionar 1 (una) respuesta correcta. ¿Cuál de las siguientes no es una de las ventajas de trabajar con GraphQL en lugar de una API REST?",
-  "respuesta": "Es posible incluir GraphQL como dependencia en NodeJS para incluirla dentro de una API REST en un apartado aparte."
+  "pregunta": "El Sponsor nos da Información contextual de la situación del negocio, así como también nos cuenta qué problema u objetivo espera atender.",
+  "respuesta": true
  },
  {
-  "pregunta": "Seleccionar 1 (una) respuesta correcta. ¿Cuál de las siguientes opciones es uno de los criterios obligatorios para definir a una API como RESTful?",
-  "respuesta": "DEBE CONTAR CON UNA INTERFAZ UNIFORME ENTRE LOS ELEMENTOS"
+  "pregunta": "En el diseño de sistemas esta vialidad es la encargada de analizar so los beneficios del sistema compensaran los costos. ¿De que vialidad hablamos?",
+  "respuesta": "Viabilidad económica"
  },
  {
-  "pregunta": "Seleccionar 1 (una) respuesta correcta. ¿Cuál de las siguientes opciones es uno de los criterios obligatorios para definir a una API como RESTful?",
-  "respuesta": "Debe contar con una comunicación sin estado."
+  "pregunta": "En el sio web de la empresa, se cuenta con varios módulos, por lo que necesitan encontrar un perfil adecuado.",
+  "respuesta": "Consultor, agente de cambio y experto en soporte técnico."
  },
  {
-  "pregunta": "Seleccionar 1 (una) respuesta correcta. ¿Cuál de las siguientes opciones es uno de los criterios obligatorios para definir a una API como RESTful?",
-  "respuesta": "Debe contar con una interfaz uniforme entre los elementos."
+  "pregunta": "En entrevistas tipo diamante, el auditor inicia con preguntas generales, continúa con preguntas concretas y finaliza con preguntas generales.",
+  "respuesta": false
  },
  {
-  "pregunta": "Seleccionar 1 (una) respuesta correcta. ¿Cuál de los siguientes elementos no responde a la estructura básica de un fichero XML?",
-  "respuesta": "TEST "
+  "pregunta": "En general, las habilidades técnicas de un gerente de proyecto:",
+  "respuesta": "Tienen que ser suficientemente altas para entender cuestiones técnicas y explicar decisiones técnicas a otros."
  },
  {
-  "pregunta": "Seleccionar 1 (una) respuesta correcta. ¿Cuál de los siguientes métodos HTTP no sirve para enviar información al endpoint de una API REST?",
-  "respuesta": "GET"
+  "pregunta": "En la empresa de soware UNO S.A., se presenta el proyecto de desarrollo de sistemas de información. Es muy importante realizar una invesgación preliminar del proyecto con el propósito de ampliar la información contenida en las propuestas y, así, el respecvo comité de selección pueda tomar una decisión favorable para la organización. La invesgación preliminar se puede estructurar en las siguientes etapas:",
+  "respuesta": "Ámbito de estudio, desarrollo de la invesgación, facbilidad del proyecto"
  },
  {
-  "pregunta": "Seleccionar 1 (una) respuesta correcta. ¿Cuál de los siguientes no es un método de autenticación?",
-  "respuesta": "API Number"
+  "pregunta": "En la empresa de un amigo, están implementando metodologías y nos preguntas sobre la metodología XP, ¿Cuál de las siguientes opciones es un practica principal del enfoque de desarrollo de XP?",
+  "respuesta": "Filosofía de programación en parejas."
  },
  {
-  "pregunta": "Seleccionar 1 (una) respuesta correcta. Cual es la manera correcta de declarar un par clave valor en Json de tipo INT que haga referencia a edad(age)?",
-  "respuesta": "“age”:22"
+  "pregunta": "En la empresa de un amigo, necesitan seleccionar una estrategia para la optimización del proyecto. ¿Qué deben hacer?",
+  "respuesta": "Identificar las distintas estrategias posibles para alcanzar los objetivos."
  },
  {
-  "pregunta": "Seleccionar 1 (una) respuesta correcta. En Json, ¿con qué caracteres identificamos la apertura y cierre de un array?",
-  "respuesta": "[] Corchetes"
+  "pregunta": "En la informática distribuida, y en sus redes, ¿qué es lo que debemos controlar?",
+  "respuesta": "Detectar la correcta o incorrecta recepción de mensajes."
  },
  {
-  "pregunta": "Seleccionar 1 (una) respuesta correcta. En Json. Con que caracteres identificamos la apertura y cierre de un objeto?",
-  "respuesta": "{ } LLAVES"
+  "pregunta": "En la planificación de sistemas, ¿cuál es la etapa que consiste en un plan de selección de la tecnología de información y el desarrollo de los sistemas de información necesarios para apoyar el cometido de la empresa?",
+  "respuesta": "Etapa 2. Definir una arquitectura de información."
  },
  {
-  "pregunta": "Seleccionar 1 (una) respuesta correcta. Para poder trabajar con Newman en Postman es necesario contar con algo instalado, además de Postman, ¿qué necesitaríamos instalar?",
-  "respuesta": "NodeJS."
+  "pregunta": "En qué momento la opinión del auditor es desfavorable si:",
+  "respuesta": "Detecta gran cantidad de errores en los informes"
  },
  {
-  "pregunta": "Seleccionar 1 (una) respuesta correcta. Una de las siguientes opciones no pertenece a un flujo de integración continua en Jenkins, ¿cuál es?",
-  "respuesta": "Postman ejecuta las pruebas de APIs de integración."
+  "pregunta": "En una empresa dedicada a la producción de software para gestión inmobiliaria deciden desarrollar una aplicación integrada para la administración de consorcios. Uno de sus requerimientos es contar con un entorno web amigable, con acceso a cada uno de los inquilinos y propietarios para las consultas y pagos de sus expensas. ¿De que tipo de requerimiento se trata?",
+  "respuesta": "Requerimiento no funcional"
  },
  {
-  "pregunta": "Seleccionar las 2 (dos) respuestas correctas En JavaScript. ¿Cuáles son los 2 métodos válidos para declarar una variable?",
-  "respuesta": "LET-VAR"
+  "pregunta": "En una empresa tecnológica nos convocan para conocer actividades de una empresa o de un negocio y debemos determinar ¿cuál es el conjunto de elementos que interactúan entre sí, con el fin de apoyar los procesos de la organización?",
+  "respuesta": "Sistema de Información"
  },
  {
-  "pregunta": "Seleccionar las 2 (dos) respuestas correctas Que extensiones de archivos admite el collection runner de Postman para tomar datos externos de las soluciones APIs?",
-  "respuesta": ".CSV -. JSON"
+  "pregunta": "Hay una gran diferencia en los términos que se utilizan en la gestión, como el ciclo de vida de un proyecto, el cronograma del proyecto y el objetivo general del proyecto. El ciclo de vida del proyecto comprende, ¿Cuál de las siguientes opciones?",
+  "respuesta": "Fases."
  },
  {
-  "pregunta": "Seleccionar las 2 (dos) respuestas correctas. ¿Cuáles son los protocolos por los que nos podemos comunicar con una API REST?",
-  "respuesta": "HTTP-HTTPS"
+  "pregunta": "Identifica las características del modelo espiral",
+  "respuesta": "Modelo evolutivo del software"
  },
  {
-  "pregunta": "Seleccionar una opción correcta. Que acción ejecuta la siguiente porción de código y que nos mostrara por la consola de Postman?: let jsonData = pm.response.json(); for (var i=0; i<jsonData.list.lenght;i++) {console.log(jsonData.list[i].clientName);}.",
-  "respuesta": "EJECUTA UN LOOP QUE VA RECORRIENDO TODOS LOS OBJETOS “CLIENTNAME” DENTRO DEL ARRAY “LIST” Y DEVUELVE EL CONTENIDO DE CADA UNO POR CONSOLA"
+  "pregunta": "La amenaza informática consiste en ",
+  "respuesta": "Exposición o impacto"
  },
  {
-  "pregunta": "Si al enviar una solicitud recibimos un código re respuesta “204 – No content”, ¿que nos indica?",
-  "respuesta": "QUE LA SOLICITUD SE EJECUTÓ CORRECTAMENTE, PERO NO DEVOLVIÓ NINGÚN CONTENIDO."
+  "pregunta": "La Auditoria tiene como principal objetivo o premisa",
+  "respuesta": "Determinar si la información muestra la realidad adecuadamente"
  },
  {
-  "pregunta": "Si bien es cierto que con Postman podemos leer un archivo XML, existe otra herramienta más apropiada para trabajar con servicios SOAP y que nos puede ser de gran utilidad para leer este XML de la integración. ¿Cuál es esa herramienta?",
-  "respuesta": "SOPAUI"
+  "pregunta": "La Consultora AAA nos comunica que están trabajando en un proyecto de Implementación de Software. Para ello, necesitamos obtener la fase inicial del proyecto. Siendo así, ¿de qué son responsables el líder de proyecto y su equipo?",
+  "respuesta": "Determinar las tareas, el rigor de los objetivos planteados"
  },
  {
-  "pregunta": "Si en Postman queremos enviar una query por medio del apartado “Params” (parámetros) que nos devuelva un resultado comprendido entre 01 de enero de 2023 a las 13:00 hs. y las 13:59 hs., ¿cómo deberíamos escribirlo?",
-  "respuesta": "“Key” = DATE; “Value” = Date:[2023-01-01T13:00:00.000Z TO 2023-01-01T13:59:59.999Z]"
+  "pregunta": "La Consultora SSS está buscando personal para mantenimiento del software. ¿Qué actividad está incluida en nuestra responsabilidad?",
+  "respuesta": "Corrección de errores."
  },
  {
-  "pregunta": "Si en Postman quisiéramos configurar una variable de entorno, ¿cuál es la sección a la que deberíamos acudir?",
-  "respuesta": "Environments"
+  "pregunta": "La empresa SONIDO S.A. ha venido teniendo inconvenientes con el sistema de información de nómina. El presidente de la compañía ha pedido tu concepto como analista de sistemas frente a la situación. ¿Qué deberías hacer?",
+  "respuesta": "Comprender los detalles de la situación y decidir si es deseable o factible una mejora."
  },
  {
-  "pregunta": "Si enviamos una solicitud a una API privada, pero no tenemos acceso a dicho endpoint, ¿qué código de respuesta recibiremos que hace referencia a \"forbidden\" (prohibido)?",
-  "respuesta": 403
+  "pregunta": "La empresa XYZ después de hacer los estudios técnicos necesarios, quiere saber, ¿cuál es la función de un analista de sistemas?",
+  "respuesta": "Analizar y diseñar sistemas de información apropiados para una empresa"
  },
  {
-  "pregunta": "Si introducimos “?page=1&pageSize=20” en una URL de un endpoint API, ¿qué estamos haciendo?",
-  "respuesta": "Estamos introduciendo una query vía URL y accediendo a la primera hoja con un tamaño de 20 registros."
+  "pregunta": "La evidencia se considera relevante y necesaria para lograr:",
+  "respuesta": "Para lograr los objetivos de la auditoria"
  },
  {
-  "pregunta": "Si necesitamos consultar información a un endpoint de una API REST, ¿qué tipo de solicitud debemos enviar?",
-  "respuesta": "GET"
+  "pregunta": "La organización x está formada por personas que se unen para lograr un objetivo común de crear y ofrecer un producto o servicio de software. Dentro de estas personas contamos con los trabajadores de la información. ¿A que nos referimos?",
+  "respuesta": "Analistas de sistemas"
  },
  {
-  "pregunta": "Si necesitamos crear un nuevo recurso en un endpoint, por ejemplo, crear un usuario nuevo dentro de un endpoint que contiene los datos de los usuarios de una aplicación basada en microservicios, ¿cuál es la solicitud recomendada para cumplir ese objetivo?",
-  "respuesta": "POST"
+  "pregunta": "La organización XXT necesita encarar un proyecto de soware y debe derivar una cuesón interna. ¿Cuál es el objeto de la gesón de la ingeniería de soware?",
+  "respuesta": "Proyecto de ingeniería de software."
  },
  {
-  "pregunta": "Si nuestra API tiene un listado de productos y cada producto cuenta con un ID que lo identifica inequívocamente, ¿qué hace el siguiente código? app.get(\"\/usuarios\/:id\", (req, res) => { res.json(usuarios.find(p => p.id === +req.params.id));});",
-  "respuesta": "Crea la posibilidad de acceder directamente a cada usuario si introducimos su ID luego de la URL del endpoint correspondiente a \/usuarios."
+  "pregunta": "Las Aplicaciones especificas del Control Interno,  se utilizan para garantizar el analisis y evaluación del control interno",
+  "respuesta": true
  },
  {
-  "pregunta": "Si nuestros cambios sobre la rama principal de nuestro repositorio han superado ya todas las validaciones de integración y se encuentra que el código es apto para su despliegue de manera automatizada, ¿de qué estamos hablando?",
-  "respuesta": "De despliegue continuo."
+  "pregunta": "Las herramientas CASE pueden clasificarse en",
+  "respuesta": "Las plataformas que soportan - Las fases del ciclo de vida del desarrollo de sistemas que cubren, su funcionalidad"
  },
  {
-  "pregunta": "Si obtenemos un código de respuesta del tipo 403 Forbidden. ¿Cuál de los siguientes valores deberíamos corroborar que es correcto?",
-  "respuesta": "APIKey\/APIToken U OTRO METODO DE AUTENTICACION"
+  "pregunta": "Las medidas cuantitativas, que son",
+  "respuesta": "Facilitan la comparación de vulnerabilidades"
  },
  {
-  "pregunta": "Si queremos pedirle a Postman que nos devuelva un valor por medio de la consola cuando realizamos una solicitud a un endpoint de API, ¿en qué sección de Postman deberíamos incluirlo?",
-  "respuesta": "Test"
+  "pregunta": "Las metodologías se desarrollan para cada una de las fases del desarrollo.",
+  "respuesta": false
  },
  {
-  "pregunta": "Si quisiéramos declarar una variable de entorno en la URL o en un script dentro de nuestros Test, supongamos que con nombre “UnaVariable”, ¿cómo deberíamos declararla dentro de Postman?",
-  "respuesta": "{{UnaVariable}}"
+  "pregunta": "Las preguntas de sondeo logran buscar una medición específica del auditado.",
+  "respuesta": true
  },
  {
-  "pregunta": "Si quisiéramos enviar una query dentro de la URL en una solicitud de tipo GET, pero sin escribirla en la URL misma. ¿Dónde podríamos adjuntarla?",
-  "respuesta": "EN LA SECCION DE PARAMS"
+  "pregunta": "Los aportes teóricos y científicos se pueden considerar conjuntos de partes o elementos organizados, que interactúan entre sí para lograr un objetivo:",
+  "respuesta": false
  },
  {
-  "pregunta": "Si tuviéramos la siguiente estructura JSON y quisiéramos solamente modificar el valor \"skuID\" sin alterar el resto de la estructura y valores, ¿qué método deberíamos usar? \"skuId\": \"1054673\", \"warehouseId\": \"E164\", \"dockId\": \"164\"...",
-  "respuesta": "PATCH"
+  "pregunta": "Los controles informáticos Preventivos, cual es su objetivo?",
+  "respuesta": "Tratan de evitar el\/los hecho\/s"
+ },
+ {
+  "pregunta": "Los procedimientos que se utilizan para auditar, por lo general, son diferentes según el tipo de auditoría.",
+  "respuesta": true
+ },
+ {
+  "pregunta": "Los realizacion de controles internos,  siempre son necesarios por cambios de objetivos empresariales importantes, como:",
+  "respuesta": "Reestructuración de procesos empresariales"
+ },
+ {
+  "pregunta": "Nuestra empresa se dedica a la implementación y seguimiento de software. Cuando estamos estableciendo perfiles y tareas tenemos la siguiente duda: ¿Quién es el principal responsable en ser la voz del cliente?",
+  "respuesta": "Product owner."
+ },
+ {
+  "pregunta": "Nuestro cliente, luego de presentado el plan de trabajo, nos consulta qué es un muestreo en el relevamiento de requerimientos. ¿Qué le responderías?",
+  "respuesta": "Es el proceso que consiste en seleccionar elementos de datos procesados."
+ },
+ {
+  "pregunta": "Para poder disminuir los riesgos al mínimo posible, es fundamental que el director comparta la información correcta a la persona correcta y en el momento correcto en el empo.",
+  "respuesta": true
+ },
+ {
+  "pregunta": "Para que un software sea correcto, es necesario y suficiente que esté libre de fallo, que cumpla las especificaciones y que...",
+  "respuesta": "Cumpla con las expectativas de los usuarios."
+ },
+ {
+  "pregunta": "Para seleccionar una estrategia Optima se deben…",
+  "respuesta": "Identificar las distintas estrategias posibles para alcanzar los objetivos"
+ },
+ {
+  "pregunta": "Podemos confirmar que en el intercambio electrónico de datos existe el rastro de auditoría tradicional.",
+  "respuesta": false
+ },
+ {
+  "pregunta": "Que busca el auditor, cuando ejecuta Proceso con medios informáticos de manera eficiente:",
+  "respuesta": "Confirmación"
+ },
+ {
+  "pregunta": "Que permite las encuestas transversal, que se busca",
+  "respuesta": "Obtener cierto grado de veracidad y confiabilidad en las respuestas obtenidas"
+ },
+ {
+  "pregunta": "Se inicia a partir del resultado del diseño y se construye el sistema en términos de componentes (ficheros de código fuente, scripts, ficheros de código binario, ejecutables). ¿A que definición nos referimos?",
+  "respuesta": "Implementación"
+ },
+ {
+  "pregunta": "Selecciona la respuesta correcta. El Planning Póker sirve para",
+  "respuesta": "Planificar"
+ },
+ {
+  "pregunta": "Selecciona la respuesta correcta. Las dinámicas de alta colaboración ayudan a:",
+  "respuesta": "Generar mejores resultados al recoger todos los puntos de vista, reducir la influencia de unos pocos, y fomentar la participación."
+ },
+ {
+  "pregunta": "Selecciona la respuesta correcta. Un estudio formal de viabilidad probablemente contenga:",
+  "respuesta": "Estimación del tiempo para cada número de alternativas del proyecto."
+ },
+ {
+  "pregunta": "Somos consultores independientes y nos contratan para documentar las especificaciones de procesos. ¿Qué se busca con esto?",
+  "respuesta": "Reducir la ambigüedad del proceso."
+ },
+ {
+  "pregunta": "Son correctos los controles sobre las endades de información, archivos de datos, pantallas, transacciones.",
+  "respuesta": true
+ },
+ {
+  "pregunta": "Tengo un proyecto de urgencia, por solicitud de la directiva de la empresa, debo estudiar el comportamiento y características del sistema, sin que el área esté enterada de este análisis, ¿qué tipo de observación es?",
+  "respuesta": "Observación Oculta"
+ },
+ {
+  "pregunta": "Toda limitación que impida aplicar las normas, se considera una reserva de alcance",
+  "respuesta": true
+ },
+ {
+  "pregunta": "Trabajas en una empresa que se dedica a la distribución de libros y tu puesto es de analista de sistemas. El gerente nos pregunta, ¿que buscamos con la elaboración de prototipos?",
+  "respuesta": "Las reacciones del usuario hacia el nuevo sistema"
+ },
+ {
+  "pregunta": "Un actor tiene la siguiente característica:",
+  "respuesta": "Es interno al sistema"
+ },
+ {
+  "pregunta": "Un agile coach no tiene que tener una alta competencia técnica",
+  "respuesta": true
+ },
+ {
+  "pregunta": "Un Auditor debe tener diferencias con sus clientes, para lograr beneficios",
+  "respuesta": false
+ },
+ {
+  "pregunta": "Un auditor puede negarse a continuar con sus servicios, si el auditado no acata sus sugerencias.",
+  "respuesta": true
  }
 ]
