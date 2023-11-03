@@ -1,518 +1,466 @@
 [
  {
-  "pregunta": "¿A qué nos referimos con las técnicas de ponderación?",
-  "respuesta": "Definir la manera de valorar cada parte del área de sistemas."
+  "pregunta": "¿Con cuáles de las siguientes etapas se inicia la resolución de un problema?",
+  "respuesta": "Idenficación y recolección."
  },
  {
-  "pregunta": "¿A qué nos referimos cuando hablamos de un conjunto de elementos o componentes interrelacionados que recaban, manipulan, almacenan y distribuyen datos e información?",
-  "respuesta": "Un sistema de información."
+  "pregunta": "¿Cuál de las siguientes herramientas nos permitirá obtener información confiable para el análisis de causas y para la evaluación de los resultados obtenidos?",
+  "respuesta": "ERP"
  },
  {
-  "pregunta": "¿A qué se refiere el concepto de “escribir software reutilizable”?",
-  "respuesta": "El desarrollo de software basado en componentes permite reutilizar piezas de código."
+  "pregunta": "¿Cuál de los siguientes atributos, relacionados con el empo, estará fomentando una persona que toma sus decisiones sin planificar oportunamente?",
+  "respuesta": "Urgencia"
  },
  {
-  "pregunta": "¿A quiénes apoyan los sistemas de automatización de oficina? Selecciona la respuesta correcta.",
-  "respuesta": "Apoyan a los trabajadores de datos, en donde analizan la información con el propósito de transformar los datos."
+  "pregunta": "¿Cuál de los siguientes es uno de los beneficios directos del uso de los mapas mentales?",
+  "respuesta": "Resumir ideas"
  },
  {
-  "pregunta": "¿Cómo definimos a las herramientas CASE?",
-  "respuesta": "Un conjunto de programas y ayudas que dan asistencia a los analistas."
+  "pregunta": "¿Cuál de los siguientes tipos de gráficos propondrías al analizar la evolución en el tiempo de una variable determinada en relación a otra durante el proceso de toma de decisiones?",
+  "respuesta": "Histograma"
  },
  {
-  "pregunta": "¿Como puede variar el presupuesto inicial del proyecto?",
-  "respuesta": "Al principio del proyecto, su costo es bajo, nivel máximo y al finalizar su costo debe ser BAJO"
+  "pregunta": "¿Cuáles de las siguientes opciones deben considerarse como elementos de un problema a la hora de intentar solucionarlos?",
+  "respuesta": "Hipótesis - Incógnitas"
  },
  {
-  "pregunta": "¿Cuál de estos pasos pertenece a la fase de ejecución de la auditoría?",
-  "respuesta": "Elaborar el dictamen preliminar y presentarlo a discusión."
+  "pregunta": "¿Cuáles son las 2 herramientas recomedadas para la instancia de identificación de problemas?",
+  "respuesta": "Entrevista - Tabla de Preguntas"
  },
  {
-  "pregunta": "¿Cuál de las siguientes afirmaciones, referentes a la calidad de proceso, es cierta?",
-  "respuesta": "El modelo ISO 9001 es complejo de implantar en pequeñas y medianas empresas para gestionar la calidad de los procesos software."
+  "pregunta": "¿Cuándo se puede decir que se es eficaz en una toma de decisiones?",
+  "respuesta": "Logra resolver la situación problemáca."
  },
  {
-  "pregunta": "¿Cuál de las siguientes cuestiones no establece la ingeniería de los requerimientos?",
-  "respuesta": "la información a procesa"
+  "pregunta": "¿De qué manera se clasifican las decisiones que tienen en cuenta la trascendecia organizacional?",
+  "respuesta": "Operativas"
  },
  {
-  "pregunta": "¿Cuál de las siguientes no es una causa de los problemas en la Fase Inicial del Proyecto del Software?",
-  "respuesta": "Las dificultades de la programación"
+  "pregunta": "¿En qué instancia nos será de utilidad identificar y ponderar los criterios de decisión importantes para la organización en la cual estamos tomando una decisión?",
+  "respuesta": "Selección"
  },
  {
-  "pregunta": "¿Cuál de las siguientes opciones corresponde al modelo de cascada?",
-  "respuesta": "Análisis de requisitos de software."
+  "pregunta": "¿Para qué tipo de situaciones es recomendable la toma de decisiones racional?",
+  "respuesta": "Estratégicas"
  },
  {
-  "pregunta": "¿Cuál de los siguientes enunciados define mejor los resultados esperados de la prueba?",
-  "respuesta": "Especificación de caso de prueba."
+  "pregunta": "¿Qué herramienta propondrías para analizar la evolución en el empo de una variable determinada en relación con otra durante el proceso de toma de decisiones?",
+  "respuesta": "Histograma"
  },
  {
-  "pregunta": "¿Cuál de los siguientes no es un valor de un agile coach?",
-  "respuesta": "Tener una alta competencia técnica"
+  "pregunta": "¿Qué herramientas propondrías para el desarrollo de la generación de alternavas ante una situación sobre la que debés tomar una decisión?",
+  "respuesta": "Mapas mentales"
  },
  {
-  "pregunta": "¿Cuál es el número de herramientas que constan según el ciclo de vida?",
-  "respuesta": 4
+  "pregunta": "A Javier le resulta difícil alcanzar el indicador de satisfacción del cliente, de su tablero de control de gestión, en su área de finanzas del banco \"Tu Futuro\". ¿Qué primeras etapas deberá transitar para su resolución?",
+  "respuesta": "Análisis"
  },
  {
-  "pregunta": "¿Cuál es la desventaja del modelo incremental?",
-  "respuesta": "No es recomendable para casos de sistemas de tiempo real"
+  "pregunta": "A la hora de evaluar alternavas de acción, algunos de los criterios a tener en cuenta son:",
+  "respuesta": "Visión organizacional; Tiempo; Costo de inversión"
  },
  {
-  "pregunta": "¿Cuál es la diferencia entre las maquetas y los prototipos?",
-  "respuesta": "Que las maquetas se “desechan” al comenzar el desarrollo."
- },
- {
-  "pregunta": "¿Cuál es la diferencia entre las pruebas preventivas y reactivas?",
-  "respuesta": "PREVENTIVAS están diseñadas de manera temprana"
- },
- {
-  "pregunta": "¿Cuál es la etapa de la metodología en la que se realiza la declaración de los resultados derivados de una actividad?",
-  "respuesta": "Retroalimentación."
- },
- {
-  "pregunta": "¿Cuál es la función de la proyección como elemento de la gesón del riesgo?",
-  "respuesta": "Es un mecanismo de defensa que opera en situaciones de conflicto emocional o amenazas de origen interno o externo."
- },
- {
-  "pregunta": "¿Cuál es la función principal del modelado de casos de uso?",
-  "respuesta": "Relacionar las funciones del sistema con las clases del sistema."
- },
- {
-  "pregunta": "¿Cuál es la primera fase del modelo incremental?",
-  "respuesta": "Requerimientos."
- },
- {
-  "pregunta": "¿Cuál es la principal función de un líder de proyecto en la prevención de riesgos?",
-  "respuesta": "Observación regular y registro de las actividades que se llevan a cabo en un proyecto"
- },
- {
-  "pregunta": "¿Cuál es la prueba beta?",
-  "respuesta": "Las pruebas realizadas por los clientes en sus propios sectores"
- },
- {
-  "pregunta": "¿Cuál es una afirmación en el Manifiesto Ágil?",
-  "respuesta": "Valoramos software funcionando por sobre documentación extensiva"
- },
- {
-  "pregunta": "¿Cuál es una de las actividades de accion para el Scrum Master?",
-  "respuesta": "Explicarle al Dueño del Producto (Product Owner) que esta decisión lecorresponde al Equipo de Desarrollo y que debe ser aceptada"
- },
- {
-  "pregunta": "¿Cuál es una ventaja del método incremental?",
-  "respuesta": "Se reduce el tiempo de desarrollo inicial, ya que se implementa la funcionalidad parcial"
- },
- {
-  "pregunta": "¿Cuál es uno de los métodos principales que está disponible para que el analista lo use cuando analiza los sistemas orientados a datos?",
-  "respuesta": "Diagrama de flujo de datos."
- },
- {
-  "pregunta": "¿Cuáles de las siguientes cuesones establece la ingeniería de los requerimientos?",
-  "respuesta": "Las funciones del sistema; Las restricciones de diseño; El comportamiento del sistema"
- },
- {
-  "pregunta": "¿Cuales son las desventajas del modelo en cascada?",
-  "respuesta": "Inflexibilidad"
- },
- {
-  "pregunta": "¿Cuáles son las etapas del modelo de desarrollo por prototipos?",
-  "respuesta": "Modelado, diseño rápido."
- },
- {
-  "pregunta": "¿Cuáles son las metodologías de desarrollo de software tradicionales?",
-  "respuesta": "Modelo en cascada"
- },
- {
-  "pregunta": "¿Cuáles son las ventajas de las tecnologías que utilizan la información para auditar?",
-  "respuesta": "Excelente consistencia y rendimiento constante."
- },
- {
-  "pregunta": "¿Cuáles son los objevos del diseño de los formularios de entrada?",
-  "respuesta": "Efectividad y facilidad de uso."
- },
- {
-  "pregunta": "¿Cuáles son los tipos de sistemas? Selecciona la respuesta correcta.",
-  "respuesta": "Sistemas de procesamiento de transacciones."
- },
- {
-  "pregunta": "¿Dónde se puede realizar la prueba funcional?",
-  "respuesta": "En todos los niveles de prueba."
- },
- {
-  "pregunta": "¿En qué consiste el manejo de riesgos?",
-  "respuesta": "En transferir el riesgo a otra parte, reducir los efectos negativos, aceptar las consecuencias"
- },
- {
-  "pregunta": "¿En qué fase del proyecto se debe trabajar el aspecto de la calidad del producto?",
-  "respuesta": "Durante todo el proyecto"
- },
- {
-  "pregunta": "¿Qué ayuda al analista a observar las actividades del sponsor?",
-  "respuesta": "Definir el problema y buscar alternativas de solución."
- },
- {
-  "pregunta": "¿Qué es el protopo?",
-  "respuesta": "Es un modelo donde se presentan al usuario final algunas de las caracteríscas principales del sistema."
- },
- {
-  "pregunta": "¿Qué es kanban?",
-  "respuesta": "Kanban es un método basado en los principios de la metodología Lean y Agil"
- },
- {
-  "pregunta": "¿Que es la idea de un proyecto?",
-  "respuesta": "Consiste en establecer la necesidad u oportunidad a partir de la cual es posible iniciar un diseño del proyecto"
- },
- {
-  "pregunta": "¿Qué es un caso de uso?",
-  "respuesta": "Representar a clientes y sus interacciones."
- },
- {
-  "pregunta": "¿Qué es un diccionario de datos?",
-  "respuesta": "Documento utilizado para crear pantallas formularios."
- },
- {
-  "pregunta": "¿Qué es un proyecto?",
-  "respuesta": "Un esfuerzo temporal que se lleva a cabo para crear un producto, servicio o resultado."
- },
- {
-  "pregunta": "¿Qué es un sistema de información?",
-  "respuesta": "Conjunto de pasos a seguir de manera ordenada para resolver un problema."
- },
- {
-  "pregunta": "¿Que es una prueba de software?",
-  "respuesta": "Comprobación de que el producto funciona según lo esperado"
- },
- {
-  "pregunta": "¿Qué hace el responsable en la etapa de requerimientos básicos?",
-  "respuesta": "DETERMINAR LOS COSTOS Y RECURSOS QUE SE INCLUIRAN EN EL PROYECTO"
- },
- {
-  "pregunta": "¿Qué implica documentar la seguridad de las computadoras?",
-  "respuesta": "Identificar usuarios e integridad de datos del sistema."
- },
- {
-  "pregunta": "¿Qué implica escribir software reutilizable?",
-  "respuesta": "Reutilizar piezas del código codificado para diversificar tareas."
- },
- {
-  "pregunta": "¿Que pasa si en el proceso de auditoria se detecta algún fraude?",
-  "respuesta": "Conviene consultar al asesor jurídico"
- },
- {
-  "pregunta": "¿Qué preguntas sirven para una rápida tabulación y mayor veracidad en las respuestas obtenidas?",
-  "respuesta": "Matriz."
- },
- {
-  "pregunta": "¿Qué se necesita para garanzar que en la auditoría se consideren todos los aspectos significavos?",
-  "respuesta": "Obtener evidencia suficiente y adecuada."
- },
- {
-  "pregunta": "¿Qué son las estructuras de datos lógicas?",
-  "respuesta": "Datos lógicos, como nombre y apellido."
- },
- {
-  "pregunta": "¿Qué son las herramientas de alto nivel?",
-  "respuesta": "Son aquellas que están orientadas a la automatización y soporte de las actividades desarrolladas."
- },
- {
-  "pregunta": "¿Qué son las tool CASE?",
-  "respuesta": "Son el tipo más simple de herramientas CASE. Automatizan una fase dentro del ciclo de vida."
- },
- {
-  "pregunta": "¿Trabajamos en una consultora de desarrollo de software y nuestro cliente nos consulta, cuáles son los objetivos que persigue el analista al diseñar la salida del sistema?",
-  "respuesta": "Entregar la cantidad adecuada de salida"
- },
- {
-  "pregunta": "¿Un Auditor debe Guardar secreto de los hechos, encontrado es en la auditoria?",
+  "pregunta": "A nivel genérico, existen cuatro pos de tomas de decisiones: proacva, intermedia, racional y reacva.",
   "respuesta": false
  },
  {
-  "pregunta": "Al finalizar el proceso de idenficar los riesgos, el registro de riesgos resultante ofrece las siguientes informaciones:",
-  "respuesta": "Las respuestas potenciales a ciertos riesgos; Los riesgos idenficados ulizando la cadena causa -> eventos -> efectos; Los dueños del riesgo potencial."
+  "pregunta": "Andrés tiene una consultora de gestión organizacional y debe evaluar un nuevo contrato con un cliente por 5 años ¿Qué tipo de decisión tomará Andrés?",
+  "respuesta": "Estratégicas"
  },
  {
-  "pregunta": "Al finalizar el proceso de identificar los riesgos, el registro de riesgos resultante ofrece las siguientes informaciones:",
-  "respuesta": "Los riesgos identificados utilizando la cadena causa 🡪 eventos 🡪 efectos; Los dueños del riesgo potencial; Las respuestas potenciales a ciertos riesgos."
+  "pregunta": "Belén es recepcionista de un hotel y su jefe la evaluó de manera insuficiente ya que no alcanzó el puntaje de sasfacción del huésped esperado. En la devolución, su conductor le entregó un detalle de las calificaciones obtenidas y los comentarios detallados. ¿Qué etapa del ciclo de vida de resolución de problemas debe aplicar?",
+  "respuesta": "Análisis de información"
  },
  {
-  "pregunta": "Al finalizar el proceso de Identificar los Riesgos, el registro de riesgos resultante ofrece todas las siguientes Informacion EXCEPTO:",
-  "respuesta": "La prioridad del Riesgo"
+  "pregunta": "Betsabe tiene una sandwicheria local y no logra desarrollar un sistema de cadetería que entregue los pedidos en menos de 5 minutos (como lo hace su competencia). ¿Basa en que atributo debe Betsabe tomar una nueva decisión sobre sus cadetes?",
+  "respuesta": "Eficiencia"
  },
  {
-  "pregunta": "Beneficios principales para documentar un diccionario de datos",
-  "respuesta": "Documento utilizado para crear pantallas formularios"
+  "pregunta": "Brenda es jefa de personal de una empresa de servicios y, luego de tomar una decisión radical sobre la administración de legajos, necesita lograr una buena estrategia de implementación ¿Qué consejo le brindarías para hacerlo con éxito?",
+  "respuesta": "Designar responsables."
  },
  {
-  "pregunta": "CMM significa:",
-  "respuesta": "Modelo de madurez de procesos del software"
+  "pregunta": "Carlos es jefe de Relaciones Institucionales de una empresa que promueve la responsabilidad social y empresaria y debe tomar una decisión en relación a una quita de subsidios ante un recorte económico. ¿Qué atributo tendrá mayor peso en su decisión?",
+  "respuesta": "Prestigio reputacional"
  },
  {
-  "pregunta": "Cuál es la diferencia clave entre los enfoques preventivos y reactivos",
-  "respuesta": "Pruebas preventivas están diseñados temprana; pruebas reactivas están diseñados después de que el software haya sido producido"
+  "pregunta": "Cecilia es directora ejecutiva de un grupo de empresas de servicios en Mendoza y está por tomar una decisión estratégica relativa a los beneficios que la agrupación le ofrece a sus socios estratégicos. Ella ya cuenta con información detallada sobre cada una de las alternativas. ¿Qué herramienta es recomendable utilizar para evaluar la factibilidad de sus alternativas?",
+  "respuesta": "Matriz de alternativas"
  },
  {
-  "pregunta": "Cual es una ventajas del modelo espiral?",
-  "respuesta": "Se adapta para desarrollos a gran escala"
+  "pregunta": "Claudia trabaja en una consultora Inmobiliaria y ha implementado una estrategia de venta la cual no ha tenido el resultado que esperaba y ha afectado a sus metas del mes. ¿Qué es lo primero que debe hacer Claudia para mejorar sus ventas para el próximo mes?",
+  "respuesta": "Reiniciar el proceso de toma de decisiones."
  },
  {
-  "pregunta": "De acuerdo a la gesón de los recursos tangibles, es importante tener en cuenta que puede llegar a ser necesario distribuir recursos adicionales, lo que implicará un mayor costo para el cliente.",
+  "pregunta": "Como líder de un equipo se te presenta un problema con tu grupo de trabajo y, para resolverlo, deberás analizar las causas. ¿Es suficiente con que analices un 20% de ellas?",
+  "respuesta": "No es suficiente, debés analizar todas las causas."
+ },
+ {
+  "pregunta": "Como líder del equipo de sistemas te encontrás recolectando información para profundizar sobre el problema de la falta de soporte a los empleados. Para ello, ¿es correcto que realices entrevistas a tus colaboradores?",
+  "respuesta": "Sí, es una de las tres metodologías sugeridas."
+ },
+ {
+  "pregunta": "Completa el fragmento con la opción correcta. En el desarrollo de alternativas es adecuado utilizar:",
+  "respuesta": "Mindmeister"
+ },
+ {
+  "pregunta": "Débora es estudiante de un doctorado y debe opmizar su empo de estudio, para ello, decidió organizar mejor su espacio de estudio a los fines de poder hacerlo con mayor prolijidad. ¿En qué cuadrante de la matriz de covey se encuentra esta decisión?",
+  "respuesta": "Cuadrante 2"
+ },
+ {
+  "pregunta": "Débora es responsable de administración de una empresa de desinfecciones y, ante cambios en los proveedores de hosting web, debe reemplazar la casilla de email a través de la cual se comunica a diario con clientes y proveedores ¿Qué herramienta le recomedás que utilice para tomar decisiones correctas sobre la implementación de este nuevo recurso?",
+  "respuesta": "Mapa de Actores"
+ },
+ {
+  "pregunta": "Durante una reunión de trabajo de recolección de información, Juan utiliza la metodología de los \"5 porqués\". ¿Es adecuado su uso en esta etapa de trabajo?",
+  "respuesta": "Sí, es una de las 3 metodologías sugeridas."
+ },
+ {
+  "pregunta": "Eduardo tiene un local de venta de insumos informáticos y debe resolver cómo afrontará sus próximos compromisos financieros. Para ello deberá analizar la evolución de los ingresos y egresos de los últimos 18 meses. ¿Qué herramienta estadística es recomendable que utilice en esta situación?",
+  "respuesta": "Gráfico de tendencias"
+ },
+ {
+  "pregunta": "El orden de las 5 etapas del Design Thinking son: Empatizar, Definir, idear, prototipar y testear",
   "respuesta": true
  },
  {
-  "pregunta": "El auditor informático se preocupa solo de las funciones del depto de informatica",
-  "respuesta": false
+  "pregunta": "El responsable del área de contabilidad ene que enviar una cozación de servicios a potenciales clientes. Para ello, dispone de un listado de emails con los respecvos nombres de sus clientes y el po de servicio que solicitaron. ¿Cuenta con información suficiente para llevar a cabo su tarea?",
+  "respuesta": "El responsable cuenta con la información suficiente para enviar la cozación."
  },
  {
-  "pregunta": "El ciclo de vida es lo mismo que el modelo de proceso o paradigma utilizado.",
-  "respuesta": false
- },
- {
-  "pregunta": "El concepto mas apropiado que define a la empresa digital es:",
-  "respuesta": "Todas las relaciones significativas de negocios de la organización con clientes, proveedores y empleados se realizan y control"
- },
- {
-  "pregunta": "El control forma parte integrante de la gestión",
-  "respuesta": false
- },
- {
-  "pregunta": "El control interno informático se preocupa de cambios y versiones de implementación del software",
+  "pregunta": "En la etapa de identificación del problema, es adecuado realizar entrevistas a los colaboradores implicados en las situaciones que pueden encontrarse involucradas.",
   "respuesta": true
  },
  {
-  "pregunta": "El Departamento de Control Interno Informático, que es lo que realizada?",
-  "respuesta": "Cubre sólo las funciones del Depto de Informatica"
- },
- {
-  "pregunta": "El diagrama de desarrollo o despliegue es realizado por el área de desarrollo y por los programadores.",
-  "respuesta": false
- },
- {
-  "pregunta": "El Manifiesto Ágil fue el resultado de muchos años de investigación académica",
-  "respuesta": false
- },
- {
-  "pregunta": "El póquer de planificación sirve para",
-  "respuesta": "Planificar"
- },
- {
-  "pregunta": "El software es el conjunto de programas, estructuras de datos y documentos asociados para soportar la instalación y uso de los programas.",
-  "respuesta": false
- },
- {
-  "pregunta": "El Sponsor nos da Información contextual de la situación del negocio, así como también nos cuenta qué problema u objetivo espera atender.",
+  "pregunta": "Es adecuado realizar entrevistas a los colaboradores implicados en el problema u oportunidad en la etapa de identificación del problema.",
   "respuesta": true
  },
  {
-  "pregunta": "En el diseño de sistemas esta vialidad es la encargada de analizar so los beneficios del sistema compensaran los costos. ¿De que vialidad hablamos?",
-  "respuesta": "Viabilidad económica"
- },
- {
-  "pregunta": "En el sio web de la empresa, se cuenta con varios módulos, por lo que necesitan encontrar un perfil adecuado.",
-  "respuesta": "Consultor, agente de cambio y experto en soporte técnico."
- },
- {
-  "pregunta": "En entrevistas tipo diamante, el auditor inicia con preguntas generales, continúa con preguntas concretas y finaliza con preguntas generales.",
-  "respuesta": false
- },
- {
-  "pregunta": "En general, las habilidades técnicas de un gerente de proyecto:",
-  "respuesta": "Tienen que ser suficientemente altas para entender cuestiones técnicas y explicar decisiones técnicas a otros."
- },
- {
-  "pregunta": "En la empresa de soware UNO S.A., se presenta el proyecto de desarrollo de sistemas de información. Es muy importante realizar una invesgación preliminar del proyecto con el propósito de ampliar la información contenida en las propuestas y, así, el respecvo comité de selección pueda tomar una decisión favorable para la organización. La invesgación preliminar se puede estructurar en las siguientes etapas:",
-  "respuesta": "Ámbito de estudio, desarrollo de la invesgación, facbilidad del proyecto"
- },
- {
-  "pregunta": "En la empresa de un amigo, están implementando metodologías y nos preguntas sobre la metodología XP, ¿Cuál de las siguientes opciones es un practica principal del enfoque de desarrollo de XP?",
-  "respuesta": "Filosofía de programación en parejas."
- },
- {
-  "pregunta": "En la empresa de un amigo, necesitan seleccionar una estrategia para la optimización del proyecto. ¿Qué deben hacer?",
-  "respuesta": "Identificar las distintas estrategias posibles para alcanzar los objetivos."
- },
- {
-  "pregunta": "En la informática distribuida, y en sus redes, ¿qué es lo que debemos controlar?",
-  "respuesta": "Detectar la correcta o incorrecta recepción de mensajes."
- },
- {
-  "pregunta": "En la planificación de sistemas, ¿cuál es la etapa que consiste en un plan de selección de la tecnología de información y el desarrollo de los sistemas de información necesarios para apoyar el cometido de la empresa?",
-  "respuesta": "Etapa 2. Definir una arquitectura de información."
- },
- {
-  "pregunta": "En qué momento la opinión del auditor es desfavorable si:",
-  "respuesta": "Detecta gran cantidad de errores en los informes"
- },
- {
-  "pregunta": "En una empresa dedicada a la producción de software para gestión inmobiliaria deciden desarrollar una aplicación integrada para la administración de consorcios. Uno de sus requerimientos es contar con un entorno web amigable, con acceso a cada uno de los inquilinos y propietarios para las consultas y pagos de sus expensas. ¿De que tipo de requerimiento se trata?",
-  "respuesta": "Requerimiento no funcional"
- },
- {
-  "pregunta": "En una empresa tecnológica nos convocan para conocer actividades de una empresa o de un negocio y debemos determinar ¿cuál es el conjunto de elementos que interactúan entre sí, con el fin de apoyar los procesos de la organización?",
-  "respuesta": "Sistema de Información"
- },
- {
-  "pregunta": "Hay una gran diferencia en los términos que se utilizan en la gestión, como el ciclo de vida de un proyecto, el cronograma del proyecto y el objetivo general del proyecto. El ciclo de vida del proyecto comprende, ¿Cuál de las siguientes opciones?",
-  "respuesta": "Fases."
- },
- {
-  "pregunta": "Identifica las características del modelo espiral",
-  "respuesta": "Modelo evolutivo del software"
- },
- {
-  "pregunta": "La amenaza informática consiste en ",
-  "respuesta": "Exposición o impacto"
- },
- {
-  "pregunta": "La Auditoria tiene como principal objetivo o premisa",
-  "respuesta": "Determinar si la información muestra la realidad adecuadamente"
- },
- {
-  "pregunta": "La Consultora AAA nos comunica que están trabajando en un proyecto de Implementación de Software. Para ello, necesitamos obtener la fase inicial del proyecto. Siendo así, ¿de qué son responsables el líder de proyecto y su equipo?",
-  "respuesta": "Determinar las tareas, el rigor de los objetivos planteados"
- },
- {
-  "pregunta": "La Consultora SSS está buscando personal para mantenimiento del software. ¿Qué actividad está incluida en nuestra responsabilidad?",
-  "respuesta": "Corrección de errores."
- },
- {
-  "pregunta": "La empresa SONIDO S.A. ha venido teniendo inconvenientes con el sistema de información de nómina. El presidente de la compañía ha pedido tu concepto como analista de sistemas frente a la situación. ¿Qué deberías hacer?",
-  "respuesta": "Comprender los detalles de la situación y decidir si es deseable o factible una mejora."
- },
- {
-  "pregunta": "La empresa XYZ después de hacer los estudios técnicos necesarios, quiere saber, ¿cuál es la función de un analista de sistemas?",
-  "respuesta": "Analizar y diseñar sistemas de información apropiados para una empresa"
- },
- {
-  "pregunta": "La evidencia se considera relevante y necesaria para lograr:",
-  "respuesta": "Para lograr los objetivos de la auditoria"
- },
- {
-  "pregunta": "La organización x está formada por personas que se unen para lograr un objetivo común de crear y ofrecer un producto o servicio de software. Dentro de estas personas contamos con los trabajadores de la información. ¿A que nos referimos?",
-  "respuesta": "Analistas de sistemas"
- },
- {
-  "pregunta": "La organización XXT necesita encarar un proyecto de soware y debe derivar una cuesón interna. ¿Cuál es el objeto de la gesón de la ingeniería de soware?",
-  "respuesta": "Proyecto de ingeniería de software."
- },
- {
-  "pregunta": "Las Aplicaciones especificas del Control Interno,  se utilizan para garantizar el analisis y evaluación del control interno",
+  "pregunta": "Es adecuado utilizar técnicas de recolección de datos o algunas metodologías, como por ejemplo el diagrama de Ishikawa, para poder avanzar en la identificación del problema.",
   "respuesta": true
  },
  {
-  "pregunta": "Las herramientas CASE pueden clasificarse en",
-  "respuesta": "Las plataformas que soportan - Las fases del ciclo de vida del desarrollo de sistemas que cubren, su funcionalidad"
- },
- {
-  "pregunta": "Las medidas cuantitativas, que son",
-  "respuesta": "Facilitan la comparación de vulnerabilidades"
- },
- {
-  "pregunta": "Las metodologías se desarrollan para cada una de las fases del desarrollo.",
-  "respuesta": false
- },
- {
-  "pregunta": "Las preguntas de sondeo logran buscar una medición específica del auditado.",
+  "pregunta": "Es correcto afirmar que, uno de los principios básicos de la toma de decisiones, es centrarse en el establecimiento de los objetivos relativos a la situación que necesitás resolver (o prever).",
   "respuesta": true
  },
  {
-  "pregunta": "Los aportes teóricos y científicos se pueden considerar conjuntos de partes o elementos organizados, que interactúan entre sí para lograr un objetivo:",
+  "pregunta": "Es correcto afirmar que, uno de los principios básicos de la toma de decisiones, es centrarse en la situación puntual y particular de los aspectos relativos a la situación que necesitás resolver (o prever), abstrayéndote de su contexto para no distraer tu decisión.",
   "respuesta": false
  },
  {
-  "pregunta": "Los controles informáticos Preventivos, cual es su objetivo?",
-  "respuesta": "Tratan de evitar el\/los hecho\/s"
- },
- {
-  "pregunta": "Los procedimientos que se utilizan para auditar, por lo general, son diferentes según el tipo de auditoría.",
-  "respuesta": true
- },
- {
-  "pregunta": "Los realizacion de controles internos,  siempre son necesarios por cambios de objetivos empresariales importantes, como:",
-  "respuesta": "Reestructuración de procesos empresariales"
- },
- {
-  "pregunta": "Nuestra empresa se dedica a la implementación y seguimiento de software. Cuando estamos estableciendo perfiles y tareas tenemos la siguiente duda: ¿Quién es el principal responsable en ser la voz del cliente?",
-  "respuesta": "Product owner."
- },
- {
-  "pregunta": "Nuestro cliente, luego de presentado el plan de trabajo, nos consulta qué es un muestreo en el relevamiento de requerimientos. ¿Qué le responderías?",
-  "respuesta": "Es el proceso que consiste en seleccionar elementos de datos procesados."
- },
- {
-  "pregunta": "Para poder disminuir los riesgos al mínimo posible, es fundamental que el director comparta la información correcta a la persona correcta y en el momento correcto en el empo.",
-  "respuesta": true
- },
- {
-  "pregunta": "Para que un software sea correcto, es necesario y suficiente que esté libre de fallo, que cumpla las especificaciones y que...",
-  "respuesta": "Cumpla con las expectativas de los usuarios."
- },
- {
-  "pregunta": "Para seleccionar una estrategia Optima se deben…",
-  "respuesta": "Identificar las distintas estrategias posibles para alcanzar los objetivos"
- },
- {
-  "pregunta": "Podemos confirmar que en el intercambio electrónico de datos existe el rastro de auditoría tradicional.",
+  "pregunta": "Es inadecuado utilizar técnicas de recolección de datos para poder avanzar en la identificación del problema",
   "respuesta": false
  },
  {
-  "pregunta": "Que busca el auditor, cuando ejecuta Proceso con medios informáticos de manera eficiente:",
-  "respuesta": "Confirmación"
+  "pregunta": "Es posible ser eficiente sin ser eficaz",
+  "respuesta": false
  },
  {
-  "pregunta": "Que permite las encuestas transversal, que se busca",
-  "respuesta": "Obtener cierto grado de veracidad y confiabilidad en las respuestas obtenidas"
+  "pregunta": "Federico es dueño de una empresa constructora que ene problemas de liquidez. Luego de un análisis detallado descubre que ene un 50% más de herramientas de las que realmente necesita. ¿Qué estrategia o procedimiento le aconsejás que ulice para desarrollar ideas sobre los posibles usos complementarios de las herramientas sobrantes?",
+  "respuesta": "Lluvia de ideas"
  },
  {
-  "pregunta": "Se inicia a partir del resultado del diseño y se construye el sistema en términos de componentes (ficheros de código fuente, scripts, ficheros de código binario, ejecutables). ¿A que definición nos referimos?",
+  "pregunta": "Federico es el jefe de cocina de un restaurante y, ante la ausencia de uno de sus cocineros, debe decidir a quién poner en su reemplazo. ¿Qué tipo de decisión estará afrontando Federico?",
+  "respuesta": "Operativa"
+ },
+ {
+  "pregunta": "Fernando es CEO de una empresa de desinfecciones y durante la úlma semana decidió las cinco iniciavas estratégicas de la empresa para el próximo año. ¿Qué consejo le brindarías para que planifique la implementación de cada una de esas iniciavas?",
+  "respuesta": "Identificar entregables"
+ },
+ {
+  "pregunta": "Fernando es propietario de una pequeña panadería con fábrica propia. En el úlmo período su nivel de ventas disminuyó rotundamente por lo que se encuentra decidido a implementar una nueva unidad de negocios: El servicio de cafetería con delivery. Además, va a dejar de elaborar algunos productos y va a comprarlos porque es más barato. ¿Qué consejo le brindarías para pensar esta posibilidad?",
+  "respuesta": "Centrarse en objetivos"
+ },
+ {
+  "pregunta": "Hay una situación incómoda en tu equipo de trabajo y como líder del mismo necesitas saber qué está pasando. ¿Qué harías?",
+  "respuesta": "Entrevistás a los integrantes del equipo para idenficar qué sucede."
+ },
+ {
+  "pregunta": "Hipótesis, contexto y personas son 3 (tres) de los elementos de un problema.",
+  "respuesta": true
+ },
+ {
+  "pregunta": "Hugo ene una PyME y ene un desfasaje en los gastos operavos. Él debe decidir dónde realizar ajustes para el próximo mes, ¿qué po de toma de decisiones está realizando?",
+  "respuesta": "Reactiva"
+ },
+ {
+  "pregunta": "Hugo tiene una empresa de venta de insumos eléctricos y debe reemplazar su proveedor de cables. ¿Qué tipo de decisión le recomendás tomar?",
+  "respuesta": "Estratégicas"
+ },
+ {
+  "pregunta": "Javier ene algunas hipótesis sobre cuáles son las causas que originan la pérdida de compevidad en las ventas de sus productos. Para validarlas, recurre a la información cuantava de sus registros ¿Actúa correctamente?",
+  "respuesta": "Sí, la información cuantava permite validar hipótesis."
+ },
+ {
+  "pregunta": "Javier es CEO de una Consultora y debe decidir sobre el presupuesto publicitario de la organización para el año venidero. ¿Qué tipo de decisión le recomendás tomar?",
+  "respuesta": "Estratégicas"
+ },
+ {
+  "pregunta": "Javier tiene una consultora de recursos humanos y se encuentra ante el problema de no poder cumplir con los procesos de selección que le encargan mensualmente sus clientes. ¿Qué etapas y en que orden debe abordar la resolución de su problema?",
+  "respuesta": "Análisis; Identificación; Recolección"
+ },
+ {
+  "pregunta": "Jorge es CEO de una compañía de riesgos y debe decidir sobre una refuncionalización del área ¿Qué tipo de decisiones le recomendás tomar?",
+  "respuesta": "Estratégicas"
+ },
+ {
+  "pregunta": "Jorge es jefe de una cadetería, pero ene problemas con los repartos, ya que los clientes se quejan de que no llegan en empo y forma. ¿Basado en qué atributo debe tomar una decisión sobre sus repardores?",
+  "respuesta": "Eficiencia"
+ },
+ {
+  "pregunta": "Jorge tiene que tomar una decisión importante en su trabajo y decide hacerlo basado en su experiencia y su instinto. ¿Cuál es el costo de oportunidad que puede llegar a asumir?",
+  "respuesta": "Incurrir en pérdida de prestigio reputacional; Incurrir en pérdidas económicas; No tomar la decisión correcta"
+ },
+ {
+  "pregunta": "Jorge tiene un negocio local y contrató una agencia de publicidad para lograr interesados en sus productos pero esta no logra generar la cantidad de prospectos que Jorge necesita para subsisitir. ¿Basada en qué atributo Jorge debe tomar una nueva decisión sobre su proveedor?",
+  "respuesta": "Eficacia"
+ },
+ {
+  "pregunta": "Jorgelina tiene una heladería y se encuentra analizando cambiar de local debido a que la demanda de sus productos superaron ampliamente sus expectativas ¿Qué tipo de decisión deberá afrontar Jorgelina?",
+  "respuesta": "Estratégicas"
+ },
+ {
+  "pregunta": "José es jefe de productos de una reconocida firma financiera y debe decidir el lanzamiento de un nuevo producto para el año próximo. ¿Qué po de decisión estará afrontando José?",
+  "respuesta": "Estratégicas"
+ },
+ {
+  "pregunta": "José tiene una marroquinería y debe decidir sobre la utilidad que le dará a unos recortes de cuero que le quedan como sobrantes de una producción de camperas. Él puede hacer billeteras o posa vasos. ¿Sobre qué atributo deberá basarse para tomar la mejor decisión?",
+  "respuesta": "Costo de Oportunidad"
+ },
+ {
+  "pregunta": "Juan Carlos es jefe del área legal de una empresa de venta de soware que se encuentra en plena expansión. Él debe decidir sobre la resolución de algunos ligios con un marcado orden de prioridad. ¿Qué herramienta de planificación será oportuna que ulice?",
+  "respuesta": "Diagrama de Gan."
+ },
+ {
+  "pregunta": "Juan José tiene una ferretería que se encuentra con problemas de liquidez.Él cree que esto es debido a la falta de pago de clientes a los cuales ha fiado a lo largo de los últimos 5 años ¿Qué herramienta estadística le recomendás que utilice para evaluar su hipótesis a lo largo del tiempo?",
+  "respuesta": "Gráfico de tendencias"
+ },
+ {
+  "pregunta": "Juan necesita recolectar información sobre una problemáca en la que vienen trabajando (no logran cumplir con sus objevos de venta). Para ello, realiza una reunión de trabajo con su equipo. ¿Es adecuada esta herramienta?",
+  "respuesta": "Sí, la reunión de trabajo es oportuna para la etapa de recolección de información."
+ },
+ {
+  "pregunta": "Julia administra un coworking y debe decidir sobre ampliar la capacidad del mismo para albergar más locatarios ¿Qué tipo de decisión se encontrará afrontando?",
+  "respuesta": "Estratégicas"
+ },
+ {
+  "pregunta": "Julia es jefa de producción de una empresa de alimentos, surgieron problemas con los empos de entrega entre las líneas de producción. Ella se reunirá con los principales responsables de cada una de las líneas. ¿Qué consejo le darías para la detección del problema durante su entrevista?",
+  "respuesta": "Escuchar"
+ },
+ {
+  "pregunta": "Julio es coordinador de ventas de una organización y cree tener una técnica ideal para desarrollar alternativas. Ella es B&S ¿Con qué otro nombre se conoce esta técnica?",
+  "respuesta": "Brainwriting"
+ },
+ {
+  "pregunta": "La entrevista es uno de los métodos principales para la instancia de selección de alternativas",
+  "respuesta": false
+ },
+ {
+  "pregunta": "La importancia es un concepto asociado al siguiente atributo de una situación:",
+  "respuesta": "Consecuencias"
+ },
+ {
+  "pregunta": "La responsable del Área de Recursos Humanos ene que realizar entrevistas para detectar por qué su equipo de trabajo no rinde según lo esperado. Tenía previsto realizar entrevistas de 30 minutos, pero, en todos los casos, con 5 minutos fue suficiente. ¿Es correcto no seguir profundizando?",
+  "respuesta": "No, es conveniente profundizar ya que el 90% de las causas suelen estar ocultas según la analogía del iceberg."
+ },
+ {
+  "pregunta": "La toma de decisiones racional es la toma de decisiones que se toma con la razón, es decir, con la intuición y la experiencia del decisor",
+  "respuesta": false
+ },
+ {
+  "pregunta": "La urgencia es un concepto asociado al siguiente atributo de una situación:",
+  "respuesta": "Tiempo"
+ },
+ {
+  "pregunta": "Las decisiones que se toman en los mandos medios de la organización son decisiones estratégicas.",
+  "respuesta": false
+ },
+ {
+  "pregunta": "Las decisiones que se toman en los mandos medios de una empresa son:",
+  "respuesta": "Tácticas"
+ },
+ {
+  "pregunta": "Liderás un equipo de logísca y te encontrás recolectando información sobre un problema que encontraste en el centro de distribución de productos. Solo hay tres empleados y ya los entrevistaste en profundidad. ¿Es recomendable entrevistar también a los clientes?",
+  "respuesta": "Sí, se puede entrevistar a los clientes para buscar el foco del problema."
+ },
+ {
+  "pregunta": "Lucas ene un problema que desea analizar, para ello debe ulizar la información cualitava.",
+  "respuesta": false
+ },
+ {
+  "pregunta": "Lucas ene una vinoteca y, al abrir su enda un día sábado, se encuentra con que no ene luz. Debe tomar una decisión para poder brindarle suministro eléctrico a su local. ¿En qué cuadrante de la matriz de covey se encuentra esta decisión?",
+  "respuesta": "Cuadrante 1"
+ },
+ {
+  "pregunta": "Lucas es analista de recursos humanos y le resulta dicil cumplir con las evaluaciones psicotécnicas que le requiere su jefe. Para iniciar la resolución de su situación alcanza con recolectar datos de diferentes evaluaciones.",
+  "respuesta": false
+ },
+ {
+  "pregunta": "Lucas es director de una organización que realiza comercialización de productos al menudeo y tiene operaciones en todo LATAM….",
+  "respuesta": "ERP"
+ },
+ {
+  "pregunta": "Lucas es el jefe de Calidad de una empresa financiera y se encuentra tomando una decisión sobre la contratación de un proveedor para un proyecto a su cargo. El criterio econónimo es el más relevante para la organización…",
+  "respuesta": true
+ },
+ {
+  "pregunta": "Lucas es el jefe de producción de una fábrica de piletas de lona y debe decidir sobre cómo organizar los francos de la semana próxima. ¿Qué tipo de decisión se encuentra afrontando?",
+  "respuesta": "Operativa; Tácticas"
+ },
+ {
+  "pregunta": "Lucas es Jefe de Calidad de una empresa financiera y se encuentra tomando una decisión sobre la contratación de un proveedor para un proyecto a su cargo. El criterio económico es el más relevante para la organización, motivo por el cual es correcto que decida la alternativa menos onerosa para la organización.",
+  "respuesta": true
+ },
+ {
+  "pregunta": "Lucas es jefe de producción y tiene que resolver el reemplazo de uno de los operadores del turno mañana.¿Qué tipo de Toma de Decisiones le recomendás tomar?",
+  "respuesta": "Operativas"
+ },
+ {
+  "pregunta": "Lucas pertenece a un equipo de trabajo en el que hubo varios conflictos interpersonales debido a una injusta distribución de la carga laboral. A él le gustaría comprobar esta sensación que existe en el equipo, por lo que le gustaría clasificar lo que cada uno de los integrantes hace en su gestión diaria. ¿En qué S de las 5S de calidad está haciendo hincapié?",
+  "respuesta": "Seiri"
+ },
+ {
+  "pregunta": "Lucas pertenece a un equipo de trabajo en el que hubo varios conflictos interpersonales debido a una injusta distribución de la carga laboral. En un relevamiento de actividades, él se dio cuenta que muchas de ellas eran innecesarias de llevar a cabo. ¿En qué S de las 5S de calidad está haciendo hincapié?",
+  "respuesta": "Seiso"
+ },
+ {
+  "pregunta": "Lucas pertenece a un equipo de trabajo en el que hubo varios conflictos interpersonales debido a una injusta distribución de la carga laboral. Luego de resueltas las diferencias, a él le interesa que las nuevas decisiones sobre las distribuciones de tareas se respeten a lo largo del tiempo. ¿En qué S de las 5S de calidad está haciendo hincapié?",
+  "respuesta": "Shitsuke"
+ },
+ {
+  "pregunta": "Lucas tiene que enviar una cotización de servicios a potenciales clientes. Para ello, dispone de un listado de emails… ¿Cuenta con información suficiente?",
+  "respuesta": "Lucas cuenta con la información suficiente"
+ },
+ {
+  "pregunta": "Lucía es gerente de marketing de una empresa que fabrica y vende camperas de cuero y quiere analizar los resultados de las últimas campañas comerciales….¿Qué tipo de herramienta le sugerís que utilice para el adecuado análisis de su actividad?",
+  "respuesta": "ERP; Objetivos SMART"
+ },
+ {
+  "pregunta": "Luis es gerente de una cadena de comidas rápidas y tomó la decisión de modificar la distribución de la operava de preparación de comida y, para ello, hizo parte de la decisión a su equipo de trabajo. ¿Qué po de beneficio secundario pensás que tendrá Juan en su equipo de trabajo?",
   "respuesta": "Implementación"
  },
  {
-  "pregunta": "Selecciona la respuesta correcta. El Planning Póker sirve para",
-  "respuesta": "Planificar"
+  "pregunta": "Nahuel se encuentra cursando una maestría en administración de negocios y no aprobó sus últimos dos exámenes. Sabe que el motivo de dichos resultados es que no está encontrando tiempo para estudiar y se reorganizó de manera tal que podrá hacerlo con una mayor extensión a lo largo de su jornada. ¿En qué etapa del ciclo de resolución de problemas se encuentra?",
+  "respuesta": "Ejecución de la solución"
  },
  {
-  "pregunta": "Selecciona la respuesta correcta. Las dinámicas de alta colaboración ayudan a:",
-  "respuesta": "Generar mejores resultados al recoger todos los puntos de vista, reducir la influencia de unos pocos, y fomentar la participación."
- },
- {
-  "pregunta": "Selecciona la respuesta correcta. Un estudio formal de viabilidad probablemente contenga:",
-  "respuesta": "Estimación del tiempo para cada número de alternativas del proyecto."
- },
- {
-  "pregunta": "Somos consultores independientes y nos contratan para documentar las especificaciones de procesos. ¿Qué se busca con esto?",
-  "respuesta": "Reducir la ambigüedad del proceso."
- },
- {
-  "pregunta": "Son correctos los controles sobre las endades de información, archivos de datos, pantallas, transacciones.",
+  "pregunta": "Para favorecer una mirada crítica en una instancia creativa de toma de decisiones, es adecuado que al menos un interlocutor \"tenga puesto\" su sombrero negro.",
   "respuesta": true
  },
  {
-  "pregunta": "Tengo un proyecto de urgencia, por solicitud de la directiva de la empresa, debo estudiar el comportamiento y características del sistema, sin que el área esté enterada de este análisis, ¿qué tipo de observación es?",
-  "respuesta": "Observación Oculta"
- },
- {
-  "pregunta": "Toda limitación que impida aplicar las normas, se considera una reserva de alcance",
+  "pregunta": "Para favorecer una mirada táctica en una instancia creativa de toma de decisiones es adecuado que al menos un interlocutor \"tenga puesto\" su sombrero negro.",
   "respuesta": true
  },
  {
-  "pregunta": "Trabajas en una empresa que se dedica a la distribución de libros y tu puesto es de analista de sistemas. El gerente nos pregunta, ¿que buscamos con la elaboración de prototipos?",
-  "respuesta": "Las reacciones del usuario hacia el nuevo sistema"
- },
- {
-  "pregunta": "Un actor tiene la siguiente característica:",
-  "respuesta": "Es interno al sistema"
- },
- {
-  "pregunta": "Un agile coach no tiene que tener una alta competencia técnica",
+  "pregunta": "Para poder avanzar en la identificación del problema, debemos utilizar técnicas de recolección de datos.",
   "respuesta": true
  },
  {
-  "pregunta": "Un Auditor debe tener diferencias con sus clientes, para lograr beneficios",
+  "pregunta": "Paula es abogada y resolvió el problema de clima que tenía en su equipo de trabajo redefiniendo las tareas que cada una de sus secretarias ejecutaba. Pero, en el úlmo empo, la necesidad de responder con urgencia la gran candad de demandas que ingresaron al estudio, obligó a que los conflictos reaparecieran. ¿Qué etapa del ciclo de vida de resolución de problemas debe aplicar?",
+  "respuesta": "Control de la solución"
+ },
+ {
+  "pregunta": "Paula es jefa de recursos humanos de una empresa de exportación y debe pensar en un plan creativo para que los colaboradores de la empresa mejoren el clima interno de la organización ¿Cuál de las siguientes metodologías le sugerís que utilice para lograr alternativas creativas?",
+  "respuesta": "Design Thinking"
+ },
+ {
+  "pregunta": "Paula es jefa de recursos humanos de una empresa de exportación y debe pensar en un plan creativo para que los colaboradores de la empresa mejoren el clima interno de la organización. ¿Cuál de las siguientes metologías le sugerís que utilice para lograr alternativas creativas?",
+  "respuesta": "Design Thinking; Objetivos SMART"
+ },
+ {
+  "pregunta": "Paula tiene que resolver un problema de clima laboral en su equipo de trabajo y, para ello, tiene datos aislados de \ndiferentes insatisfacciones manifestadas por sus colaboradores. Con esta información es suficiente para analizar el \nproblema.",
   "respuesta": false
  },
  {
-  "pregunta": "Un auditor puede negarse a continuar con sus servicios, si el auditado no acata sus sugerencias.",
+  "pregunta": "Pedro es selector de recursos humanos y ene como cliente a una empresa de alimentos. Tiene que decidir sobre una nueva posición y como candidatos ene una incorporación externa o ascender a un empleado de la propia empresa. Ambos enen las mismas capacidades para el puesto. ¿Sobre qué atributo deberá basarse para tomar la mejor decisión?",
+  "respuesta": "Costo de Oportunidad"
+ },
+ {
+  "pregunta": "Resolver problemas busca retomar el camino del cumplimiento de objetivos",
   "respuesta": true
+ },
+ {
+  "pregunta": "Roberto es jefe de producción y, ante la ausencia de uno de sus operarios, debe decidir a quién poner en su reemplazo. ¿Qué po de decisión estará afrontando Roberto?",
+  "respuesta": "Operativa"
+ },
+ {
+  "pregunta": "Se debe evitar la realización de entrevistas en la etapa de identificación del problema, ya que es una instancia muy prematura para darle participación al equipo de trabajo y podría generar preocupaciones y ocupaciones innecesarias en la estructura.",
+  "respuesta": false
+ },
+ {
+  "pregunta": "Selecciona las 2 (dos) opciones correctas. Juan se encuentra recolectando información para profundizar sobre el problema de incumplimiento de los estándares de calidad. Para ello, ¿qué técnicas debe utilizar?",
+  "respuesta": "5 Porqués; Diagrama de Ishikawa"
+ },
+ {
+  "pregunta": "Selecciona las 2 (dos) opciones correctas. Lucas se encuentra en el proceso de resolución de problemas para el área en la que trabaja. Para iniciar la etapa de elección de alternativas realizará una reunión con su equipo de trabajo. ¿Cuáles de las siguientes alternativas son recomendaciones válidas para dicha instancia?",
+  "respuesta": "Diseñar la entrevista; Mantener la mente de principiante"
+ },
+ {
+  "pregunta": "Selecciona las 3 (tres) opciones correctas. ¿Cuáles de los siguientes recursos nos ayudarán a la etapa inicial de identificación de un problema?",
+  "respuesta": "El diagrama de Ishikawa; El método de los 5 por qué; La entrevista"
+ },
+ {
+  "pregunta": "Selecciona las 3 (tres) opciones correctas. Karina es representante en el cono sur de una institución educativa y debe proponerle a la junta directiva de dicha institución una proyección del nivel de actividad para fijar su nuevo presupuesto anual. ¿Cuáles de estas herramientas son recomendables para el análisis estadístico que debe realizar?",
+  "respuesta": "Gráfico circular; Gráfico de tendencias; Histograma"
+ },
+ {
+  "pregunta": "Si los objevos siguen sin cumplirse, entonces debemos regresar a la etapa de análisis.",
+  "respuesta": true
+ },
+ {
+  "pregunta": "Sol es jefa de administración de un supermercado y debe decidir sobre la cantidad de caja a abrir durante el turno mañana. ¿Qué tipo de decisión le recomendás tomar?",
+  "respuesta": "Operativas"
+ },
+ {
+  "pregunta": "Sos Jefe de calidad de un call center y necesitás incorporar una herramienta que te permita mejorar la calidad de atención y la gestión de pedidos de tus clientes internos y externos ¿Qué herramienta considerás aconsejable utilizar para tener éxito en este desafío?",
+  "respuesta": "ERP"
+ },
+ {
+  "pregunta": "Te encontrás recolectando información para conocer cuáles son las causas de un problema. Para ello, deberás realizar entrevistas a tus colaboradores y\/o equipo de trabajo.",
+  "respuesta": true
+ },
+ {
+  "pregunta": "Te encontrás recolectando información para conocer cuáles son las causas de un problema. Para ello, deberás realizar estudios de mercado.",
+  "respuesta": false
+ },
+ {
+  "pregunta": "Tenés un problema que deseás analizar. Para ello, deberás emplear la información cuantava.",
+  "respuesta": true
+ },
+ {
+  "pregunta": "Teniendo en cuenta el tenor de las consecuencias de una toma de decisión, ¿Sobre qué paradigma debés concentrarte para tomar decisiones con mayor productividad?",
+  "respuesta": "Importancia"
+ },
+ {
+  "pregunta": "Teniendo en cuenta el tiempo disponible para llevar a cabo una toma de decisión, ¿Sobre qué paradigma está decidiendo una persona que no se planifica adecuadamente?",
+  "respuesta": "Urgencia"
+ },
+ {
+  "pregunta": "Trabajamos en atención al cliente y debemos comunicarnos con clientes disconformes con el servicio de la empresa. Para hacerlo, disponemos de un listado de direcciones de emails. ¿Contamos con lo necesario para cumplir el objetivo?",
+  "respuesta": "No, los datos no son suficientes"
+ },
+ {
+  "pregunta": "Un invesgador se encuentra en la instancia de recolección de información y está ulizando una tabla de priorización de soluciones. ¿Es adecuado el uso de esta herramienta?",
+  "respuesta": "No, la matriz de priorización solo es adecuada para la etapa de selección."
+ },
+ {
+  "pregunta": "Un problema del funcionamiento de nuestro cuerpo es considerado un ejemplo de problema laboral.",
+  "respuesta": false
+ },
+ {
+  "pregunta": "Una administrava de una empresa sabe que ene un problema: no logra responder los emails de consultas a empo. ¿Qué etapa del ciclo de vida de resolución de problemas debe aplicar?",
+  "respuesta": "Recolección de información"
+ },
+ {
+  "pregunta": "Una encargada de la administración de un supermercado no logra conseguir que los empleados ingresen en horario ya que hace años lo hacen de esa manera. ¿Qué po de problema ene?",
+  "respuesta": "Laboral de cultura"
+ },
+ {
+  "pregunta": "Una toma de decisiones producva y eficaz se centra en lograr el ópmo equilibrio costo-beneficio ante cada nueva situación que demande implementar el proceso de toma de decisiones.",
+  "respuesta": false
+ },
+ {
+  "pregunta": "Uno de los principios básicos de la toma de decisiones es centrarse en la situación puntual y particular de los aspectos relativos a la situación que necesitás resolver (o prever), abstrayéndote de su contexto para no distraer tu decisión.",
+  "respuesta": false
  }
 ]
