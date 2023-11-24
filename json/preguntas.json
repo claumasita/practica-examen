@@ -1,466 +1,298 @@
 [
  {
-  "pregunta": "¿Con cuáles de las siguientes etapas se inicia la resolución de un problema?",
-  "respuesta": "Idenficación y recolección."
+  "pregunta": "¿Cómo debemos renderizar componentes React utilizando ReactDOM?",
+  "respuesta": "Debemos renderizar los componentes invocando al método ReactDOM.render()."
  },
  {
-  "pregunta": "¿Cuál de las siguientes herramientas nos permitirá obtener información confiable para el análisis de causas y para la evaluación de los resultados obtenidos?",
-  "respuesta": "ERP"
+  "pregunta": "¿Cómo podemos integrar estilos CSS en archivos externos en las aplicaciones React?",
+  "respuesta": "Debemos crear archivos CSS y luego importarlos utilizando import junto al archivo CSS ocupado."
  },
  {
-  "pregunta": "¿Cuál de los siguientes atributos, relacionados con el empo, estará fomentando una persona que toma sus decisiones sin planificar oportunamente?",
-  "respuesta": "Urgencia"
+  "pregunta": "¿Cuál de las siguientes afirmaciones describe correctamente una aplicación de servidor (backend)?",
+  "respuesta": "Una aplicación de backend se encarga de procesar las solicitudes de los usuarios y realizar operaciones en la base de datos"
  },
  {
-  "pregunta": "¿Cuál de los siguientes es uno de los beneficios directos del uso de los mapas mentales?",
-  "respuesta": "Resumir ideas"
+  "pregunta": "¿Cuál de los siguientes métodos se utiliza para eliminar todas las claves y valores almacenados en WebStorage?",
+  "respuesta": "Clear()"
  },
  {
-  "pregunta": "¿Cuál de los siguientes tipos de gráficos propondrías al analizar la evolución en el tiempo de una variable determinada en relación a otra durante el proceso de toma de decisiones?",
-  "respuesta": "Histograma"
+  "pregunta": "¿Cuál es el objetivo principal de las promesas en JavaScript?",
+  "respuesta": "Manejar flujos de código legibles y evitar anidamiento excesivo de callbacks"
  },
  {
-  "pregunta": "¿Cuáles de las siguientes opciones deben considerarse como elementos de un problema a la hora de intentar solucionarlos?",
-  "respuesta": "Hipótesis - Incógnitas"
+  "pregunta": "¿Cuál es el propósito principal de la función fetch() en JavaScript?",
+  "respuesta": "Realizar peticiones de red desde un navegador web"
  },
  {
-  "pregunta": "¿Cuáles son las 2 herramientas recomedadas para la instancia de identificación de problemas?",
-  "respuesta": "Entrevista - Tabla de Preguntas"
+  "pregunta": "¿Cuál es el propósito principal del modelo cliente-servidor en el contexto de intercambio de información a través de Internet?",
+  "respuesta": "Iniciar la comunicación mediante una petición del cliente y una respuesta del servidor."
  },
  {
-  "pregunta": "¿Cuándo se puede decir que se es eficaz en una toma de decisiones?",
-  "respuesta": "Logra resolver la situación problemáca."
+  "pregunta": "¿Cuál es el propósito principal del panel de grabación de DevTools en el contexto del desarrollo web?",
+  "respuesta": "Facilitar la grabación y reproducción de interacciones del usuario en una página web."
  },
  {
-  "pregunta": "¿De qué manera se clasifican las decisiones que tienen en cuenta la trascendecia organizacional?",
-  "respuesta": "Operativas"
+  "pregunta": "¿Cuál es la definición correcta para Styled Components?",
+  "respuesta": "Styled Components permite definir estilos directamente en los componentes de React utilizando una sintaxis similar a CSS."
  },
  {
-  "pregunta": "¿En qué instancia nos será de utilidad identificar y ponderar los criterios de decisión importantes para la organización en la cual estamos tomando una decisión?",
-  "respuesta": "Selección"
+  "pregunta": "¿Cuál es la diferencia fundamental entre una librería y un framework en el contexto de JavaScript?",
+  "respuesta": "Las librerías son conjuntos de funciones predefinidas, mientras que los frameworks son estructuras integrales que proporcionan una arquitectura y un conjunto de herramientas para desarrollar aplicaciones completas."
  },
  {
-  "pregunta": "¿Para qué tipo de situaciones es recomendable la toma de decisiones racional?",
-  "respuesta": "Estratégicas"
+  "pregunta": "¿Cuál es la forma en la cual se comporta el renderizado condicional cuando lo aplicamos en un proyecto de React JS?",
+  "respuesta": "Podemos implementar un renderizado utilizando el operador ternario o la cláusula if - else"
  },
  {
-  "pregunta": "¿Qué herramienta propondrías para analizar la evolución en el empo de una variable determinada en relación con otra durante el proceso de toma de decisiones?",
-  "respuesta": "Histograma"
+  "pregunta": "¿Cuál es la función de las props en React JS?",
+  "respuesta": "Las props son utilizadas para pasar datos de un componente padre a un componente hijo."
  },
  {
-  "pregunta": "¿Qué herramientas propondrías para el desarrollo de la generación de alternavas ante una situación sobre la que debés tomar una decisión?",
-  "respuesta": "Mapas mentales"
+  "pregunta": "¿Cuál es una característica de Styled Components en React JS?",
+  "respuesta": "Proporciona una sintaxis similar a CSS para definir estilos en los componentes"
  },
  {
-  "pregunta": "A Javier le resulta difícil alcanzar el indicador de satisfacción del cliente, de su tablero de control de gestión, en su área de finanzas del banco \"Tu Futuro\". ¿Qué primeras etapas deberá transitar para su resolución?",
-  "respuesta": "Análisis"
+  "pregunta": "¿Cuál es una limitación de los archivos JSON?",
+  "respuesta": "Los archivos JSON no pueden ser escritos o modificados fácilmente."
  },
  {
-  "pregunta": "A la hora de evaluar alternavas de acción, algunos de los criterios a tener en cuenta son:",
-  "respuesta": "Visión organizacional; Tiempo; Costo de inversión"
+  "pregunta": "¿Cuál es una ventaja de utilizar Arrow functions en JS?",
+  "respuesta": "Pueden prescindir de las llaves de bloque y la palabra reservada return."
  },
  {
-  "pregunta": "A nivel genérico, existen cuatro pos de tomas de decisiones: proacva, intermedia, racional y reacva.",
+  "pregunta": "¿Cuáles son algunos de los beneficios de utilizar Selenium WebDriver para la automatización de pruebas en aplicaciones web?",
+  "respuesta": "“Multiplataforma”, “Compatibilidad con múltiples navegadores”, y “Amplia comunidad y soporte”"
+ },
+ {
+  "pregunta": "¿Cuáles son los posibles valores que un componente recibe como argumentos?",
+  "respuesta": "Props"
+ },
+ {
+  "pregunta": "¿Por qué es conveniente utilizar arrow functions en lugar de funciones convencionales en JS?",
+  "respuesta": "Porque los frameworks y librerías JS modernos promueven su uso."
+ },
+ {
+  "pregunta": "¿Qué bloque se utiliza para envolver el código que podría generar una excepción o error?",
+  "respuesta": "Try"
+ },
+ {
+  "pregunta": "¿Qué práctica es esencial para el monitoreo y mantenimiento efectivo de las pruebas automatizadas en aplicaciones web frontend?",
+  "respuesta": "Revisar periódicamente los informes de prueba generados"
+ },
+ {
+  "pregunta": "¿Qué proceso realiza un array para crecer o decrecer la cantidad de elementos que almacena?",
+  "respuesta": "Utiliza sus métodos (push, shift, pop, unshift) para agregar o eliminar elementos del array."
+ },
+ {
+  "pregunta": "async function ejecutarInstruccion() {await tareaAsincronica();}",
+  "respuesta": "LA FUNCION ASINCRONICA ejecutarintruccion() SE EJECUTA Y ESPERA QUE LA FUNCION tareaAsibcronica() TERMINE PARA SEGUIR EJECUTANDO EL RESTO DEL CODIGO ASOCIADO"
+ },
+ {
+  "pregunta": "const carrito = [\"Elemento 1\", \"Elemento 2\", \"Elemento 3\" ]",
+  "respuesta": "EL CICLO FOR ES INCORRECTO Y NO ITERARA EL ARRAY"
+ },
+ {
+  "pregunta": "const copetes = document.querySelectorAll(\"p#copete-noticia\")",
+  "respuesta": "RETORNA UNA COLECCIÓN DE ELEMENTOS QUE CUMPLAN CON EL CRITERIO INDICADO EN EL METODO"
+ },
+ {
+  "pregunta": "Cuál de las siguientes afirmaciones es correcta en relación con el uso de Axios y Fetch en React para interactuar con APIs?",
+  "respuesta": "Son librerías externas que permiten interactuar con servicios externos a través de una API en una aplicación React"
+ },
+ {
+  "pregunta": "Cual es el alcance del lenguaje de programación JavaScript?",
+  "respuesta": "PERMITE CREAR APLICACIONES IOT – PERMITE CREAR APLICACIONES MOVILES NATIVAS – PERMITE CREAR APLICACIONES WEB BACKEND – PERMITE CREAR APLICACIONES WEB FRONTEND"
+ },
+ {
+  "pregunta": "Cuál es el código de estado de una respuesta HTML que indica un éxito en la petición?",
+  "respuesta": 200
+ },
+ {
+  "pregunta": "Cuál es el propósito del método cath() en las promesas JavaScript?",
+  "respuesta": "CONTROLAR ERRORES Y MANEJAR EL RECHAZO DE UNA PROMESA"
+ },
+ {
+  "pregunta": "Cual es la finalidad de la función <activarClickEnBotonesEliminar()>?",
+  "respuesta": "ASIGNAR EL EVENTO CLICK A LOS BOTONES ELIMINAR DE LA TABLA PARA ELIMINAR PRODUCTOS"
+ },
+ {
+  "pregunta": "Cual es la herramienta mas adecuada para generar bloques de HTML dinámicos e interactivos?",
+  "respuesta": "Template string"
+ },
+ {
+  "pregunta": "Cual es una forma obsoleta de manejar eventos en JavaScript?",
+  "respuesta": "Atributos ON"
+ },
+ {
+  "pregunta": "Cuáles son las ventajas de utilizar el paradigma de Programación Orientada a Objetos (POO)?",
+  "respuesta": "Facilita la representación de objetos del mundo real.- Permite una organización más estructurada y ordenada del código.- Promueve la reutilización de código.- Simplifica la comprensión y el mantenimiento del código."
+ },
+ {
+  "pregunta": "Cuáles son las ventajas de utilizar peticiones fetch() basadas en promesas JS?",
+  "respuesta": "Compatibilidad – Interoperabilidad – Simplicidad"
+ },
+ {
+  "pregunta": "Cuáles son los métodos de acceso convencionales utilizados en JavaScript para conectarse a elementos HTML?",
+  "respuesta": "GetElementById – getElementsByClassName – getElementsByTagName"
+ },
+ {
+  "pregunta": "Cuales son los tipos de funciones que se pueden definir en JavaScript?",
+  "respuesta": "FUNCIONES CON PARAMETROS – FUNCIONES CON RETORNOS – FUNCIONES SIMPLES"
+ },
+ {
+  "pregunta": "Cuando creamos un componente de clase en react, este tiene un método obligatorio. El mismo se llama:",
+  "respuesta": "render()"
+ },
+ {
+  "pregunta": "Cuando definimos una función asincrónica con JavaScript, podemos aplicar una cláusula que permite esperar la ejecución de determinadas tareas que pueden durar un tiempo indeterminado. Identifica cuál es el nombre de la cláusula que nos referimos:",
+  "respuesta": "await function(...)"
+ },
+ {
+  "pregunta": "Cuando hablamos de intercambiar información o datos con un servidor, este procedimiento se realiza utilizando un formato de transporte estandarizado. Dentro de los formatos más populares de transporte, encontramos a:",
+  "respuesta": "XML y JSON"
+ },
+ {
+  "pregunta": "Cuando hablamos de utilizar estilos en línea dentro de los componentes React, ¿de qué forma debemos definir los estilos CSS para luego aplicarlos en un componente?",
+  "respuesta": "Definiendo un objeto literal."
+ },
+ {
+  "pregunta": "Cuando utilizamos las cláusulas try - catch - finally, podemos definir una estructura de ejecución que controle cualquier error posible. Más allá del control generado en el código, una de las cláusulas puede ser obviada en el uso cotidiano del control de ejecución. A continuación, identificar cuál es esta última cláusula:",
+  "respuesta": "Finally"
+ },
+ {
+  "pregunta": "Cuando utilizamos promesas JS para definir tareas asíncronas, junto al objeto promise utilizamos los métodos de control que nos permiten definir qué hacer ante determinadas situaciones. Estos métodos de control son:",
+  "respuesta": "Then, Catch, Finally"
+ },
+ {
+  "pregunta": "Cuando utilizamos Template Literals dentro de bloques de código HTML definidos como Template Strings,¿cuál es la forma correcta de mostrar el contenido de la variable, constante u objeto literal en HTML?",
+  "respuesta": "Utilizando comilla invertida o backtick para intercalar el elemento literal \"<p>${resultado}<\/p>\""
+ },
+ {
+  "pregunta": "Debemos conectarnos a todos los bloques <div> que poseen la clase CSS div-card, con el objetivo de agregarle una nueva clase CSS utilizando classList.add(). Para poder realizar este proceso, necesitamos crear una colección de elementos <div> que posean la clase CSS mencionada.¿Cuál es el código apropiado para dicha tarea?",
+  "respuesta": "“const divCards = document.querySelectorAll(‘div.div-card’)”"
+ },
+ {
+  "pregunta": "Dentro de un tag <ul> debemos agregar las diferentes categorías de productos, almacenadas en un array de elementos llamado categorías. Para ello, crearemos un elemento listItem por cada categoría.¿Cuál es la forma correcta de realizar esta tarea?",
+  "respuesta": "const li = \"<li>${categoría}<\/li>\" seguido de ul.innerHTML += li"
+ },
+ {
+  "pregunta": "Disponemos de varias cards HTML que muestran productos en pantalla. Cada una de estas cards posee un tag que permite agregar el producto a un carrito de compras. Al pulsar el botón de cualquiera de estas cards, evento “click”, necesitamos que el mismo genere una animación prearmada en una clase CSS genérica.¿De qué forma podríamos incluir la clase CSS al momento de hacer click sobre el botón HTML?",
+  "respuesta": "button.className += ‘ animacion-css-button’; button.classList.add(‘animacion-css-button’)"
+ },
+ {
+  "pregunta": "divCard.classList.toggle ( \"card-selected\" )",
+  "respuesta": "AGREGARA LA CLASE CSS DENOMINADA <card-selected>"
+ },
+ {
+  "pregunta": "El evento JavaScript “hashchange” nos permite gestionar",
+  "respuesta": "La detección del cambio de URL sirviendo contenido."
+ },
+ {
+  "pregunta": "El objeto promise es una herramienta que nos permite crear objetos asíncronos. El mismo posee tres posibles estados. Estos son:",
+  "respuesta": "Fulfilled, pending, rejected."
+ },
+ {
+  "pregunta": "En el siguiente fragmento de código, identificar la función utilizada para detener la ejecución de una tarea que se repite cada 1000 milisegundos:",
+  "respuesta": "clearInterval"
+ },
+ {
+  "pregunta": "Entendiendo la importancia de cada navegador web y su motor web asociado, el cual se ocupa de interpretar el código (HTML, CSS y JS) descargado desde un sitio web, indicar cuántos intérpretes posee el motor de un navegador web.",
+  "respuesta": "Dos"
+ },
+ {
+  "pregunta": "Estamos trabajando en generar un mapeo de datos sobre los elementos de un array. ¿Qué método de orden superior nos permite realizar esto?",
+  "respuesta": "map"
+ },
+ {
+  "pregunta": "Estamos trabajando en un proyecto de desarrollo web ¿Cuáles son las formas comunes de crear objetos en JavaScript?",
+  "respuesta": "Crear objetos utilizando funciones constructoras.- Utilizar clases de JavaScript para definir la estructura y comportamiento del objeto.- Utilizar un objeto literal para definir directamente las propiedades y métodos del objeto."
+ },
+ {
+  "pregunta": "Estamos trabajando en un proyecto de desarrollo web. ¿Cuáles son las formas comunes de crear objetos en JavaScript?",
+  "respuesta": "Crear objetos utilizando funciones constructoras. - Utilizar clases de JavaScript para definir la estructura y comportamiento del objeto. - Utilizar un objeto literal para definir directamente las propiedades y métodos del objeto."
+ },
+ {
+  "pregunta": "fetch(\"http:\/\/example.com\/movies.json\")",
+  "respuesta": "SU FUNCIONAMIENTO SE BASA EN PROMESAS JS"
+ },
+ {
+  "pregunta": "finally(() => console.warn",
+  "respuesta": "ES OPCIONAL, Y SU CODIGO SE EJECUTARÁ INDISTINTAMENTE SI LA PROMESA SE RESUELVE O ES RECHAZADA"
+ },
+ {
+  "pregunta": "Identificar cuál es la diferencia entre la implementación de state y la implementación de props en una aplicación React JS",
+  "respuesta": "State para permite representar datos y que estos se puedan modificar internamente en un componente, mientras que props posee un estado inmutable, y solo se utiliza para transmitir información."
+ },
+ {
+  "pregunta": "if (usuarioLogueado !=== false)",
+  "respuesta": "OPERADOR DE COMPARACION IMPLICITAMENTE IGUAL A"
+ },
+ {
+  "pregunta": "La definición correcta para un componente react es:",
+  "respuesta": "Crear un fragmento de código reutilizable que permite crear un elemento react."
+ },
+ {
+  "pregunta": "La definición de un componente de clases se realiza con la estructura inicial:",
+  "respuesta": "Class Componente extends Component {...}"
+ },
+ {
+  "pregunta": "Las aplicaciones de una sola página (SPA) se pueden crear únicamente con React JS",
   "respuesta": false
  },
  {
-  "pregunta": "Andrés tiene una consultora de gestión organizacional y debe evaluar un nuevo contrato con un cliente por 5 años ¿Qué tipo de decisión tomará Andrés?",
-  "respuesta": "Estratégicas"
+  "pregunta": "let nombreCompleto = \"Teclab\"",
+  "respuesta": "Camel Case"
  },
  {
-  "pregunta": "Belén es recepcionista de un hotel y su jefe la evaluó de manera insuficiente ya que no alcanzó el puntaje de sasfacción del huésped esperado. En la devolución, su conductor le entregó un detalle de las calificaciones obtenidas y los comentarios detallados. ¿Qué etapa del ciclo de vida de resolución de problemas debe aplicar?",
-  "respuesta": "Análisis de información"
+  "pregunta": "let resultado = 1975 * nro … const resultado = 1975 * nro",
+  "respuesta": "CUANDO EXISTE UNA SEGUNDA FUNCION, ESTA DEPENDE SIEMPRE DE LA DEFINICION DEL RETORNO IMPLICITO"
  },
  {
-  "pregunta": "Betsabe tiene una sandwicheria local y no logra desarrollar un sistema de cadetería que entregue los pedidos en menos de 5 minutos (como lo hace su competencia). ¿Basa en que atributo debe Betsabe tomar una nueva decisión sobre sus cadetes?",
-  "respuesta": "Eficiencia"
+  "pregunta": "let valor = 2103 … console.error(se ha producido un error inesperado)",
+  "respuesta": "NUNCA SE EJECUTARÁ console.error()"
  },
  {
-  "pregunta": "Brenda es jefa de personal de una empresa de servicios y, luego de tomar una decisión radical sobre la administración de legajos, necesita lograr una buena estrategia de implementación ¿Qué consejo le brindarías para hacerlo con éxito?",
-  "respuesta": "Designar responsables."
+  "pregunta": "localStorage.setItem(\"carritoProductos\", carrito)",
+  "respuesta": "LOCALSTORAGE ALMACENARA ERRONEAMENTE EL CARRITO DE PRODUCTOS BAJO LA CLAVE"
  },
  {
-  "pregunta": "Carlos es jefe de Relaciones Institucionales de una empresa que promueve la responsabilidad social y empresaria y debe tomar una decisión en relación a una quita de subsidios ante un recorte económico. ¿Qué atributo tendrá mayor peso en su decisión?",
-  "respuesta": "Prestigio reputacional"
+  "pregunta": "Por que son importantes las herramientas para desarrollador en el navegador web?",
+  "respuesta": "PORQUE PERMITEN EJECUTAR CODIGO JAVASCRIPT EN LA CONSOLA DEL NAVEGADOR"
  },
  {
-  "pregunta": "Cecilia es directora ejecutiva de un grupo de empresas de servicios en Mendoza y está por tomar una decisión estratégica relativa a los beneficios que la agrupación le ofrece a sus socios estratégicos. Ella ya cuenta con información detallada sobre cada una de las alternativas. ¿Qué herramienta es recomendable utilizar para evaluar la factibilidad de sus alternativas?",
-  "respuesta": "Matriz de alternativas"
+  "pregunta": "Que es un PWA (Progresive Web App)?",
+  "respuesta": "UNA APLICACIÓN WEB QUE UTILIZA HTML, CSS Y JAVASCRIPT PARA FUNCIONAR"
  },
  {
-  "pregunta": "Claudia trabaja en una consultora Inmobiliaria y ha implementado una estrategia de venta la cual no ha tenido el resultado que esperaba y ha afectado a sus metas del mes. ¿Qué es lo primero que debe hacer Claudia para mejorar sus ventas para el próximo mes?",
-  "respuesta": "Reiniciar el proceso de toma de decisiones."
+  "pregunta": "Que método de arrays podemos utilizar para verificar si un elemento especifico existe en el array?",
+  "respuesta": "Includes()"
  },
  {
-  "pregunta": "Como líder de un equipo se te presenta un problema con tu grupo de trabajo y, para resolverlo, deberás analizar las causas. ¿Es suficiente con que analices un 20% de ellas?",
-  "respuesta": "No es suficiente, debés analizar todas las causas."
+  "pregunta": "Que método introdujo la librería JQuery para simplificar el intercambio de datos con un servidor en JavaScript?",
+  "respuesta": "AJAX"
  },
  {
-  "pregunta": "Como líder del equipo de sistemas te encontrás recolectando información para profundizar sobre el problema de la falta de soporte a los empleados. Para ello, ¿es correcto que realices entrevistas a tus colaboradores?",
-  "respuesta": "Sí, es una de las tres metodologías sugeridas."
+  "pregunta": "Que son los componentes en React?",
+  "respuesta": "Fragmentos simples de código JavaScript que permiten generar elementos React"
  },
  {
-  "pregunta": "Completa el fragmento con la opción correcta. En el desarrollo de alternativas es adecuado utilizar:",
-  "respuesta": "Mindmeister"
+  "pregunta": "Tenemos el siguiente bloque de código: [{“id”: 1, “nombre”: “Producto 1”, “importe”: 300}, {“id”: 2, “nombre”: “Producto 2”, “importe”: 210}] El mismo representa al siguiente tipo de datos:",
+  "respuesta": "Un array JSON"
  },
  {
-  "pregunta": "Débora es estudiante de un doctorado y debe opmizar su empo de estudio, para ello, decidió organizar mejor su espacio de estudio a los fines de poder hacerlo con mayor prolijidad. ¿En qué cuadrante de la matriz de covey se encuentra esta decisión?",
-  "respuesta": "Cuadrante 2"
+  "pregunta": "Tenemos el siguiente bloque de código: fetch(URL) .then((response)=> response.json) .then((data)=> console.table(data)) En este ejemplo, la palabra o parámetro response, se ocupa de:",
+  "respuesta": "Acarrear toda la respuesta del endpoint peticionado"
  },
  {
-  "pregunta": "Débora es responsable de administración de una empresa de desinfecciones y, ante cambios en los proveedores de hosting web, debe reemplazar la casilla de email a través de la cual se comunica a diario con clientes y proveedores ¿Qué herramienta le recomedás que utilice para tomar decisiones correctas sobre la implementación de este nuevo recurso?",
-  "respuesta": "Mapa de Actores"
+  "pregunta": "Tenemos un HTML el cual posee divs anidados que conforman una Card HTML para visualizar productos en pantalla. Toda esta estructura HTML está almacenada en una constante llamada cardHTML utilizando template literals + string. La forma más efectiva de armar un bloque HTML de múltiples cards en un elemento contenedor, es:",
+  "respuesta": "contenedor.innerHTML += cardHTML"
  },
  {
-  "pregunta": "Durante una reunión de trabajo de recolección de información, Juan utiliza la metodología de los \"5 porqués\". ¿Es adecuado su uso en esta etapa de trabajo?",
-  "respuesta": "Sí, es una de las 3 metodologías sugeridas."
+  "pregunta": "Tenemos una aplicación web con una imagen que representa un carrito de compras. Esta imagen está referenciada en un tag HTML img, y posee una clase CSS denominada img-carrito. Además, cuenta con una referencia llamada imgCarrito en el atributo id. Si debemos referenciar una constante en JavaScript que nos enlace con el tag HTML en cuestión definiendo su atributo id. ¿Cuál es el código correcto para realizar esta tarea?",
+  "respuesta": "\"const btnCarrito = document.querySelector(‘img#imgCarrito’)\""
  },
  {
-  "pregunta": "Eduardo tiene un local de venta de insumos informáticos y debe resolver cómo afrontará sus próximos compromisos financieros. Para ello deberá analizar la evolución de los ingresos y egresos de los últimos 18 meses. ¿Qué herramienta estadística es recomendable que utilice en esta situación?",
-  "respuesta": "Gráfico de tendencias"
- },
- {
-  "pregunta": "El orden de las 5 etapas del Design Thinking son: Empatizar, Definir, idear, prototipar y testear",
+  "pregunta": "Una ventaja de utilizar arrow functions en JavaScript es que se pueden prescindir de las llaves de bloque y la palabra reservada return en determinados casos.",
   "respuesta": true
- },
- {
-  "pregunta": "El responsable del área de contabilidad ene que enviar una cozación de servicios a potenciales clientes. Para ello, dispone de un listado de emails con los respecvos nombres de sus clientes y el po de servicio que solicitaron. ¿Cuenta con información suficiente para llevar a cabo su tarea?",
-  "respuesta": "El responsable cuenta con la información suficiente para enviar la cozación."
- },
- {
-  "pregunta": "En la etapa de identificación del problema, es adecuado realizar entrevistas a los colaboradores implicados en las situaciones que pueden encontrarse involucradas.",
-  "respuesta": true
- },
- {
-  "pregunta": "Es adecuado realizar entrevistas a los colaboradores implicados en el problema u oportunidad en la etapa de identificación del problema.",
-  "respuesta": true
- },
- {
-  "pregunta": "Es adecuado utilizar técnicas de recolección de datos o algunas metodologías, como por ejemplo el diagrama de Ishikawa, para poder avanzar en la identificación del problema.",
-  "respuesta": true
- },
- {
-  "pregunta": "Es correcto afirmar que, uno de los principios básicos de la toma de decisiones, es centrarse en el establecimiento de los objetivos relativos a la situación que necesitás resolver (o prever).",
-  "respuesta": true
- },
- {
-  "pregunta": "Es correcto afirmar que, uno de los principios básicos de la toma de decisiones, es centrarse en la situación puntual y particular de los aspectos relativos a la situación que necesitás resolver (o prever), abstrayéndote de su contexto para no distraer tu decisión.",
-  "respuesta": false
- },
- {
-  "pregunta": "Es inadecuado utilizar técnicas de recolección de datos para poder avanzar en la identificación del problema",
-  "respuesta": false
- },
- {
-  "pregunta": "Es posible ser eficiente sin ser eficaz",
-  "respuesta": false
- },
- {
-  "pregunta": "Federico es dueño de una empresa constructora que ene problemas de liquidez. Luego de un análisis detallado descubre que ene un 50% más de herramientas de las que realmente necesita. ¿Qué estrategia o procedimiento le aconsejás que ulice para desarrollar ideas sobre los posibles usos complementarios de las herramientas sobrantes?",
-  "respuesta": "Lluvia de ideas"
- },
- {
-  "pregunta": "Federico es el jefe de cocina de un restaurante y, ante la ausencia de uno de sus cocineros, debe decidir a quién poner en su reemplazo. ¿Qué tipo de decisión estará afrontando Federico?",
-  "respuesta": "Operativa"
- },
- {
-  "pregunta": "Fernando es CEO de una empresa de desinfecciones y durante la úlma semana decidió las cinco iniciavas estratégicas de la empresa para el próximo año. ¿Qué consejo le brindarías para que planifique la implementación de cada una de esas iniciavas?",
-  "respuesta": "Identificar entregables"
- },
- {
-  "pregunta": "Fernando es propietario de una pequeña panadería con fábrica propia. En el úlmo período su nivel de ventas disminuyó rotundamente por lo que se encuentra decidido a implementar una nueva unidad de negocios: El servicio de cafetería con delivery. Además, va a dejar de elaborar algunos productos y va a comprarlos porque es más barato. ¿Qué consejo le brindarías para pensar esta posibilidad?",
-  "respuesta": "Centrarse en objetivos"
- },
- {
-  "pregunta": "Hay una situación incómoda en tu equipo de trabajo y como líder del mismo necesitas saber qué está pasando. ¿Qué harías?",
-  "respuesta": "Entrevistás a los integrantes del equipo para idenficar qué sucede."
- },
- {
-  "pregunta": "Hipótesis, contexto y personas son 3 (tres) de los elementos de un problema.",
-  "respuesta": true
- },
- {
-  "pregunta": "Hugo ene una PyME y ene un desfasaje en los gastos operavos. Él debe decidir dónde realizar ajustes para el próximo mes, ¿qué po de toma de decisiones está realizando?",
-  "respuesta": "Reactiva"
- },
- {
-  "pregunta": "Hugo tiene una empresa de venta de insumos eléctricos y debe reemplazar su proveedor de cables. ¿Qué tipo de decisión le recomendás tomar?",
-  "respuesta": "Estratégicas"
- },
- {
-  "pregunta": "Javier ene algunas hipótesis sobre cuáles son las causas que originan la pérdida de compevidad en las ventas de sus productos. Para validarlas, recurre a la información cuantava de sus registros ¿Actúa correctamente?",
-  "respuesta": "Sí, la información cuantava permite validar hipótesis."
- },
- {
-  "pregunta": "Javier es CEO de una Consultora y debe decidir sobre el presupuesto publicitario de la organización para el año venidero. ¿Qué tipo de decisión le recomendás tomar?",
-  "respuesta": "Estratégicas"
- },
- {
-  "pregunta": "Javier tiene una consultora de recursos humanos y se encuentra ante el problema de no poder cumplir con los procesos de selección que le encargan mensualmente sus clientes. ¿Qué etapas y en que orden debe abordar la resolución de su problema?",
-  "respuesta": "Análisis; Identificación; Recolección"
- },
- {
-  "pregunta": "Jorge es CEO de una compañía de riesgos y debe decidir sobre una refuncionalización del área ¿Qué tipo de decisiones le recomendás tomar?",
-  "respuesta": "Estratégicas"
- },
- {
-  "pregunta": "Jorge es jefe de una cadetería, pero ene problemas con los repartos, ya que los clientes se quejan de que no llegan en empo y forma. ¿Basado en qué atributo debe tomar una decisión sobre sus repardores?",
-  "respuesta": "Eficiencia"
- },
- {
-  "pregunta": "Jorge tiene que tomar una decisión importante en su trabajo y decide hacerlo basado en su experiencia y su instinto. ¿Cuál es el costo de oportunidad que puede llegar a asumir?",
-  "respuesta": "Incurrir en pérdida de prestigio reputacional; Incurrir en pérdidas económicas; No tomar la decisión correcta"
- },
- {
-  "pregunta": "Jorge tiene un negocio local y contrató una agencia de publicidad para lograr interesados en sus productos pero esta no logra generar la cantidad de prospectos que Jorge necesita para subsisitir. ¿Basada en qué atributo Jorge debe tomar una nueva decisión sobre su proveedor?",
-  "respuesta": "Eficacia"
- },
- {
-  "pregunta": "Jorgelina tiene una heladería y se encuentra analizando cambiar de local debido a que la demanda de sus productos superaron ampliamente sus expectativas ¿Qué tipo de decisión deberá afrontar Jorgelina?",
-  "respuesta": "Estratégicas"
- },
- {
-  "pregunta": "José es jefe de productos de una reconocida firma financiera y debe decidir el lanzamiento de un nuevo producto para el año próximo. ¿Qué po de decisión estará afrontando José?",
-  "respuesta": "Estratégicas"
- },
- {
-  "pregunta": "José tiene una marroquinería y debe decidir sobre la utilidad que le dará a unos recortes de cuero que le quedan como sobrantes de una producción de camperas. Él puede hacer billeteras o posa vasos. ¿Sobre qué atributo deberá basarse para tomar la mejor decisión?",
-  "respuesta": "Costo de Oportunidad"
- },
- {
-  "pregunta": "Juan Carlos es jefe del área legal de una empresa de venta de soware que se encuentra en plena expansión. Él debe decidir sobre la resolución de algunos ligios con un marcado orden de prioridad. ¿Qué herramienta de planificación será oportuna que ulice?",
-  "respuesta": "Diagrama de Gan."
- },
- {
-  "pregunta": "Juan José tiene una ferretería que se encuentra con problemas de liquidez.Él cree que esto es debido a la falta de pago de clientes a los cuales ha fiado a lo largo de los últimos 5 años ¿Qué herramienta estadística le recomendás que utilice para evaluar su hipótesis a lo largo del tiempo?",
-  "respuesta": "Gráfico de tendencias"
- },
- {
-  "pregunta": "Juan necesita recolectar información sobre una problemáca en la que vienen trabajando (no logran cumplir con sus objevos de venta). Para ello, realiza una reunión de trabajo con su equipo. ¿Es adecuada esta herramienta?",
-  "respuesta": "Sí, la reunión de trabajo es oportuna para la etapa de recolección de información."
- },
- {
-  "pregunta": "Julia administra un coworking y debe decidir sobre ampliar la capacidad del mismo para albergar más locatarios ¿Qué tipo de decisión se encontrará afrontando?",
-  "respuesta": "Estratégicas"
- },
- {
-  "pregunta": "Julia es jefa de producción de una empresa de alimentos, surgieron problemas con los empos de entrega entre las líneas de producción. Ella se reunirá con los principales responsables de cada una de las líneas. ¿Qué consejo le darías para la detección del problema durante su entrevista?",
-  "respuesta": "Escuchar"
- },
- {
-  "pregunta": "Julio es coordinador de ventas de una organización y cree tener una técnica ideal para desarrollar alternativas. Ella es B&S ¿Con qué otro nombre se conoce esta técnica?",
-  "respuesta": "Brainwriting"
- },
- {
-  "pregunta": "La entrevista es uno de los métodos principales para la instancia de selección de alternativas",
-  "respuesta": false
- },
- {
-  "pregunta": "La importancia es un concepto asociado al siguiente atributo de una situación:",
-  "respuesta": "Consecuencias"
- },
- {
-  "pregunta": "La responsable del Área de Recursos Humanos ene que realizar entrevistas para detectar por qué su equipo de trabajo no rinde según lo esperado. Tenía previsto realizar entrevistas de 30 minutos, pero, en todos los casos, con 5 minutos fue suficiente. ¿Es correcto no seguir profundizando?",
-  "respuesta": "No, es conveniente profundizar ya que el 90% de las causas suelen estar ocultas según la analogía del iceberg."
- },
- {
-  "pregunta": "La toma de decisiones racional es la toma de decisiones que se toma con la razón, es decir, con la intuición y la experiencia del decisor",
-  "respuesta": false
- },
- {
-  "pregunta": "La urgencia es un concepto asociado al siguiente atributo de una situación:",
-  "respuesta": "Tiempo"
- },
- {
-  "pregunta": "Las decisiones que se toman en los mandos medios de la organización son decisiones estratégicas.",
-  "respuesta": false
- },
- {
-  "pregunta": "Las decisiones que se toman en los mandos medios de una empresa son:",
-  "respuesta": "Tácticas"
- },
- {
-  "pregunta": "Liderás un equipo de logísca y te encontrás recolectando información sobre un problema que encontraste en el centro de distribución de productos. Solo hay tres empleados y ya los entrevistaste en profundidad. ¿Es recomendable entrevistar también a los clientes?",
-  "respuesta": "Sí, se puede entrevistar a los clientes para buscar el foco del problema."
- },
- {
-  "pregunta": "Lucas ene un problema que desea analizar, para ello debe ulizar la información cualitava.",
-  "respuesta": false
- },
- {
-  "pregunta": "Lucas ene una vinoteca y, al abrir su enda un día sábado, se encuentra con que no ene luz. Debe tomar una decisión para poder brindarle suministro eléctrico a su local. ¿En qué cuadrante de la matriz de covey se encuentra esta decisión?",
-  "respuesta": "Cuadrante 1"
- },
- {
-  "pregunta": "Lucas es analista de recursos humanos y le resulta dicil cumplir con las evaluaciones psicotécnicas que le requiere su jefe. Para iniciar la resolución de su situación alcanza con recolectar datos de diferentes evaluaciones.",
-  "respuesta": false
- },
- {
-  "pregunta": "Lucas es director de una organización que realiza comercialización de productos al menudeo y tiene operaciones en todo LATAM….",
-  "respuesta": "ERP"
- },
- {
-  "pregunta": "Lucas es el jefe de Calidad de una empresa financiera y se encuentra tomando una decisión sobre la contratación de un proveedor para un proyecto a su cargo. El criterio econónimo es el más relevante para la organización…",
-  "respuesta": true
- },
- {
-  "pregunta": "Lucas es el jefe de producción de una fábrica de piletas de lona y debe decidir sobre cómo organizar los francos de la semana próxima. ¿Qué tipo de decisión se encuentra afrontando?",
-  "respuesta": "Operativa; Tácticas"
- },
- {
-  "pregunta": "Lucas es Jefe de Calidad de una empresa financiera y se encuentra tomando una decisión sobre la contratación de un proveedor para un proyecto a su cargo. El criterio económico es el más relevante para la organización, motivo por el cual es correcto que decida la alternativa menos onerosa para la organización.",
-  "respuesta": true
- },
- {
-  "pregunta": "Lucas es jefe de producción y tiene que resolver el reemplazo de uno de los operadores del turno mañana.¿Qué tipo de Toma de Decisiones le recomendás tomar?",
-  "respuesta": "Operativas"
- },
- {
-  "pregunta": "Lucas pertenece a un equipo de trabajo en el que hubo varios conflictos interpersonales debido a una injusta distribución de la carga laboral. A él le gustaría comprobar esta sensación que existe en el equipo, por lo que le gustaría clasificar lo que cada uno de los integrantes hace en su gestión diaria. ¿En qué S de las 5S de calidad está haciendo hincapié?",
-  "respuesta": "Seiri"
- },
- {
-  "pregunta": "Lucas pertenece a un equipo de trabajo en el que hubo varios conflictos interpersonales debido a una injusta distribución de la carga laboral. En un relevamiento de actividades, él se dio cuenta que muchas de ellas eran innecesarias de llevar a cabo. ¿En qué S de las 5S de calidad está haciendo hincapié?",
-  "respuesta": "Seiso"
- },
- {
-  "pregunta": "Lucas pertenece a un equipo de trabajo en el que hubo varios conflictos interpersonales debido a una injusta distribución de la carga laboral. Luego de resueltas las diferencias, a él le interesa que las nuevas decisiones sobre las distribuciones de tareas se respeten a lo largo del tiempo. ¿En qué S de las 5S de calidad está haciendo hincapié?",
-  "respuesta": "Shitsuke"
- },
- {
-  "pregunta": "Lucas tiene que enviar una cotización de servicios a potenciales clientes. Para ello, dispone de un listado de emails… ¿Cuenta con información suficiente?",
-  "respuesta": "Lucas cuenta con la información suficiente"
- },
- {
-  "pregunta": "Lucía es gerente de marketing de una empresa que fabrica y vende camperas de cuero y quiere analizar los resultados de las últimas campañas comerciales….¿Qué tipo de herramienta le sugerís que utilice para el adecuado análisis de su actividad?",
-  "respuesta": "ERP; Objetivos SMART"
- },
- {
-  "pregunta": "Luis es gerente de una cadena de comidas rápidas y tomó la decisión de modificar la distribución de la operava de preparación de comida y, para ello, hizo parte de la decisión a su equipo de trabajo. ¿Qué po de beneficio secundario pensás que tendrá Juan en su equipo de trabajo?",
-  "respuesta": "Implementación"
- },
- {
-  "pregunta": "Nahuel se encuentra cursando una maestría en administración de negocios y no aprobó sus últimos dos exámenes. Sabe que el motivo de dichos resultados es que no está encontrando tiempo para estudiar y se reorganizó de manera tal que podrá hacerlo con una mayor extensión a lo largo de su jornada. ¿En qué etapa del ciclo de resolución de problemas se encuentra?",
-  "respuesta": "Ejecución de la solución"
- },
- {
-  "pregunta": "Para favorecer una mirada crítica en una instancia creativa de toma de decisiones, es adecuado que al menos un interlocutor \"tenga puesto\" su sombrero negro.",
-  "respuesta": true
- },
- {
-  "pregunta": "Para favorecer una mirada táctica en una instancia creativa de toma de decisiones es adecuado que al menos un interlocutor \"tenga puesto\" su sombrero negro.",
-  "respuesta": true
- },
- {
-  "pregunta": "Para poder avanzar en la identificación del problema, debemos utilizar técnicas de recolección de datos.",
-  "respuesta": true
- },
- {
-  "pregunta": "Paula es abogada y resolvió el problema de clima que tenía en su equipo de trabajo redefiniendo las tareas que cada una de sus secretarias ejecutaba. Pero, en el úlmo empo, la necesidad de responder con urgencia la gran candad de demandas que ingresaron al estudio, obligó a que los conflictos reaparecieran. ¿Qué etapa del ciclo de vida de resolución de problemas debe aplicar?",
-  "respuesta": "Control de la solución"
- },
- {
-  "pregunta": "Paula es jefa de recursos humanos de una empresa de exportación y debe pensar en un plan creativo para que los colaboradores de la empresa mejoren el clima interno de la organización ¿Cuál de las siguientes metodologías le sugerís que utilice para lograr alternativas creativas?",
-  "respuesta": "Design Thinking"
- },
- {
-  "pregunta": "Paula es jefa de recursos humanos de una empresa de exportación y debe pensar en un plan creativo para que los colaboradores de la empresa mejoren el clima interno de la organización. ¿Cuál de las siguientes metologías le sugerís que utilice para lograr alternativas creativas?",
-  "respuesta": "Design Thinking; Objetivos SMART"
- },
- {
-  "pregunta": "Paula tiene que resolver un problema de clima laboral en su equipo de trabajo y, para ello, tiene datos aislados de \ndiferentes insatisfacciones manifestadas por sus colaboradores. Con esta información es suficiente para analizar el \nproblema.",
-  "respuesta": false
- },
- {
-  "pregunta": "Pedro es selector de recursos humanos y ene como cliente a una empresa de alimentos. Tiene que decidir sobre una nueva posición y como candidatos ene una incorporación externa o ascender a un empleado de la propia empresa. Ambos enen las mismas capacidades para el puesto. ¿Sobre qué atributo deberá basarse para tomar la mejor decisión?",
-  "respuesta": "Costo de Oportunidad"
- },
- {
-  "pregunta": "Resolver problemas busca retomar el camino del cumplimiento de objetivos",
-  "respuesta": true
- },
- {
-  "pregunta": "Roberto es jefe de producción y, ante la ausencia de uno de sus operarios, debe decidir a quién poner en su reemplazo. ¿Qué po de decisión estará afrontando Roberto?",
-  "respuesta": "Operativa"
- },
- {
-  "pregunta": "Se debe evitar la realización de entrevistas en la etapa de identificación del problema, ya que es una instancia muy prematura para darle participación al equipo de trabajo y podría generar preocupaciones y ocupaciones innecesarias en la estructura.",
-  "respuesta": false
- },
- {
-  "pregunta": "Selecciona las 2 (dos) opciones correctas. Juan se encuentra recolectando información para profundizar sobre el problema de incumplimiento de los estándares de calidad. Para ello, ¿qué técnicas debe utilizar?",
-  "respuesta": "5 Porqués; Diagrama de Ishikawa"
- },
- {
-  "pregunta": "Selecciona las 2 (dos) opciones correctas. Lucas se encuentra en el proceso de resolución de problemas para el área en la que trabaja. Para iniciar la etapa de elección de alternativas realizará una reunión con su equipo de trabajo. ¿Cuáles de las siguientes alternativas son recomendaciones válidas para dicha instancia?",
-  "respuesta": "Diseñar la entrevista; Mantener la mente de principiante"
- },
- {
-  "pregunta": "Selecciona las 3 (tres) opciones correctas. ¿Cuáles de los siguientes recursos nos ayudarán a la etapa inicial de identificación de un problema?",
-  "respuesta": "El diagrama de Ishikawa; El método de los 5 por qué; La entrevista"
- },
- {
-  "pregunta": "Selecciona las 3 (tres) opciones correctas. Karina es representante en el cono sur de una institución educativa y debe proponerle a la junta directiva de dicha institución una proyección del nivel de actividad para fijar su nuevo presupuesto anual. ¿Cuáles de estas herramientas son recomendables para el análisis estadístico que debe realizar?",
-  "respuesta": "Gráfico circular; Gráfico de tendencias; Histograma"
- },
- {
-  "pregunta": "Si los objevos siguen sin cumplirse, entonces debemos regresar a la etapa de análisis.",
-  "respuesta": true
- },
- {
-  "pregunta": "Sol es jefa de administración de un supermercado y debe decidir sobre la cantidad de caja a abrir durante el turno mañana. ¿Qué tipo de decisión le recomendás tomar?",
-  "respuesta": "Operativas"
- },
- {
-  "pregunta": "Sos Jefe de calidad de un call center y necesitás incorporar una herramienta que te permita mejorar la calidad de atención y la gestión de pedidos de tus clientes internos y externos ¿Qué herramienta considerás aconsejable utilizar para tener éxito en este desafío?",
-  "respuesta": "ERP"
- },
- {
-  "pregunta": "Te encontrás recolectando información para conocer cuáles son las causas de un problema. Para ello, deberás realizar entrevistas a tus colaboradores y\/o equipo de trabajo.",
-  "respuesta": true
- },
- {
-  "pregunta": "Te encontrás recolectando información para conocer cuáles son las causas de un problema. Para ello, deberás realizar estudios de mercado.",
-  "respuesta": false
- },
- {
-  "pregunta": "Tenés un problema que deseás analizar. Para ello, deberás emplear la información cuantava.",
-  "respuesta": true
- },
- {
-  "pregunta": "Teniendo en cuenta el tenor de las consecuencias de una toma de decisión, ¿Sobre qué paradigma debés concentrarte para tomar decisiones con mayor productividad?",
-  "respuesta": "Importancia"
- },
- {
-  "pregunta": "Teniendo en cuenta el tiempo disponible para llevar a cabo una toma de decisión, ¿Sobre qué paradigma está decidiendo una persona que no se planifica adecuadamente?",
-  "respuesta": "Urgencia"
- },
- {
-  "pregunta": "Trabajamos en atención al cliente y debemos comunicarnos con clientes disconformes con el servicio de la empresa. Para hacerlo, disponemos de un listado de direcciones de emails. ¿Contamos con lo necesario para cumplir el objetivo?",
-  "respuesta": "No, los datos no son suficientes"
- },
- {
-  "pregunta": "Un invesgador se encuentra en la instancia de recolección de información y está ulizando una tabla de priorización de soluciones. ¿Es adecuado el uso de esta herramienta?",
-  "respuesta": "No, la matriz de priorización solo es adecuada para la etapa de selección."
- },
- {
-  "pregunta": "Un problema del funcionamiento de nuestro cuerpo es considerado un ejemplo de problema laboral.",
-  "respuesta": false
- },
- {
-  "pregunta": "Una administrava de una empresa sabe que ene un problema: no logra responder los emails de consultas a empo. ¿Qué etapa del ciclo de vida de resolución de problemas debe aplicar?",
-  "respuesta": "Recolección de información"
- },
- {
-  "pregunta": "Una encargada de la administración de un supermercado no logra conseguir que los empleados ingresen en horario ya que hace años lo hacen de esa manera. ¿Qué po de problema ene?",
-  "respuesta": "Laboral de cultura"
- },
- {
-  "pregunta": "Una toma de decisiones producva y eficaz se centra en lograr el ópmo equilibrio costo-beneficio ante cada nueva situación que demande implementar el proceso de toma de decisiones.",
-  "respuesta": false
- },
- {
-  "pregunta": "Uno de los principios básicos de la toma de decisiones es centrarse en la situación puntual y particular de los aspectos relativos a la situación que necesitás resolver (o prever), abstrayéndote de su contexto para no distraer tu decisión.",
-  "respuesta": false
  }
 ]
