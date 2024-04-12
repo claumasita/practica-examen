@@ -1,298 +1,318 @@
 [
  {
-  "pregunta": "¿Cómo debemos renderizar componentes React utilizando ReactDOM?",
-  "respuesta": "Debemos renderizar los componentes invocando al método ReactDOM.render()."
+  "pregunta": "¿Cuál de las siguiente opciones es el objevo del grupo de procesos sugeridos por el PMI para la etapa de cierre de todo proyecto?",
+  "respuesta": "Formalizar la finalización del proyecto, donde por supuesto están involucrados todos los interesados que inicialmente definieron la estrategia a cumplir."
  },
  {
-  "pregunta": "¿Cómo podemos integrar estilos CSS en archivos externos en las aplicaciones React?",
-  "respuesta": "Debemos crear archivos CSS y luego importarlos utilizando import junto al archivo CSS ocupado."
+  "pregunta": "¿Cuál de las siguientes afirmaciones no corresponde a un método predictivo?",
+  "respuesta": "Requerimientos poco claros al inicio del plan. No podemos trazar un plan fijo con el cliente."
  },
  {
-  "pregunta": "¿Cuál de las siguientes afirmaciones describe correctamente una aplicación de servidor (backend)?",
-  "respuesta": "Una aplicación de backend se encarga de procesar las solicitudes de los usuarios y realizar operaciones en la base de datos"
+  "pregunta": "¿Cuál de los 2 siguientes indicadores nos permirá detectar posibles desvíos en el camino críco del proyecto?",
+  "respuesta": "Entregables del Proyecto; Avance del Proyecto"
  },
  {
-  "pregunta": "¿Cuál de los siguientes métodos se utiliza para eliminar todas las claves y valores almacenados en WebStorage?",
-  "respuesta": "Clear()"
+  "pregunta": "¿Cuál de los siguientes es la definición correcta para aquellas actividades que deben documentarse para que el resultado de un proyecto sea sostenible a lo largo del tiempo?",
+  "respuesta": "Proceso."
  },
  {
-  "pregunta": "¿Cuál es el objetivo principal de las promesas en JavaScript?",
-  "respuesta": "Manejar flujos de código legibles y evitar anidamiento excesivo de callbacks"
+  "pregunta": "¿Cuál de los siguientes es la definición correcta para aquellas iniciativas que tienen un objetivo puntual y concreto a desarrollarse en un periodo determinado de tiempo?",
+  "respuesta": "Proyecto."
  },
  {
-  "pregunta": "¿Cuál es el propósito principal de la función fetch() en JavaScript?",
-  "respuesta": "Realizar peticiones de red desde un navegador web"
+  "pregunta": "¿Cuál de los siguientes es la definición correcta para aquellos resultados de un proyecto?",
+  "respuesta": "Producto"
  },
  {
-  "pregunta": "¿Cuál es el propósito principal del modelo cliente-servidor en el contexto de intercambio de información a través de Internet?",
-  "respuesta": "Iniciar la comunicación mediante una petición del cliente y una respuesta del servidor."
+  "pregunta": "¿Cuál es la naturaleza de los recursos que son utilizados en la gestión de un proyecto?",
+  "respuesta": "Limitados."
  },
  {
-  "pregunta": "¿Cuál es el propósito principal del panel de grabación de DevTools en el contexto del desarrollo web?",
-  "respuesta": "Facilitar la grabación y reproducción de interacciones del usuario en una página web."
+  "pregunta": "¿Cuáles 3 de las siguiente opciones son los objevos del grupo de procesos sugeridos por el PMI para la etapa de ejecución de todo proyecto?",
+  "respuesta": "Coordinar personas y recursos; Realizar las actividades del proyecto conforme al Plan previamente establecido; Gestionar las expectativas de los interesados."
  },
  {
-  "pregunta": "¿Cuál es la definición correcta para Styled Components?",
-  "respuesta": "Styled Components permite definir estilos directamente en los componentes de React utilizando una sintaxis similar a CSS."
+  "pregunta": "¿Cuáles 3 de los siguientes atributos corresponden con la definición de proyecto?",
+  "respuesta": "Se encuentra compuesto por procesos. - Se trata de un esfuerzo temporal. - Tiene un inicio y un fin."
  },
  {
-  "pregunta": "¿Cuál es la diferencia fundamental entre una librería y un framework en el contexto de JavaScript?",
-  "respuesta": "Las librerías son conjuntos de funciones predefinidas, mientras que los frameworks son estructuras integrales que proporcionan una arquitectura y un conjunto de herramientas para desarrollar aplicaciones completas."
+  "pregunta": "¿Cuáles 4 de las siguiente opciones son los objevos del grupo de procesos sugeridos por el PMI para la etapa de seguimiento de todo proyecto?",
+  "respuesta": "Monitorear connuamente la salud del proyecto para idenficar áreas que requieran mayor atención; Comparar la evolución del proyecto contra lo planificado y sugerir acciones y medidas cuando se encuentren desvíos significavos; Controlar cambios, y recomendar acciones prevenvas; Monitorear el progreso y el desempeño del proyecto."
  },
  {
-  "pregunta": "¿Cuál es la forma en la cual se comporta el renderizado condicional cuando lo aplicamos en un proyecto de React JS?",
-  "respuesta": "Podemos implementar un renderizado utilizando el operador ternario o la cláusula if - else"
+  "pregunta": "¿Cuáles 4 de las siguientes opciones son las clasificaciones de un proyecto según su alcance?",
+  "respuesta": "Internacionales; Locales; Nacionales; Regionales"
  },
  {
-  "pregunta": "¿Cuál es la función de las props en React JS?",
-  "respuesta": "Las props son utilizadas para pasar datos de un componente padre a un componente hijo."
+  "pregunta": "¿Cuáles de las siguientes afirmaciones definen un proceso? Seleccione las 3 (tres) respuestas correctas.",
+  "respuesta": "Dispuestos en un determinado orden - Es una secuencia lógica de pasos - Para lograr un determinado resultado"
  },
  {
-  "pregunta": "¿Cuál es una característica de Styled Components en React JS?",
-  "respuesta": "Proporciona una sintaxis similar a CSS para definir estilos en los componentes"
+  "pregunta": "¿Cuáles de las siguientes opciones forman parte de las características principales que deberá tener un administrador del proyecto para asumir su puesto con éxito?",
+  "respuesta": "Comunicador – Líder – Motivador – Negociador."
  },
  {
-  "pregunta": "¿Cuál es una limitación de los archivos JSON?",
-  "respuesta": "Los archivos JSON no pueden ser escritos o modificados fácilmente."
+  "pregunta": "¿Cuáles de las siguientes opciones son los objevos del grupo de procesos sugeridos por el PMI para la etapa de planificación de todo proyecto?",
+  "respuesta": "Planificar la distribución de RRHH…; Definir la línea de acción…; Planificar los costos del Proyecto asociados…; Planificar los estándares…"
  },
  {
-  "pregunta": "¿Cuál es una ventaja de utilizar Arrow functions en JS?",
-  "respuesta": "Pueden prescindir de las llaves de bloque y la palabra reservada return."
+  "pregunta": "¿En cuál de las buenas práccas compardas por scrum sirve tener presente un tablero que organice las tareas por hacer, las que están en proceso y las que resta por iniciar?",
+  "respuesta": "Daily Scrums"
  },
  {
-  "pregunta": "¿Cuáles son algunos de los beneficios de utilizar Selenium WebDriver para la automatización de pruebas en aplicaciones web?",
-  "respuesta": "“Multiplataforma”, “Compatibilidad con múltiples navegadores”, y “Amplia comunidad y soporte”"
+  "pregunta": "Con el equipo estamos registrando las lecciones aprendidas, liberando los recursos, gestionando pagos, actualizando registros, midiendo la satisfacción del cliente. ¿En que grupo de procesos estamos trabajando?",
+  "respuesta": "Procesos de cierre."
  },
  {
-  "pregunta": "¿Cuáles son los posibles valores que un componente recibe como argumentos?",
-  "respuesta": "Props"
+  "pregunta": "Cuál es el grupo de procesos que requiere de todas las áreas de conocimiento presentadas?",
+  "respuesta": "Planificación"
  },
  {
-  "pregunta": "¿Por qué es conveniente utilizar arrow functions en lugar de funciones convencionales en JS?",
-  "respuesta": "Porque los frameworks y librerías JS modernos promueven su uso."
+  "pregunta": "Cuando los proyectos se subclasifican en sociales, educativos, comunitarios, productivos o de investigación ¿A qué tipo de clasificación nos estamos refiriendo?",
+  "respuesta": "Orientación"
  },
  {
-  "pregunta": "¿Qué bloque se utiliza para envolver el código que podría generar una excepción o error?",
-  "respuesta": "Try"
+  "pregunta": "De acuerdo a los niveles de mayor o menor claridad y certidumbre, podemos hablar de distintos tipos de proyectos. ¿Cuáles son?",
+  "respuesta": "Complejos, Simples"
  },
  {
-  "pregunta": "¿Qué práctica es esencial para el monitoreo y mantenimiento efectivo de las pruebas automatizadas en aplicaciones web frontend?",
-  "respuesta": "Revisar periódicamente los informes de prueba generados"
+  "pregunta": "El equipo de desarrollo de Scrum esta trabajando en las tareas que han ido eligiendo de la lista de backlog, el spint está por terminar y hay uno de los miembros que aun tiene muchas tareas pendientes y otro que ya termino. Este ultimo ofrece ayudar al otro para que pueda llegar con tiempo a dar los entregables del spint. ¿A que tarea del equipo de desarrollo nos estamos refiriendo en el ejemplo?",
+  "respuesta": "En la planificación de la iteración, cada miembro del equipo se auto - asigna tareas al desarrollar"
  },
  {
-  "pregunta": "¿Qué proceso realiza un array para crecer o decrecer la cantidad de elementos que almacena?",
-  "respuesta": "Utiliza sus métodos (push, shift, pop, unshift) para agregar o eliminar elementos del array."
+  "pregunta": "El equipo de desarrollo esta analizando que las tareas del backlog que están definidas para el sprint son de alta complejidad, con lo cual son demasiadas para esta etapa. Deben rever la lista y definir cuales podrán efectivamente realizarse. Según esta situación ¿En que etapa esta el equipo de desarrollo?",
+  "respuesta": "Planificación del sprint."
  },
  {
-  "pregunta": "async function ejecutarInstruccion() {await tareaAsincronica();}",
-  "respuesta": "LA FUNCION ASINCRONICA ejecutarintruccion() SE EJECUTA Y ESPERA QUE LA FUNCION tareaAsibcronica() TERMINE PARA SEGUIR EJECUTANDO EL RESTO DEL CODIGO ASOCIADO"
+  "pregunta": "El equipo esta con baja performance, causa de las muchas horas extra y presión, los directivos en lugar de reconocer el esfuerzo exigen mas rapidez en los resultados. Ante esta situación el administrador del proyecto habla con los directivos y consigue que estos reconozcan el exceso de horas y la necesidad de staff de refuerzo para el proyecto, sumado a la promesa de recompensa para su equipo posterior a la presentación del producto. ¿Qué características de líder esta desarrollando en esta ocasión el administrador? Seleccione 4 (cuatro) respuestas correctas.",
+  "respuesta": "Buen negociador - Capacidad de influir en los demás – Motivador – Saber comunicar."
  },
  {
-  "pregunta": "const carrito = [\"Elemento 1\", \"Elemento 2\", \"Elemento 3\" ]",
-  "respuesta": "EL CICLO FOR ES INCORRECTO Y NO ITERARA EL ARRAY"
- },
- {
-  "pregunta": "const copetes = document.querySelectorAll(\"p#copete-noticia\")",
-  "respuesta": "RETORNA UNA COLECCIÓN DE ELEMENTOS QUE CUMPLAN CON EL CRITERIO INDICADO EN EL METODO"
- },
- {
-  "pregunta": "Cuál de las siguientes afirmaciones es correcta en relación con el uso de Axios y Fetch en React para interactuar con APIs?",
-  "respuesta": "Son librerías externas que permiten interactuar con servicios externos a través de una API en una aplicación React"
- },
- {
-  "pregunta": "Cual es el alcance del lenguaje de programación JavaScript?",
-  "respuesta": "PERMITE CREAR APLICACIONES IOT – PERMITE CREAR APLICACIONES MOVILES NATIVAS – PERMITE CREAR APLICACIONES WEB BACKEND – PERMITE CREAR APLICACIONES WEB FRONTEND"
- },
- {
-  "pregunta": "Cuál es el código de estado de una respuesta HTML que indica un éxito en la petición?",
-  "respuesta": 200
- },
- {
-  "pregunta": "Cuál es el propósito del método cath() en las promesas JavaScript?",
-  "respuesta": "CONTROLAR ERRORES Y MANEJAR EL RECHAZO DE UNA PROMESA"
- },
- {
-  "pregunta": "Cual es la finalidad de la función <activarClickEnBotonesEliminar()>?",
-  "respuesta": "ASIGNAR EL EVENTO CLICK A LOS BOTONES ELIMINAR DE LA TABLA PARA ELIMINAR PRODUCTOS"
- },
- {
-  "pregunta": "Cual es la herramienta mas adecuada para generar bloques de HTML dinámicos e interactivos?",
-  "respuesta": "Template string"
- },
- {
-  "pregunta": "Cual es una forma obsoleta de manejar eventos en JavaScript?",
-  "respuesta": "Atributos ON"
- },
- {
-  "pregunta": "Cuáles son las ventajas de utilizar el paradigma de Programación Orientada a Objetos (POO)?",
-  "respuesta": "Facilita la representación de objetos del mundo real.- Permite una organización más estructurada y ordenada del código.- Promueve la reutilización de código.- Simplifica la comprensión y el mantenimiento del código."
- },
- {
-  "pregunta": "Cuáles son las ventajas de utilizar peticiones fetch() basadas en promesas JS?",
-  "respuesta": "Compatibilidad – Interoperabilidad – Simplicidad"
- },
- {
-  "pregunta": "Cuáles son los métodos de acceso convencionales utilizados en JavaScript para conectarse a elementos HTML?",
-  "respuesta": "GetElementById – getElementsByClassName – getElementsByTagName"
- },
- {
-  "pregunta": "Cuales son los tipos de funciones que se pueden definir en JavaScript?",
-  "respuesta": "FUNCIONES CON PARAMETROS – FUNCIONES CON RETORNOS – FUNCIONES SIMPLES"
- },
- {
-  "pregunta": "Cuando creamos un componente de clase en react, este tiene un método obligatorio. El mismo se llama:",
-  "respuesta": "render()"
- },
- {
-  "pregunta": "Cuando definimos una función asincrónica con JavaScript, podemos aplicar una cláusula que permite esperar la ejecución de determinadas tareas que pueden durar un tiempo indeterminado. Identifica cuál es el nombre de la cláusula que nos referimos:",
-  "respuesta": "await function(...)"
- },
- {
-  "pregunta": "Cuando hablamos de intercambiar información o datos con un servidor, este procedimiento se realiza utilizando un formato de transporte estandarizado. Dentro de los formatos más populares de transporte, encontramos a:",
-  "respuesta": "XML y JSON"
- },
- {
-  "pregunta": "Cuando hablamos de utilizar estilos en línea dentro de los componentes React, ¿de qué forma debemos definir los estilos CSS para luego aplicarlos en un componente?",
-  "respuesta": "Definiendo un objeto literal."
- },
- {
-  "pregunta": "Cuando utilizamos las cláusulas try - catch - finally, podemos definir una estructura de ejecución que controle cualquier error posible. Más allá del control generado en el código, una de las cláusulas puede ser obviada en el uso cotidiano del control de ejecución. A continuación, identificar cuál es esta última cláusula:",
-  "respuesta": "Finally"
- },
- {
-  "pregunta": "Cuando utilizamos promesas JS para definir tareas asíncronas, junto al objeto promise utilizamos los métodos de control que nos permiten definir qué hacer ante determinadas situaciones. Estos métodos de control son:",
-  "respuesta": "Then, Catch, Finally"
- },
- {
-  "pregunta": "Cuando utilizamos Template Literals dentro de bloques de código HTML definidos como Template Strings,¿cuál es la forma correcta de mostrar el contenido de la variable, constante u objeto literal en HTML?",
-  "respuesta": "Utilizando comilla invertida o backtick para intercalar el elemento literal \"<p>${resultado}<\/p>\""
- },
- {
-  "pregunta": "Debemos conectarnos a todos los bloques <div> que poseen la clase CSS div-card, con el objetivo de agregarle una nueva clase CSS utilizando classList.add(). Para poder realizar este proceso, necesitamos crear una colección de elementos <div> que posean la clase CSS mencionada.¿Cuál es el código apropiado para dicha tarea?",
-  "respuesta": "“const divCards = document.querySelectorAll(‘div.div-card’)”"
- },
- {
-  "pregunta": "Dentro de un tag <ul> debemos agregar las diferentes categorías de productos, almacenadas en un array de elementos llamado categorías. Para ello, crearemos un elemento listItem por cada categoría.¿Cuál es la forma correcta de realizar esta tarea?",
-  "respuesta": "const li = \"<li>${categoría}<\/li>\" seguido de ul.innerHTML += li"
- },
- {
-  "pregunta": "Disponemos de varias cards HTML que muestran productos en pantalla. Cada una de estas cards posee un tag que permite agregar el producto a un carrito de compras. Al pulsar el botón de cualquiera de estas cards, evento “click”, necesitamos que el mismo genere una animación prearmada en una clase CSS genérica.¿De qué forma podríamos incluir la clase CSS al momento de hacer click sobre el botón HTML?",
-  "respuesta": "button.className += ‘ animacion-css-button’; button.classList.add(‘animacion-css-button’)"
- },
- {
-  "pregunta": "divCard.classList.toggle ( \"card-selected\" )",
-  "respuesta": "AGREGARA LA CLASE CSS DENOMINADA <card-selected>"
- },
- {
-  "pregunta": "El evento JavaScript “hashchange” nos permite gestionar",
-  "respuesta": "La detección del cambio de URL sirviendo contenido."
- },
- {
-  "pregunta": "El objeto promise es una herramienta que nos permite crear objetos asíncronos. El mismo posee tres posibles estados. Estos son:",
-  "respuesta": "Fulfilled, pending, rejected."
- },
- {
-  "pregunta": "En el siguiente fragmento de código, identificar la función utilizada para detener la ejecución de una tarea que se repite cada 1000 milisegundos:",
-  "respuesta": "clearInterval"
- },
- {
-  "pregunta": "Entendiendo la importancia de cada navegador web y su motor web asociado, el cual se ocupa de interpretar el código (HTML, CSS y JS) descargado desde un sitio web, indicar cuántos intérpretes posee el motor de un navegador web.",
-  "respuesta": "Dos"
- },
- {
-  "pregunta": "Estamos trabajando en generar un mapeo de datos sobre los elementos de un array. ¿Qué método de orden superior nos permite realizar esto?",
-  "respuesta": "map"
- },
- {
-  "pregunta": "Estamos trabajando en un proyecto de desarrollo web ¿Cuáles son las formas comunes de crear objetos en JavaScript?",
-  "respuesta": "Crear objetos utilizando funciones constructoras.- Utilizar clases de JavaScript para definir la estructura y comportamiento del objeto.- Utilizar un objeto literal para definir directamente las propiedades y métodos del objeto."
- },
- {
-  "pregunta": "Estamos trabajando en un proyecto de desarrollo web. ¿Cuáles son las formas comunes de crear objetos en JavaScript?",
-  "respuesta": "Crear objetos utilizando funciones constructoras. - Utilizar clases de JavaScript para definir la estructura y comportamiento del objeto. - Utilizar un objeto literal para definir directamente las propiedades y métodos del objeto."
- },
- {
-  "pregunta": "fetch(\"http:\/\/example.com\/movies.json\")",
-  "respuesta": "SU FUNCIONAMIENTO SE BASA EN PROMESAS JS"
- },
- {
-  "pregunta": "finally(() => console.warn",
-  "respuesta": "ES OPCIONAL, Y SU CODIGO SE EJECUTARÁ INDISTINTAMENTE SI LA PROMESA SE RESUELVE O ES RECHAZADA"
- },
- {
-  "pregunta": "Identificar cuál es la diferencia entre la implementación de state y la implementación de props en una aplicación React JS",
-  "respuesta": "State para permite representar datos y que estos se puedan modificar internamente en un componente, mientras que props posee un estado inmutable, y solo se utiliza para transmitir información."
- },
- {
-  "pregunta": "if (usuarioLogueado !=== false)",
-  "respuesta": "OPERADOR DE COMPARACION IMPLICITAMENTE IGUAL A"
- },
- {
-  "pregunta": "La definición correcta para un componente react es:",
-  "respuesta": "Crear un fragmento de código reutilizable que permite crear un elemento react."
- },
- {
-  "pregunta": "La definición de un componente de clases se realiza con la estructura inicial:",
-  "respuesta": "Class Componente extends Component {...}"
- },
- {
-  "pregunta": "Las aplicaciones de una sola página (SPA) se pueden crear únicamente con React JS",
+  "pregunta": "El esfuerzo temporal limitado es una caracterísca de los procesos.",
   "respuesta": false
  },
  {
-  "pregunta": "let nombreCompleto = \"Teclab\"",
-  "respuesta": "Camel Case"
+  "pregunta": "El líder de proyecto es quien provee recursos y apoyo para el proyecto. Puede ser interno o externo a la organización y su objevo es promover el proyecto.",
+  "respuesta": false
  },
  {
-  "pregunta": "let resultado = 1975 * nro … const resultado = 1975 * nro",
-  "respuesta": "CUANDO EXISTE UNA SEGUNDA FUNCION, ESTA DEPENDE SIEMPRE DE LA DEFINICION DEL RETORNO IMPLICITO"
+  "pregunta": "El objetivo de un proyecto solo es crear productos únicos.",
+  "respuesta": false
  },
  {
-  "pregunta": "let valor = 2103 … console.error(se ha producido un error inesperado)",
-  "respuesta": "NUNCA SE EJECUTARÁ console.error()"
+  "pregunta": "El product owner esta reunido con dos áreas de la empresa que son sus clientes internos, quienes a su vez desarrollan un servicio para un cliente externo. Están definiendo los requerimientos del producto. Este percibe que entre los clientes internos hay disputas, con lo cual intenta mediar y llegar a un buen acuerdo para ambos clientes internos. Esto permitirá pasar al equipo de desarrollo claridad en la definición y requerimientos para que pueda continuar su trabajo. En este caso el product owner ¿Cuál de sus tareas está desarrollando?",
+  "respuesta": "Canalizar las expectativas de todos los interesados y si hay diferencias entre interesados, resolverla y no trasladarla al equipo."
  },
  {
-  "pregunta": "localStorage.setItem(\"carritoProductos\", carrito)",
-  "respuesta": "LOCALSTORAGE ALMACENARA ERRONEAMENTE EL CARRITO DE PRODUCTOS BAJO LA CLAVE"
+  "pregunta": "En la etapa de ejecución de un proyecto ¿cuál de las instancias de la metodología scrum será la que ulizará el tablero Trello permanentemente?",
+  "respuesta": "Daily Scrums"
  },
  {
-  "pregunta": "Por que son importantes las herramientas para desarrollador en el navegador web?",
-  "respuesta": "PORQUE PERMITEN EJECUTAR CODIGO JAVASCRIPT EN LA CONSOLA DEL NAVEGADOR"
- },
- {
-  "pregunta": "Que es un PWA (Progresive Web App)?",
-  "respuesta": "UNA APLICACIÓN WEB QUE UTILIZA HTML, CSS Y JAVASCRIPT PARA FUNCIONAR"
- },
- {
-  "pregunta": "Que método de arrays podemos utilizar para verificar si un elemento especifico existe en el array?",
-  "respuesta": "Includes()"
- },
- {
-  "pregunta": "Que método introdujo la librería JQuery para simplificar el intercambio de datos con un servidor en JavaScript?",
-  "respuesta": "AJAX"
- },
- {
-  "pregunta": "Que son los componentes en React?",
-  "respuesta": "Fragmentos simples de código JavaScript que permiten generar elementos React"
- },
- {
-  "pregunta": "Tenemos el siguiente bloque de código: [{“id”: 1, “nombre”: “Producto 1”, “importe”: 300}, {“id”: 2, “nombre”: “Producto 2”, “importe”: 210}] El mismo representa al siguiente tipo de datos:",
-  "respuesta": "Un array JSON"
- },
- {
-  "pregunta": "Tenemos el siguiente bloque de código: fetch(URL) .then((response)=> response.json) .then((data)=> console.table(data)) En este ejemplo, la palabra o parámetro response, se ocupa de:",
-  "respuesta": "Acarrear toda la respuesta del endpoint peticionado"
- },
- {
-  "pregunta": "Tenemos un HTML el cual posee divs anidados que conforman una Card HTML para visualizar productos en pantalla. Toda esta estructura HTML está almacenada en una constante llamada cardHTML utilizando template literals + string. La forma más efectiva de armar un bloque HTML de múltiples cards en un elemento contenedor, es:",
-  "respuesta": "contenedor.innerHTML += cardHTML"
- },
- {
-  "pregunta": "Tenemos una aplicación web con una imagen que representa un carrito de compras. Esta imagen está referenciada en un tag HTML img, y posee una clase CSS denominada img-carrito. Además, cuenta con una referencia llamada imgCarrito en el atributo id. Si debemos referenciar una constante en JavaScript que nos enlace con el tag HTML en cuestión definiendo su atributo id. ¿Cuál es el código correcto para realizar esta tarea?",
-  "respuesta": "\"const btnCarrito = document.querySelector(‘img#imgCarrito’)\""
- },
- {
-  "pregunta": "Una ventaja de utilizar arrow functions en JavaScript es que se pueden prescindir de las llaves de bloque y la palabra reservada return en determinados casos.",
+  "pregunta": "En la metodología predictiva el equipo debe cumplir lo que diga el plan.",
   "respuesta": true
+ },
+ {
+  "pregunta": "En los proyectos simples es necesario que el cliente intervenga permanentemente para asegura la calidad del producto, más allá de la complejidad del proyecto.",
+  "respuesta": false
+ },
+ {
+  "pregunta": "Estamos comunicando las actividades a realizar, mejorando el rendimiento del equipo, poniendo en práctica los cambios aceptados, y adquiriendo recursos conforme el plan de compras. ¿En qué grupo de procesos estamos trabajando?",
+  "respuesta": "Procesos de Ejecución"
+ },
+ {
+  "pregunta": "Estamos decidiendo como se llevará adelante la gestión de los cambios en el proyecto, y definimos quien sería el comité que se aseguraría que se respeten todos los pasos en cada cambio que se apruebe. ¿Que estaríamos definiendo de Gestión de cambios?",
+  "respuesta": "Proceso."
+ },
+ {
+  "pregunta": "Estamos desarrollando una nueva línea dentro de la planta de producción, el proceso requiere de la intervención de una empresa que haga la limpieza de la misma y cuando la línea este en funcionamiento el mantenimiento de la misma. ¿Qué tipo de interesado es este participante para nuestro proyecto?",
+  "respuesta": "Socios de negocios."
+ },
+ {
+  "pregunta": "Estamos frente al documento del alcance definido, mirando el todo y decidiendo como lo descompondremos en partes mas pequeñas y manejables, a realizar por el equipo del proyecto para cumplir con los objetivos y crear los entregables requeridos. ¿A cuál de los procesos que componen un plan de gestión de alcance nos estamos refiriendo?",
+  "respuesta": "Creación de la EDT\/WBS"
+ },
+ {
+  "pregunta": "Estamos trabajando con el equipo del proyecto, analizando las actividades que tendremos que realizar. Advertimos que necesitaremos de la ayuda de un técnico de la planta para saber cuanto tiempo precisamos para poder desarrollar alguna de ellas. ¿A cuál de los procesos de la Planificación de la gestión del cronograma nos estamos refiriendo?",
+  "respuesta": "Estimar la duración de las actividades."
+ },
+ {
+  "pregunta": "Estas con tu equipo de proyecto analizando los riesgos y definiendo plan de respuestas, definiendo en que puntos se desarrollan planes de contingencia. ¿En que grupo de procesos estarías trabajando?",
+  "respuesta": "Procesos de planificación."
+ },
+ {
+  "pregunta": "Estas con tu equipo registrando los cambios, mirando la línea del objetivo del proyecto y midiendo el avance y performance, para determinar cómo impacta la desviación según la línea objetivo. ¿En que grupo de procesos estarías trabajando?",
+  "respuesta": "Procesos de monitoreo y control."
+ },
+ {
+  "pregunta": "Hablando con un amigo nos cuenta que su empresa trabaja con metodologías ágiles. Como no entendemos bien qué significa, le pedimos que nos cuente un poco. Su empresa desarrolla software, pero el no se dedica a la parte técnica de programación, deja eso al equipo de desarrollo. Dice que hay varios roles en su equipo. Él particularmente, es el dueño del backlog, un listado de necesidades y requerimientos. ¿De qué rol de metodología scrum estamos hablando?",
+  "respuesta": "Product Owner"
+ },
+ {
+  "pregunta": "Javier es contador y lidera los proyectos de una Fintech. Él usa scrum y asevera que, las disntas iteraciones completas de los ciclos de vida adaptavos de sus proyectos complejos se revisan a diario en sus daily scrum.",
+  "respuesta": false
+ },
+ {
+  "pregunta": "Javier es gerente de operaciones de una empresa financiera y es sponsor de un proyecto que se está desarrollando en dicha compañía ¿Cuáles 3 de las siguientes caracteríscas serán habilidades que necesitará para desempeñar correctamente su función?",
+  "respuesta": "Voz de reemplazo; Visión de Negocio; Promueve Recursos"
+ },
+ {
+  "pregunta": "Javier es gerente de proyectos de una universidad y debe presentar un proyecto en empo y forma ante el organismo de acreditación para no perder el próximo año académico. ¿Sobre qué aspecto de la planificación deberá prestar atención para evitar demoras en la ejecución del proyecto?",
+  "respuesta": "Camino Crítico"
+ },
+ {
+  "pregunta": "Javier es líder de proyecto de una empresa de impresión 3D. Le solicitaron una modificación sobre un proyecto que está en ejecución y el debe formalizarla. ¿Qué herramienta le recomendás que ulice para tales fines?",
+  "respuesta": "Planilla de solicitud de cambios."
+ },
+ {
+  "pregunta": "Javier es líder de proyectos de una Startup y se encuentra en la etapa de ejecución de su primer proyecto asignado. Él tendrá dentro de sus funciones gesonar y lograr la aprobación de los cambios que se requieran por necesidades adicionales surgidas a lo largo del proyecto.",
+  "respuesta": true
+ },
+ {
+  "pregunta": "Jorge es administrador de proyectos en una empresa que presta servicios de consultoría educava y establece, como tal, órdenes de trabajo designadas claramente. Él enende que ese eslo de gesón es más producva que aquél en el que las decisiones son colaboravas",
+  "respuesta": false
+ },
+ {
+  "pregunta": "Jorge es arquitecto y le encomendaron realizar el proyecto de obra de una nueva escuela en su localidad ¿En que etapa del ciclo de vida del proyecto se encuentra trabajando?",
+  "respuesta": "Inicio."
+ },
+ {
+  "pregunta": "Jorge es líder de proyectos de una consultora de seguridad e higiene y debe formalizar el incio de un proyecto. ¿Qué herramienta le sugerirías al respecto?",
+  "respuesta": "Acta de constitución"
+ },
+ {
+  "pregunta": "Jorge lidera los proyectos de una empresa de la industria alimenticia en donde los procesos son claros y estandarizados y en donde los proyectos no revisten mayor complejidad. En los proyectos simples la posibilidad de innovar es:",
+  "respuesta": "Limitada."
+ },
+ {
+  "pregunta": "José es líder de proyectos de un estudio jurídico y uliza scrum para las iniciavas estratégicas de dicho bufete. ¿Qué soware le recomendás para la gesón de sus tableros kanban en las daily scrums?",
+  "respuesta": "Trello"
+ },
+ {
+  "pregunta": "José Luis es líder de proyectos de una organización que ene una experiencia negava en gesón de proyectos. ¿Qué actud le recomendás desarrollar para poder avanzar sin inconvenientes en sus próximos desaos?",
+  "respuesta": "Resiliencia"
+ },
+ {
+  "pregunta": "Josefina lidera los proyectos de la PYME familiar y ella quiere estudiar sobre la metodología PMI porque le facilitará:",
+  "respuesta": "Conocimientos, técnicas y habilidades."
+ },
+ {
+  "pregunta": "Juan Carlos ene el desao de liderar por primera vez un proyecto de una Pyme familiar a su cargo según los estándares del PMI. Ante su primer proyecto él se encuentra con la necesidad de monitorear la salud del mismo en la instancia de monitoreo y control ¿Qué herramientas le recomendás ulizar?",
+  "respuesta": "Indicadores; Tableros de Control"
+ },
+ {
+  "pregunta": "Juan Cruz ene una inmobiliaria y se encuentra iniciándose como líder de proyectos en su organización. ¿Qué soware le recomendás que ulice en dicho proceso?",
+  "respuesta": "MS Project."
+ },
+ {
+  "pregunta": "Juan Cruz es líder de proyectos de un canal televisivo. ÉL ene el proyecto de un nuevo programa que saldrá en prime me y sabe que debe monitorear el control de empos y de costos una vez que el programa inicie. ¿Qué otros 3 aspectos del proyecto deberá monitorear?",
+  "respuesta": "Cambios; Calidad; Recursos"
+ },
+ {
+  "pregunta": "Juan se encuentra finalizando uno de los proyectos a su cargo y debe pensar en cómo se implementará el mismo en la organización. Es adecuado que él se apoye en el desarrollo de procesos para poder darle la sostenibilidad deseada.",
+  "respuesta": true
+ },
+ {
+  "pregunta": "Julia es jefa de un equipo de ventas multinivel y se encuentra planificando las acciones del próximo semestre tendientes a lograr posicionar un nuevo producto de la firma a la cual representa ¿En qué etapa del ciclo de vida del proyecto se encuentra trabajando?",
+  "respuesta": "Planificación"
+ },
+ {
+  "pregunta": "La metodología ágil Scrum es una metodología de gestión de proyectos que brinda:",
+  "respuesta": "Buenas prácticas, Herramientas y roles de gestión."
+ },
+ {
+  "pregunta": "La planificación es una herramienta perfecta para eliminar todos los riesgos de cualquier proyecto.",
+  "respuesta": false
+ },
+ {
+  "pregunta": "Los proyectos complejos son considerados como tales debido al nivel de flexibilidad en el requerimiento de proyecto.",
+  "respuesta": false
+ },
+ {
+  "pregunta": "Los proyectos en la actualidad, demandan uno de los siguientes tipos de metodologías de gestión de proyectos:",
+  "respuesta": "Agiles."
+ },
+ {
+  "pregunta": "Los proyectos simples son considerados como tales debido al nivel de flexibilidad en el requerimiento de proyecto",
+  "respuesta": false
+ },
+ {
+  "pregunta": "Los proyectos, en la actualidad, demandan uno de los siguientes pos de gesón de proyectos.",
+  "respuesta": "Metodologías Ágiles"
+ },
+ {
+  "pregunta": "Lucas es administrador de proyectos constructivos y debe considerar, a la hora de pensar en proyectos simples, el nivel de conocimiento y detalle sobre el requerimiento, por parte del equipo de trabajo.",
+  "respuesta": true
+ },
+ {
+  "pregunta": "Lucas es gerente de proyectos de una empresa que fabrica calzados. ¿Cuáles 3 de las siguientes opciones forman parte de las caracteríscas principales que deberá tener para asumir su puesto con éxito?",
+  "respuesta": "Negociador; Comunicador; Líder"
+ },
+ {
+  "pregunta": "Lucas es gerente de riesgos de una compañía de seguros y se encuentra liderando un nuevo proyecto estratégico para la empresa. Es su primer proyecto de caracteríscas complejas y quiere respetar lo sugerido por la metodlogía PMI. ¿Qué soware le recomendás ulizar para la etapa de planificación?",
+  "respuesta": "MS Project."
+ },
+ {
+  "pregunta": "Lucas es gerente de riesgos de una compañía de seguros y se encuentra liderando un proyecto que es muy importante para la compañía por lo que debe asegurar una planificación exitosa del mismo. ¿A qué fuentes de información le recomendás recurrir para lograr una planificación exitosa?",
+  "respuesta": "Observaciones; Entrevistas; Encuestas"
+ },
+ {
+  "pregunta": "Lucas es gerente de riesgos de una compañía de seguros y se encuentra liderando un proyecto que es muy importante para la compañía por lo que debe asegurar una planificación exitosa del mismo. ¿Qué herramienta le recomendás ulizar?",
+  "respuesta": "Diagrama de Gantt"
+ },
+ {
+  "pregunta": "Lucas es gerente de riesgos de una compañía de seguros y uliza la metodología scrum para sus proyectos con ciclos de vida adaptavos. Él asevera que las disntas iteraciones de los ciclos de vida adaptavos equivalen a los sprints de trabajo scrum.",
+  "respuesta": true
+ },
+ {
+  "pregunta": "Lucas es jefe de markeng y ene a cargo un proyecto que representa un desao para su carrera profesional.Se trata de un proyecto cuyo ciclos de vida serán adaptavos ¿cuáles de las siguientes serán caracteríscas que afrontará con este proyecto?",
+  "respuesta": "Complejidad, Poca previsibilidad"
+ },
+ {
+  "pregunta": "Masificar los resultados de una operación es uno de los atributos principales de los procesos.",
+  "respuesta": true
+ },
+ {
+  "pregunta": "Patricia es colaboradora de una organización sin fines de lucro y la designaron líder de un proyecto muy importante para la organización. Es por eso que, al iniciar el proyecto quiere dejar bien en claro cuáles son los objevos que ene esta iniciava. ¿Qué herramienta le recomendás?",
+  "respuesta": "Acta de constitución"
+ },
+ {
+  "pregunta": "Paula es proveedora de servicios informáticos de Juan, quien trabaja en una empresa que brinda servicios informáticos a grandes empresas y la contrata cuando su equipo propio no da a basto. Paula es para Juan en sus proyectos:",
+  "respuesta": "Socio"
+ },
+ {
+  "pregunta": "Pilar es líder de proyectos del equipo de operaciones de una instución educava. Ella sabe que, para presentar la modificación de un proyecto en curso debe presentar un documento que incluya determinada información. Ella recuerda incluir: Fecha de la solicitud, modificación solicitada, impacto en los empos del proyecto. ¿Qué datos más le faltan incluir?",
+  "respuesta": "Firma del sponsor de proyecto; Impacto en los recursos humanos del proyecto; Firma del cliente; Impacto en los costos del proyecto"
+ },
+ {
+  "pregunta": "Prever escenarios futuros de una idea que consideras viable de ser llevada a cabo, estudiando los obstáculos que pueden encontrarse, y planteando la forma de superarlos, la manera de satisfacer necesidades y deseos con recursos disponibles (siempre finitos). ¿Esta definición se relaciona con…?",
+  "respuesta": "Planificar."
+ },
+ {
+  "pregunta": "Recordá las caracteríscas de un proyecto, las de un proceso y las de un producto o servicio. Teniendo en cuenta que te delegan una iniciava para implementar un nuevo sistema informáco con una fecha límite para hacerlo. ¿De qué po de acvidad estamos hablando?",
+  "respuesta": "Proyecto"
+ },
+ {
+  "pregunta": "Recorda las características de un proyecto, las de un proceso y las de un producto o servicio. Teniendo en cuenta que te delegan una iniciativa para abrir una nueva sucursal de atención al cliente con una fecha limite para hacerlo. ¿De que tipo de actividad estamos hablando?",
+  "respuesta": "Proyecto."
+ },
+ {
+  "pregunta": "Según PMI ¿Cuál de las siguientes afirmaciones definen la gestión o dirección de proyectos? Seleccione las respuestas correctas.",
+  "respuesta": "El correcto cumplimiento de sus requisitos – Es la aplicación de conocimientos – Es la aplicación de habilidades y técnicas."
+ },
+ {
+  "pregunta": "Te encomiendan ser el líder de proyectos a través de una reunión informal y un memo. Te detallan en el mismo sucintamente que se espera del mismo. ¿Qué nivel de complejidad tiene el proyecto?",
+  "respuesta": "Alto."
+ },
+ {
+  "pregunta": "Te encomiendan ser el líder de proyectos en un campo en donde no tenés experiencia desarrollada, teniendo en cuenta el eje cartesiano que nos ayuda a evaluar la complejidad de los proyectos ¿Qué nivel de complejidad ene el proyecto?",
+  "respuesta": "Complejo"
+ },
+ {
+  "pregunta": "Trabajás en una compañía financiera que está por desembarcar en CABA con 12 locales a lo largo del próximo año. ¿Se trata de un proyecto simple o complejo?",
+  "respuesta": "Complejo"
+ },
+ {
+  "pregunta": "Trabajás en una compañía financiera que está por lanzar al mercado una billetera virtual y te encomienda liderar la iniciava. ¿Se trata de un proyecto, un porolio, un Producto, un procedimiento o un proceso?",
+  "respuesta": "Proyecto"
  }
 ]
