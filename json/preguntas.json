@@ -1,318 +1,286 @@
 [
  {
-  "pregunta": "¿Cuál de las siguiente opciones es el objevo del grupo de procesos sugeridos por el PMI para la etapa de cierre de todo proyecto?",
-  "respuesta": "Formalizar la finalización del proyecto, donde por supuesto están involucrados todos los interesados que inicialmente definieron la estrategia a cumplir."
- },
- {
-  "pregunta": "¿Cuál de las siguientes afirmaciones no corresponde a un método predictivo?",
-  "respuesta": "Requerimientos poco claros al inicio del plan. No podemos trazar un plan fijo con el cliente."
- },
- {
-  "pregunta": "¿Cuál de los 2 siguientes indicadores nos permirá detectar posibles desvíos en el camino críco del proyecto?",
-  "respuesta": "Entregables del Proyecto; Avance del Proyecto"
- },
- {
-  "pregunta": "¿Cuál de los siguientes es la definición correcta para aquellas actividades que deben documentarse para que el resultado de un proyecto sea sostenible a lo largo del tiempo?",
-  "respuesta": "Proceso."
- },
- {
-  "pregunta": "¿Cuál de los siguientes es la definición correcta para aquellas iniciativas que tienen un objetivo puntual y concreto a desarrollarse en un periodo determinado de tiempo?",
-  "respuesta": "Proyecto."
- },
- {
-  "pregunta": "¿Cuál de los siguientes es la definición correcta para aquellos resultados de un proyecto?",
-  "respuesta": "Producto"
- },
- {
-  "pregunta": "¿Cuál es la naturaleza de los recursos que son utilizados en la gestión de un proyecto?",
-  "respuesta": "Limitados."
- },
- {
-  "pregunta": "¿Cuáles 3 de las siguiente opciones son los objevos del grupo de procesos sugeridos por el PMI para la etapa de ejecución de todo proyecto?",
-  "respuesta": "Coordinar personas y recursos; Realizar las actividades del proyecto conforme al Plan previamente establecido; Gestionar las expectativas de los interesados."
- },
- {
-  "pregunta": "¿Cuáles 3 de los siguientes atributos corresponden con la definición de proyecto?",
-  "respuesta": "Se encuentra compuesto por procesos. - Se trata de un esfuerzo temporal. - Tiene un inicio y un fin."
- },
- {
-  "pregunta": "¿Cuáles 4 de las siguiente opciones son los objevos del grupo de procesos sugeridos por el PMI para la etapa de seguimiento de todo proyecto?",
-  "respuesta": "Monitorear connuamente la salud del proyecto para idenficar áreas que requieran mayor atención; Comparar la evolución del proyecto contra lo planificado y sugerir acciones y medidas cuando se encuentren desvíos significavos; Controlar cambios, y recomendar acciones prevenvas; Monitorear el progreso y el desempeño del proyecto."
- },
- {
-  "pregunta": "¿Cuáles 4 de las siguientes opciones son las clasificaciones de un proyecto según su alcance?",
-  "respuesta": "Internacionales; Locales; Nacionales; Regionales"
- },
- {
-  "pregunta": "¿Cuáles de las siguientes afirmaciones definen un proceso? Seleccione las 3 (tres) respuestas correctas.",
-  "respuesta": "Dispuestos en un determinado orden - Es una secuencia lógica de pasos - Para lograr un determinado resultado"
- },
- {
-  "pregunta": "¿Cuáles de las siguientes opciones forman parte de las características principales que deberá tener un administrador del proyecto para asumir su puesto con éxito?",
-  "respuesta": "Comunicador – Líder – Motivador – Negociador."
- },
- {
-  "pregunta": "¿Cuáles de las siguientes opciones son los objevos del grupo de procesos sugeridos por el PMI para la etapa de planificación de todo proyecto?",
-  "respuesta": "Planificar la distribución de RRHH…; Definir la línea de acción…; Planificar los costos del Proyecto asociados…; Planificar los estándares…"
- },
- {
-  "pregunta": "¿En cuál de las buenas práccas compardas por scrum sirve tener presente un tablero que organice las tareas por hacer, las que están en proceso y las que resta por iniciar?",
-  "respuesta": "Daily Scrums"
- },
- {
-  "pregunta": "Con el equipo estamos registrando las lecciones aprendidas, liberando los recursos, gestionando pagos, actualizando registros, midiendo la satisfacción del cliente. ¿En que grupo de procesos estamos trabajando?",
-  "respuesta": "Procesos de cierre."
- },
- {
-  "pregunta": "Cuál es el grupo de procesos que requiere de todas las áreas de conocimiento presentadas?",
-  "respuesta": "Planificación"
- },
- {
-  "pregunta": "Cuando los proyectos se subclasifican en sociales, educativos, comunitarios, productivos o de investigación ¿A qué tipo de clasificación nos estamos refiriendo?",
-  "respuesta": "Orientación"
- },
- {
-  "pregunta": "De acuerdo a los niveles de mayor o menor claridad y certidumbre, podemos hablar de distintos tipos de proyectos. ¿Cuáles son?",
-  "respuesta": "Complejos, Simples"
- },
- {
-  "pregunta": "El equipo de desarrollo de Scrum esta trabajando en las tareas que han ido eligiendo de la lista de backlog, el spint está por terminar y hay uno de los miembros que aun tiene muchas tareas pendientes y otro que ya termino. Este ultimo ofrece ayudar al otro para que pueda llegar con tiempo a dar los entregables del spint. ¿A que tarea del equipo de desarrollo nos estamos refiriendo en el ejemplo?",
-  "respuesta": "En la planificación de la iteración, cada miembro del equipo se auto - asigna tareas al desarrollar"
- },
- {
-  "pregunta": "El equipo de desarrollo esta analizando que las tareas del backlog que están definidas para el sprint son de alta complejidad, con lo cual son demasiadas para esta etapa. Deben rever la lista y definir cuales podrán efectivamente realizarse. Según esta situación ¿En que etapa esta el equipo de desarrollo?",
-  "respuesta": "Planificación del sprint."
- },
- {
-  "pregunta": "El equipo esta con baja performance, causa de las muchas horas extra y presión, los directivos en lugar de reconocer el esfuerzo exigen mas rapidez en los resultados. Ante esta situación el administrador del proyecto habla con los directivos y consigue que estos reconozcan el exceso de horas y la necesidad de staff de refuerzo para el proyecto, sumado a la promesa de recompensa para su equipo posterior a la presentación del producto. ¿Qué características de líder esta desarrollando en esta ocasión el administrador? Seleccione 4 (cuatro) respuestas correctas.",
-  "respuesta": "Buen negociador - Capacidad de influir en los demás – Motivador – Saber comunicar."
- },
- {
-  "pregunta": "El esfuerzo temporal limitado es una caracterísca de los procesos.",
+  "pregunta": "01 ES POSIBLE QUE UNA VARIABLE DE VALOR ENTERO CONTENGA A UN COMPONENTE DE TIPO STRING.",
   "respuesta": false
  },
  {
-  "pregunta": "El líder de proyecto es quien provee recursos y apoyo para el proyecto. Puede ser interno o externo a la organización y su objevo es promover el proyecto.",
+  "pregunta": "02 EL LENGUAJE DE PROGRAMACION POR DEFECTO PARA PROGRAMAR EN ANDROID ES.",
+  "respuesta": "Android"
+ },
+ {
+  "pregunta": "03 ANDROID ES",
+  "respuesta": "Un sistema operativo"
+ },
+ {
+  "pregunta": "04 EL LENGUAJE PARA PROGRAMAR EN JAVA PARA ANDROID ES INTERPRETADO.",
   "respuesta": false
  },
  {
-  "pregunta": "El objetivo de un proyecto solo es crear productos únicos.",
+  "pregunta": "05 LA INTERFAZ VISUAL DE NUESTRA APLICACIÓN PARA ANDROID SE ALMACENA SIEMPRE EN UN ARCHIVO XML EN LA CARPETA RES\/DRAWABLE\/.",
   "respuesta": false
  },
  {
-  "pregunta": "El product owner esta reunido con dos áreas de la empresa que son sus clientes internos, quienes a su vez desarrollan un servicio para un cliente externo. Están definiendo los requerimientos del producto. Este percibe que entre los clientes internos hay disputas, con lo cual intenta mediar y llegar a un buen acuerdo para ambos clientes internos. Esto permitirá pasar al equipo de desarrollo claridad en la definición y requerimientos para que pueda continuar su trabajo. En este caso el product owner ¿Cuál de sus tareas está desarrollando?",
-  "respuesta": "Canalizar las expectativas de todos los interesados y si hay diferencias entre interesados, resolverla y no trasladarla al equipo."
- },
- {
-  "pregunta": "En la etapa de ejecución de un proyecto ¿cuál de las instancias de la metodología scrum será la que ulizará el tablero Trello permanentemente?",
-  "respuesta": "Daily Scrums"
- },
- {
-  "pregunta": "En la metodología predictiva el equipo debe cumplir lo que diga el plan.",
+  "pregunta": "06 EL USO DE NOTIFICACIONES DE UNA APLICACIÓN DEBE AÑADIRSE EN EL ARCHIVO MANIFEST.XML.",
   "respuesta": true
  },
  {
-  "pregunta": "En los proyectos simples es necesario que el cliente intervenga permanentemente para asegura la calidad del producto, más allá de la complejidad del proyecto.",
+  "pregunta": "07 ¿Cuántas ACTIVITIES HAY EN ESTE PROYECTO?",
+  "respuesta": "1 (Main Activity)"
+ },
+ {
+  "pregunta": "08 onPause() es el método convocado cuando hay una creación de un fragmento. En el se inician los componentes vitale que son resguardados frente a interrupciones.",
   "respuesta": false
  },
  {
-  "pregunta": "Estamos comunicando las actividades a realizar, mejorando el rendimiento del equipo, poniendo en práctica los cambios aceptados, y adquiriendo recursos conforme el plan de compras. ¿En qué grupo de procesos estamos trabajando?",
-  "respuesta": "Procesos de Ejecución"
+  "pregunta": "09 PARA QUE SE USA LA PROPIEDAD ID?",
+  "respuesta": "AGREGAR UN IDENTIFICADOR UNICO A UN COMPONENTE DE LA INTERFAZ."
  },
  {
-  "pregunta": "Estamos decidiendo como se llevará adelante la gestión de los cambios en el proyecto, y definimos quien sería el comité que se aseguraría que se respeten todos los pasos en cada cambio que se apruebe. ¿Que estaríamos definiendo de Gestión de cambios?",
-  "respuesta": "Proceso."
- },
- {
-  "pregunta": "Estamos desarrollando una nueva línea dentro de la planta de producción, el proceso requiere de la intervención de una empresa que haga la limpieza de la misma y cuando la línea este en funcionamiento el mantenimiento de la misma. ¿Qué tipo de interesado es este participante para nuestro proyecto?",
-  "respuesta": "Socios de negocios."
- },
- {
-  "pregunta": "Estamos frente al documento del alcance definido, mirando el todo y decidiendo como lo descompondremos en partes mas pequeñas y manejables, a realizar por el equipo del proyecto para cumplir con los objetivos y crear los entregables requeridos. ¿A cuál de los procesos que componen un plan de gestión de alcance nos estamos refiriendo?",
-  "respuesta": "Creación de la EDT\/WBS"
- },
- {
-  "pregunta": "Estamos trabajando con el equipo del proyecto, analizando las actividades que tendremos que realizar. Advertimos que necesitaremos de la ayuda de un técnico de la planta para saber cuanto tiempo precisamos para poder desarrollar alguna de ellas. ¿A cuál de los procesos de la Planificación de la gestión del cronograma nos estamos refiriendo?",
-  "respuesta": "Estimar la duración de las actividades."
- },
- {
-  "pregunta": "Estas con tu equipo de proyecto analizando los riesgos y definiendo plan de respuestas, definiendo en que puntos se desarrollan planes de contingencia. ¿En que grupo de procesos estarías trabajando?",
-  "respuesta": "Procesos de planificación."
- },
- {
-  "pregunta": "Estas con tu equipo registrando los cambios, mirando la línea del objetivo del proyecto y midiendo el avance y performance, para determinar cómo impacta la desviación según la línea objetivo. ¿En que grupo de procesos estarías trabajando?",
-  "respuesta": "Procesos de monitoreo y control."
- },
- {
-  "pregunta": "Hablando con un amigo nos cuenta que su empresa trabaja con metodologías ágiles. Como no entendemos bien qué significa, le pedimos que nos cuente un poco. Su empresa desarrolla software, pero el no se dedica a la parte técnica de programación, deja eso al equipo de desarrollo. Dice que hay varios roles en su equipo. Él particularmente, es el dueño del backlog, un listado de necesidades y requerimientos. ¿De qué rol de metodología scrum estamos hablando?",
-  "respuesta": "Product Owner"
- },
- {
-  "pregunta": "Javier es contador y lidera los proyectos de una Fintech. Él usa scrum y asevera que, las disntas iteraciones completas de los ciclos de vida adaptavos de sus proyectos complejos se revisan a diario en sus daily scrum.",
-  "respuesta": false
- },
- {
-  "pregunta": "Javier es gerente de operaciones de una empresa financiera y es sponsor de un proyecto que se está desarrollando en dicha compañía ¿Cuáles 3 de las siguientes caracteríscas serán habilidades que necesitará para desempeñar correctamente su función?",
-  "respuesta": "Voz de reemplazo; Visión de Negocio; Promueve Recursos"
- },
- {
-  "pregunta": "Javier es gerente de proyectos de una universidad y debe presentar un proyecto en empo y forma ante el organismo de acreditación para no perder el próximo año académico. ¿Sobre qué aspecto de la planificación deberá prestar atención para evitar demoras en la ejecución del proyecto?",
-  "respuesta": "Camino Crítico"
- },
- {
-  "pregunta": "Javier es líder de proyecto de una empresa de impresión 3D. Le solicitaron una modificación sobre un proyecto que está en ejecución y el debe formalizarla. ¿Qué herramienta le recomendás que ulice para tales fines?",
-  "respuesta": "Planilla de solicitud de cambios."
- },
- {
-  "pregunta": "Javier es líder de proyectos de una Startup y se encuentra en la etapa de ejecución de su primer proyecto asignado. Él tendrá dentro de sus funciones gesonar y lograr la aprobación de los cambios que se requieran por necesidades adicionales surgidas a lo largo del proyecto.",
+  "pregunta": "10 ES IMPRESCINDIBLE COLOCAR UN NOMBRE TANTO AL ACTIVITY NAME COMO A LAYOUT NAME.",
   "respuesta": true
  },
  {
-  "pregunta": "Jorge es administrador de proyectos en una empresa que presta servicios de consultoría educava y establece, como tal, órdenes de trabajo designadas claramente. Él enende que ese eslo de gesón es más producva que aquél en el que las decisiones son colaboravas",
+  "pregunta": "11 ANDROID SOLO ADMITE LA MULTITAREA A PARTIR DE LA VERSION 2.0 EN ADELANTE.",
   "respuesta": false
  },
  {
-  "pregunta": "Jorge es arquitecto y le encomendaron realizar el proyecto de obra de una nueva escuela en su localidad ¿En que etapa del ciclo de vida del proyecto se encuentra trabajando?",
-  "respuesta": "Inicio."
+  "pregunta": "12 ¿Cuál ES LA FUNCION DE LA PROPIEDAD TEXT?",
+  "respuesta": "MOSTRAR EL TEXTO QUE VERA EL USUARIO EN UN COMPONENTE DE TIPO TEXTVIEW."
  },
  {
-  "pregunta": "Jorge es líder de proyectos de una consultora de seguridad e higiene y debe formalizar el incio de un proyecto. ¿Qué herramienta le sugerirías al respecto?",
-  "respuesta": "Acta de constitución"
+  "pregunta": "13 AL DISEÑAR LA INTERFAZ DE UN ACTIVITY, PODEMOS HACER USO DE LAS SIGUIENTES PANTALLA. ¿Qué NOMBRE RECIBEN DICHAS PANTALLAS?",
+  "respuesta": "MODO DISEÑO Y MODO BLUEPRINT"
  },
  {
-  "pregunta": "Jorge lidera los proyectos de una empresa de la industria alimenticia en donde los procesos son claros y estandarizados y en donde los proyectos no revisten mayor complejidad. En los proyectos simples la posibilidad de innovar es:",
-  "respuesta": "Limitada."
- },
- {
-  "pregunta": "José es líder de proyectos de un estudio jurídico y uliza scrum para las iniciavas estratégicas de dicho bufete. ¿Qué soware le recomendás para la gesón de sus tableros kanban en las daily scrums?",
-  "respuesta": "Trello"
- },
- {
-  "pregunta": "José Luis es líder de proyectos de una organización que ene una experiencia negava en gesón de proyectos. ¿Qué actud le recomendás desarrollar para poder avanzar sin inconvenientes en sus próximos desaos?",
-  "respuesta": "Resiliencia"
- },
- {
-  "pregunta": "Josefina lidera los proyectos de la PYME familiar y ella quiere estudiar sobre la metodología PMI porque le facilitará:",
-  "respuesta": "Conocimientos, técnicas y habilidades."
- },
- {
-  "pregunta": "Juan Carlos ene el desao de liderar por primera vez un proyecto de una Pyme familiar a su cargo según los estándares del PMI. Ante su primer proyecto él se encuentra con la necesidad de monitorear la salud del mismo en la instancia de monitoreo y control ¿Qué herramientas le recomendás ulizar?",
-  "respuesta": "Indicadores; Tableros de Control"
- },
- {
-  "pregunta": "Juan Cruz ene una inmobiliaria y se encuentra iniciándose como líder de proyectos en su organización. ¿Qué soware le recomendás que ulice en dicho proceso?",
-  "respuesta": "MS Project."
- },
- {
-  "pregunta": "Juan Cruz es líder de proyectos de un canal televisivo. ÉL ene el proyecto de un nuevo programa que saldrá en prime me y sabe que debe monitorear el control de empos y de costos una vez que el programa inicie. ¿Qué otros 3 aspectos del proyecto deberá monitorear?",
-  "respuesta": "Cambios; Calidad; Recursos"
- },
- {
-  "pregunta": "Juan se encuentra finalizando uno de los proyectos a su cargo y debe pensar en cómo se implementará el mismo en la organización. Es adecuado que él se apoye en el desarrollo de procesos para poder darle la sostenibilidad deseada.",
-  "respuesta": true
- },
- {
-  "pregunta": "Julia es jefa de un equipo de ventas multinivel y se encuentra planificando las acciones del próximo semestre tendientes a lograr posicionar un nuevo producto de la firma a la cual representa ¿En qué etapa del ciclo de vida del proyecto se encuentra trabajando?",
-  "respuesta": "Planificación"
- },
- {
-  "pregunta": "La metodología ágil Scrum es una metodología de gestión de proyectos que brinda:",
-  "respuesta": "Buenas prácticas, Herramientas y roles de gestión."
- },
- {
-  "pregunta": "La planificación es una herramienta perfecta para eliminar todos los riesgos de cualquier proyecto.",
+  "pregunta": "14 DEBUGEAR UN CODIGO EN ANDROID NO ES LO MISMO QUE DEPURARLO.",
   "respuesta": false
  },
  {
-  "pregunta": "Los proyectos complejos son considerados como tales debido al nivel de flexibilidad en el requerimiento de proyecto.",
+  "pregunta": "15 EL CODIGO A CONTINUACION TIENE LA FUNCION DE.. public void onClick(View v) { \/\/ instrucciones a ejecutar } “",
+  "respuesta": "EJECUTAR LAS INSTRUCCIONES AL PULSAR UN BOTON."
+ },
+ {
+  "pregunta": "16 ¿El código A es diferente a los que hace el código B? a) String result = suma + “”; b) String result = String.valueOf(suma);.",
   "respuesta": false
  },
  {
-  "pregunta": "Los proyectos en la actualidad, demandan uno de los siguientes tipos de metodologías de gestión de proyectos:",
-  "respuesta": "Agiles."
+  "pregunta": "17 SI VEMOS ESTA LINEA DE CODIGO, ¿Cómo SE LLAMA EL PROYECTO? Package com.teclab.application01;",
+  "respuesta": "APPLICATION01"
  },
  {
-  "pregunta": "Los proyectos simples son considerados como tales debido al nivel de flexibilidad en el requerimiento de proyecto",
+  "pregunta": "18 CON EL SIGUIENTE CODIGO INDICAMOS TextView texto = (TextView)findViewByld(R.id.texto);",
+  "respuesta": "ASIGNAMOS EL CONTENIDO DEL COMPONENTE TEXTO DE LA INTERFAZ A LA VARIABLE TEXTO."
+ },
+ {
+  "pregunta": "19 ¿Cuál ES LA FUNCION DEL SIGUIENTE CODIGO? Var1.setText(result);",
+  "respuesta": "MUESTRA EL CONTENIDO DE LA VARIABLE RESULT AL USUARIO EN UN COMPONENTE DE LA INTERFAZ CON ID VAR1."
+ },
+ {
+  "pregunta": "20 ¿Qué HACE EL SIGUIENTE INTENT? Public void acercade(View view) { Intent i = new Intent(this, AcercaDe.class ); startActivity(i); }”.",
+  "respuesta": "DIRECCIONARA DE LA ACTIVITY ACTUAL A UN ACTIVITY LLAMADA ACERCADE."
+ },
+ {
+  "pregunta": "21 ES POSIBLE USAR SQLSERVER PARA PERSISTIR DATOS CON ANDROID STUDIO DESDE EL MISMO DISPOSITIVO.",
   "respuesta": false
  },
  {
-  "pregunta": "Los proyectos, en la actualidad, demandan uno de los siguientes pos de gesón de proyectos.",
-  "respuesta": "Metodologías Ágiles"
+  "pregunta": "22 EN CUAL ESTADO DEL ACTIVITY NECESITAMOS HACER LAS INSTRUCCIONES PARA INTERACTUAR CON EL USUARIO.",
+  "respuesta": "onCreate"
  },
  {
-  "pregunta": "Lucas es administrador de proyectos constructivos y debe considerar, a la hora de pensar en proyectos simples, el nivel de conocimiento y detalle sobre el requerimiento, por parte del equipo de trabajo.",
+  "pregunta": "23 ANDROID PUEDE USAR FORMATO JSON GRACIAS A CUAL HERRAMIENTA.",
+  "respuesta": "RETROFIT"
+ },
+ {
+  "pregunta": "24 ES NECESARIO INSTALAR SQLITE EN ANDROID PARA EMPEZAR SU USO",
+  "respuesta": false
+ },
+ {
+  "pregunta": "25 GRADLE ES UNA HERRAMIENTA QUE PERMITE LA COMPILACION DE CODIGO ABIERTO UTILIZANDO SCRIPTS, ESCRITO EN GROOVY O KOTLIN USANDO DSL (DOMAIN SPECIFIC LANGUAGE)",
   "respuesta": true
  },
  {
-  "pregunta": "Lucas es gerente de proyectos de una empresa que fabrica calzados. ¿Cuáles 3 de las siguientes opciones forman parte de las caracteríscas principales que deberá tener para asumir su puesto con éxito?",
-  "respuesta": "Negociador; Comunicador; Líder"
+  "pregunta": "26 ¿Qué HACE EL SIGUIENTE CODIGO? Int variable = 10",
+  "respuesta": "INICIALIZA Y DECLARA UNA VARIABLE DE TIPO ENTERO Y LE ASIGNA 10."
  },
  {
-  "pregunta": "Lucas es gerente de riesgos de una compañía de seguros y se encuentra liderando un nuevo proyecto estratégico para la empresa. Es su primer proyecto de caracteríscas complejas y quiere respetar lo sugerido por la metodlogía PMI. ¿Qué soware le recomendás ulizar para la etapa de planificación?",
-  "respuesta": "MS Project."
+  "pregunta": "Cómo funciona el proceso de autenticación del logueo en una app.?",
+  "respuesta": "El usuario ingresa su contraseña → SDK de Firebase Authentication → backend de Firebase → otorga permiso."
  },
  {
-  "pregunta": "Lucas es gerente de riesgos de una compañía de seguros y se encuentra liderando un proyecto que es muy importante para la compañía por lo que debe asegurar una planificación exitosa del mismo. ¿A qué fuentes de información le recomendás recurrir para lograr una planificación exitosa?",
-  "respuesta": "Observaciones; Entrevistas; Encuestas"
+  "pregunta": "Cómo haríamos las relaciones en Firebase si dentro de la base de datos tuviéramos 2 colecciones (por ejemplo: atletas y chatRooms)?",
+  "respuesta": "{_id: { messages:{0: {content: , date: 05-01-2019, type: “text”} } } }"
  },
  {
-  "pregunta": "Lucas es gerente de riesgos de una compañía de seguros y se encuentra liderando un proyecto que es muy importante para la compañía por lo que debe asegurar una planificación exitosa del mismo. ¿Qué herramienta le recomendás ulizar?",
-  "respuesta": "Diagrama de Gantt"
+  "pregunta": "Cuál de los siguientes es un cliente resrt para Java y Android?",
+  "respuesta": "RETROFIT"
  },
  {
-  "pregunta": "Lucas es gerente de riesgos de una compañía de seguros y uliza la metodología scrum para sus proyectos con ciclos de vida adaptavos. Él asevera que las disntas iteraciones de los ciclos de vida adaptavos equivalen a los sprints de trabajo scrum.",
+  "pregunta": "Cuál de los siguientes suministra una capa de abstración sobre SQLite?",
+  "respuesta": "Room Persistence Library."
+ },
+ {
+  "pregunta": "Cuál es el ecosistema de desarrollo recomendado para desarrollar aplicaciones Android?",
+  "respuesta": "Java y Android Studio"
+ },
+ {
+  "pregunta": "Cuál es el método que se debe utilizar para ejecutar una activity en el hilo secundario?",
+  "respuesta": "doInBackground()."
+ },
+ {
+  "pregunta": "Cuál es el motor de base de datos usado en las aplicaciones sqlite?",
+  "respuesta": "SqlLite"
+ },
+ {
+  "pregunta": "Cuál es la funcionalidad de los broadcast?",
+  "respuesta": "Recibir y enviar mensajes"
+ },
+ {
+  "pregunta": "Cuál es la vía para añadir una plantilla de correo electrónico para que cuando se registre por primera vez un usuario, le llegue un correo de bienvenida?",
+  "respuesta": "Firebase → Proyecto → Autenti cación → Plantilla → Correo electrónico → y seguir las indicaciones."
+ },
+ {
+  "pregunta": "Cuáles de los siguientes elementos son esenciales para el desarrollo en Android?",
+  "respuesta": "JDK, SDK y ADT"
+ },
+ {
+  "pregunta": "Cuáles de los siguientes son métodos para hacer peticiones con retro t?",
+  "respuesta": "Put; Post; Delete; Get"
+ },
+ {
+  "pregunta": "Cuáles de los siguientes son tipos de intents?",
+  "respuesta": "Implícitos; Explícitos"
+ },
+ {
+  "pregunta": "Cuáles son los tres componentes se activan cuando un intent realiza una operación?",
+  "respuesta": "Broadcasts; Services; Activities"
+ },
+ {
+  "pregunta": "Cuando vamos a comenzar a desarrollar nuestra aplicación, es necesario que la misma esté constituida por cheros empaquetados en formato .apx y suscrita en el directorio \/data\/app de Android.",
   "respuesta": true
  },
  {
-  "pregunta": "Lucas es jefe de markeng y ene a cargo un proyecto que representa un desao para su carrera profesional.Se trata de un proyecto cuyo ciclos de vida serán adaptavos ¿cuáles de las siguientes serán caracteríscas que afrontará con este proyecto?",
-  "respuesta": "Complejidad, Poca previsibilidad"
+  "pregunta": "Debemos comenzar a con gurar los permisos de la aplicación que estamos desarrollando. ¿Dónde se deben incluir?",
+  "respuesta": "Manifest.xml"
  },
  {
-  "pregunta": "Masificar los resultados de una operación es uno de los atributos principales de los procesos.",
-  "respuesta": true
+  "pregunta": "Deseamos desarrollar una app. para publicar el trá co del lugar en donde nos encontramos actualmente. ¿Qué permisos debemos tener en nuestra app.?",
+  "respuesta": "Ubicación exacta (basada en red y GPS)."
  },
  {
-  "pregunta": "Patricia es colaboradora de una organización sin fines de lucro y la designaron líder de un proyecto muy importante para la organización. Es por eso que, al iniciar el proyecto quiere dejar bien en claro cuáles son los objevos que ene esta iniciava. ¿Qué herramienta le recomendás?",
-  "respuesta": "Acta de constitución"
+  "pregunta": "Dónde es recomendable ejecutar los async task?",
+  "respuesta": "En Background"
  },
  {
-  "pregunta": "Paula es proveedora de servicios informáticos de Juan, quien trabaja en una empresa que brinda servicios informáticos a grandes empresas y la contrata cuando su equipo propio no da a basto. Paula es para Juan en sus proyectos:",
-  "respuesta": "Socio"
+  "pregunta": "Dónde se deben almacenar los xml de las pantallas de la interfaz grá ca?",
+  "respuesta": "res\/layout"
  },
  {
-  "pregunta": "Pilar es líder de proyectos del equipo de operaciones de una instución educava. Ella sabe que, para presentar la modificación de un proyecto en curso debe presentar un documento que incluya determinada información. Ella recuerda incluir: Fecha de la solicitud, modificación solicitada, impacto en los empos del proyecto. ¿Qué datos más le faltan incluir?",
-  "respuesta": "Firma del sponsor de proyecto; Impacto en los recursos humanos del proyecto; Firma del cliente; Impacto en los costos del proyecto"
+  "pregunta": "En qué tipo de dato se almacenan los shared preferences?",
+  "respuesta": "xml"
  },
  {
-  "pregunta": "Prever escenarios futuros de una idea que consideras viable de ser llevada a cabo, estudiando los obstáculos que pueden encontrarse, y planteando la forma de superarlos, la manera de satisfacer necesidades y deseos con recursos disponibles (siempre finitos). ¿Esta definición se relaciona con…?",
-  "respuesta": "Planificar."
+  "pregunta": "Estamos armando el equipo de desarrolladores para la nueva aplicación en la que estamos trabajando. En el proceso de selección, no es necesario incluir conocimientos en programación Java como parte de los requisitos, ya que no es indispensable para el desarrollo de aplicaciones en Android.",
+  "respuesta": false
  },
  {
-  "pregunta": "Recordá las caracteríscas de un proyecto, las de un proceso y las de un producto o servicio. Teniendo en cuenta que te delegan una iniciava para implementar un nuevo sistema informáco con una fecha límite para hacerlo. ¿De qué po de acvidad estamos hablando?",
-  "respuesta": "Proyecto"
+  "pregunta": "Estamos desarrollando la nueva aplicación que permite revisar el trá co de la ciudad, las opciones de transporte, etc., y estamos comenzando a con gurar las activities de la aplicación ¿Dónde se deben declarar las activities?",
+  "respuesta": "Las activities de una aplicación se deben declarar en el manifest.xml y obligatoriamente dentro del elemento application."
  },
  {
-  "pregunta": "Recorda las características de un proyecto, las de un proceso y las de un producto o servicio. Teniendo en cuenta que te delegan una iniciativa para abrir una nueva sucursal de atención al cliente con una fecha limite para hacerlo. ¿De que tipo de actividad estamos hablando?",
-  "respuesta": "Proyecto."
+  "pregunta": "Estamos desarrollando nuestra aplicación y hemos acordado con el cliente que su app. tenga varios tipos de letras para que el usuario pueda seleccionarlas. Entonces, ¿dónde debemos almacenarlas?",
+  "respuesta": "res\/font"
  },
  {
-  "pregunta": "Según PMI ¿Cuál de las siguientes afirmaciones definen la gestión o dirección de proyectos? Seleccione las respuestas correctas.",
-  "respuesta": "El correcto cumplimiento de sus requisitos – Es la aplicación de conocimientos – Es la aplicación de habilidades y técnicas."
+  "pregunta": "Estamos desarrollando una aplicación para una importante red de supermercados. El cliente nos ha pedido crear dos interfaces de usuario en la misma aplicación. ¿Qué deberíamos realizar para cumplir con este requerimiento?",
+  "respuesta": "Dos fragment y una activity. ( un mismo evento, es decir una activity y \nal ser dos interfaces, serían dos fragmentos.)"
  },
  {
-  "pregunta": "Te encomiendan ser el líder de proyectos a través de una reunión informal y un memo. Te detallan en el mismo sucintamente que se espera del mismo. ¿Qué nivel de complejidad tiene el proyecto?",
-  "respuesta": "Alto."
+  "pregunta": "Estamos desarrollando una aplicación, pero se ha detectado un error y es que el sistema no encuentra el componente a usar cuando se es invocado por la aplicación. En este caso, ¿qué hace el sistema?",
+  "respuesta": "Manda mensaje al usuario"
  },
  {
-  "pregunta": "Te encomiendan ser el líder de proyectos en un campo en donde no tenés experiencia desarrollada, teniendo en cuenta el eje cartesiano que nos ayuda a evaluar la complejidad de los proyectos ¿Qué nivel de complejidad ene el proyecto?",
-  "respuesta": "Complejo"
+  "pregunta": "Estamos desarrollando una aplicación, pero se ha detectado un error y es que el sistema no encuentra el componente a usar cuando se es invocado por la aplicación. En este caso, ¿qué hace el sistema?",
+  "respuesta": "Manda un mensaje al usuario"
  },
  {
-  "pregunta": "Trabajás en una compañía financiera que está por desembarcar en CABA con 12 locales a lo largo del próximo año. ¿Se trata de un proyecto simple o complejo?",
-  "respuesta": "Complejo"
+  "pregunta": "Estamos haciendo la estructura de nuestro proyecto para comenzar a desarrollar una aplicación para nuestro nuevo cliente. Una parte de los elementos principales que debemos considerar son los módulos, ¿qué nos permiten?",
+  "respuesta": "Incluir aplicaciones distintas"
  },
  {
-  "pregunta": "Trabajás en una compañía financiera que está por lanzar al mercado una billetera virtual y te encomienda liderar la iniciava. ¿Se trata de un proyecto, un porolio, un Producto, un procedimiento o un proceso?",
-  "respuesta": "Proyecto"
+  "pregunta": "La Gobernación de la Provincia de Buenos Aires desea expandir su comunicación constante con sus ciudadanos, por lo que ya se cuenta con una aplicación móvil, pero desean interactuar más y directamente en vivo (real time), ¿cuál sería la mejor opción para ello?",
+  "respuesta": "Cloud Messaging (FCM). Conocido como Firebase Cloud Messaging (FCM)"
+ },
+ {
+  "pregunta": "La librería android.os es una API. ¿Para qué sirve? ",
+  "respuesta": "“Comunicación entre otros procesos”, “Acceso para el paso de mensajes” y “Funciones de reloj”"
+ },
+ {
+  "pregunta": "Necesitamos hacer la primera simulación de nuestra aplicación para mostrar al gerente del proyecto. ¿Cuál componente de Android Studio es vital para simular dispositivos Android?",
+  "respuesta": "AVD"
+ },
+ {
+  "pregunta": "Nuestro cliente nos ha solicitado que siempre que un usuario inicie la aplicación aparezca un mensaje de bienvenida. Para ello, debemos almacenar este valor en:",
+  "respuesta": "Shared Preference"
+ },
+ {
+  "pregunta": "Para que podamos validarnos dentro de una base de datos real time como Firebase, ¿qué debemos hacer primero?",
+  "respuesta": "Dirigirnos a Authentication → Método Acceso → elegir cual (es) servicio (s) usar."
+ },
+ {
+  "pregunta": "Precisamos de una aplicación para hacer el llamado al contenido del registro de llamadas. ¿Cómo debemos iniciar este requerimiento?",
+  "respuesta": "Instanciando un elemento intent."
+ },
+ {
+  "pregunta": "Precisamos de una aplicación para hacer el llamado al contenido del registro de llamadas. ¿Cómo debemos iniciar este requerimiento?",
+  "respuesta": "Instanciando un elemento intent"
+ },
+ {
+  "pregunta": "Qué se entiende por Gradle?",
+  "respuesta": "Sistema de automatización de construcción de código abierto."
+ },
+ {
+  "pregunta": "Qué servicio nos proporciona Firebase Storage?",
+  "respuesta": "Brinda la posibilidad de cargas y descargas de forma segura de archivos para aplicaciones en la nube."
+ },
+ {
+  "pregunta": "Se ha levantado un requerimiento de un cliente, que es promover el aprendizaje a distancia de manera portable, interactivo y sin necesidad de estar conectado a internet al momento en que se necesite usar. ¿Qué le sugerirías al cliente para este requerimiento?",
+  "respuesta": "Hacer una aplicación mobile para Android."
+ },
+ {
+  "pregunta": "Se necesita crear un archivo de preferencias llamado credenciales, para una aplicación, el cual solo podrá ser utilizado por la misma aplicación. ¿Cómo desarrollaríamos este código?",
+  "respuesta": "SharedPreferences preferences = getSharedPreferences(\"\"credenciales\"\", Context.MODE_PRIVATE);."
+ },
+ {
+  "pregunta": "Si deseamos que la aplicación que estamos desarrollando en Android Studio sea compatible con el 100 % de los dispositivos, ¿cuál es el nivel de API a usar?",
+  "respuesta": "Nivel 15"
+ },
+ {
+  "pregunta": "Si vamos a con gurar nuestra aplicación para integrar Firebase en Android, ¿qué parte del código generado en Android Studio, cuando creamos un proyecto nuevo, debemos cambiar (agregar)?",
+  "respuesta": "Firebase → Proyecto → Agergar App → Registrar App → Descargar Con guración → Agregar SDK de Firebase (y seguir las indicaciones)."
+ },
+ {
+  "pregunta": "Un cliente al que le hemos realizado una app., nos pide que la aplicación, una vez que se vuelva a iniciar, continúe en el estado anterior en que estaba, ¿cuál estado debemos usar?",
+  "respuesta": "onResume"
+ },
+ {
+  "pregunta": "Un cliente había oído sobre la base de datos NoSql (BD) y le pareció interesante, ya que él en su negocio ha tenido que comprar software en donde se maneja una base de datos relacionales y está un poco más familiarizado con su uso y estructura. Por tal razón, desea ampliar la gama de servicios de su negocio. Él desea tener más información al respecto sobre BD NoSql a nivel de estructura. ¿Cómo se lo explicaríamos con una analogía? ",
+  "respuesta": "Base datos = base datos, colección = tabla, documento = fila y campo = columna."
+ },
+ {
+  "pregunta": "Un cliente nos mani esta que la aplicación que hemos desarrollado está mucho tiempo ejecutando una tarea especí ca, ¿qué debemos veri car para conocer la causa?",
+  "respuesta": "Las activities en el main thread."
+ },
+ {
+  "pregunta": "Un cliente nos pide que la aplicación que hemos desarrollado actualice su contenido desde la nube una vez que esta vuelva del estado minimizado (background). ¿En cuál estado del ciclo de vida de la activity debes generar este proceso?",
+  "respuesta": "onResume"
+ },
+ {
+  "pregunta": "Un cliente nos pide una aplicación con 3 interfaces y sus respectivos botones de acción por cada interfaz, para comunicarse entre las diferentes interfaces, ¿Cómo resolveríamos esta situación?",
+  "respuesta": "3 Activities y 9 Intents."
+ },
+ {
+  "pregunta": "Vamos a hacer la primera reunión de seguimiento con nuestro equipo de desarrollo para validar que la aplicación que estamos desarrollando funcione adecuadamente, antes de mostrársela al cliente. Si vamos a realizar la primera prueba de nuestra aplicación para ver si funciona correctamente, ¿qué debemos hacer?",
+  "respuesta": "Usar el emulador Android de nuestro entorno de trabajo."
  }
 ]
